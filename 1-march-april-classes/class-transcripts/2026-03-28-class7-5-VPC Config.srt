@@ -1,0 +1,6975 @@
+1
+00:00:01,040 --> 00:00:02,720
+This meeting is being recorded
+
+2
+00:00:02,720 --> 00:00:05,600
+>> 10 times a day to people.
+
+3
+00:00:05,600 --> 00:00:07,919
+Uh, next installs. Everyone should have
+
+4
+00:00:07,919 --> 00:00:09,920
+GCP account fully configured. They
+
+5
+00:00:09,920 --> 00:00:12,480
+should have G-Cloud initialized. They
+
+6
+00:00:12,480 --> 00:00:15,679
+should have VS Code with the extensions.
+
+7
+00:00:15,679 --> 00:00:17,440
+All of this stuff should be done. If it
+
+8
+00:00:17,440 --> 00:00:19,279
+isn't, I don't know how you're in Zoom
+
+9
+00:00:19,279 --> 00:00:21,199
+right now because you shouldn't be in
+
+10
+00:00:21,199 --> 00:00:23,199
+Zion.
+
+11
+00:00:23,199 --> 00:00:26,480
+Uh, next, sharing stuff. So, sharing
+
+12
+00:00:26,480 --> 00:00:29,039
+invite links, sharing passcodes, sharing
+
+13
+00:00:29,039 --> 00:00:32,320
+Zoom links, don't do any of that.
+
+14
+00:00:32,320 --> 00:00:34,480
+You're liable to get banned. And that'll
+
+15
+00:00:34,480 --> 00:00:38,079
+be Theo doing the banning. Uh, after
+
+16
+00:00:38,079 --> 00:00:42,000
+that, homework. So, Theo did list off
+
+17
+00:00:42,000 --> 00:00:45,520
+some Udemy sections, which I had
+
+18
+00:00:45,520 --> 00:00:47,600
+mentioned those sections earlier this
+
+19
+00:00:47,600 --> 00:00:50,559
+week, too. Uh, hope you guys are doing
+
+20
+00:00:50,559 --> 00:00:53,680
+those cuz just showing up to class isn't
+
+21
+00:00:53,680 --> 00:00:57,039
+enough. group leaders will start setting
+
+22
+00:00:57,039 --> 00:00:59,359
+a pace for going through the UNME and
+
+23
+00:00:59,359 --> 00:01:02,399
+PCA prep as well.
+
+24
+00:01:02,399 --> 00:01:05,920
+Um, finally, I saw some weird Zoom
+
+25
+00:01:05,920 --> 00:01:08,720
+names. Hopefully those guys fixed them.
+
+26
+00:01:08,720 --> 00:01:10,159
+I should be able to connect your Zoom
+
+27
+00:01:10,159 --> 00:01:13,040
+name to your Facebook profile name.
+
+28
+00:01:13,040 --> 00:01:16,080
+Uh if if not then
+
+29
+00:01:16,080 --> 00:01:19,680
+you know it's confusing like
+
+30
+00:01:19,680 --> 00:01:23,200
+uh just looking at it right now I don't
+
+31
+00:01:23,200 --> 00:01:26,240
+know if that Bob Okay Bob just fixed his
+
+32
+00:01:26,240 --> 00:01:28,880
+perfect and then
+
+33
+00:01:28,880 --> 00:01:32,320
+I don't know who that is
+
+34
+00:01:32,320 --> 00:01:34,479
+going down
+
+35
+00:01:34,479 --> 00:01:37,280
+let's see
+
+36
+00:01:37,280 --> 00:01:40,720
+just John I don't really know who that
+
+37
+00:01:40,720 --> 00:01:43,720
+is
+
+38
+00:01:43,759 --> 00:01:46,759
+um
+
+39
+00:01:49,520 --> 00:01:54,079
+let's see who's this Robbo guy
+
+40
+00:01:54,079 --> 00:01:56,880
+>> random.
+
+41
+00:01:56,880 --> 00:01:59,040
+>> All right, that looks pretty good for
+
+42
+00:01:59,040 --> 00:02:02,439
+the Zoom names.
+
+43
+00:02:02,719 --> 00:02:05,360
+So that's everything everything I had to
+
+44
+00:02:05,360 --> 00:02:08,680
+yap about.
+
+45
+00:02:14,800 --> 00:02:17,120
+I guess questions. If you have questions
+
+46
+00:02:17,120 --> 00:02:21,440
+about the announcements or
+
+47
+00:02:21,440 --> 00:02:25,480
+something with groups,
+
+48
+00:02:30,720 --> 00:02:33,040
+I got a question. So, for the
+
+49
+00:02:33,040 --> 00:02:35,040
+deliverables, I did everything for the
+
+50
+00:02:35,040 --> 00:02:37,360
+install. I forgot to screenshot those
+
+51
+00:02:37,360 --> 00:02:40,400
+and put those inside my group. How will
+
+52
+00:02:40,400 --> 00:02:43,280
+I be able to get back to that?
+
+53
+00:02:43,280 --> 00:02:45,920
+>> So, your deliverables aren't done.
+
+54
+00:02:45,920 --> 00:02:48,480
+>> No, like I did everything like the this
+
+55
+00:02:48,480 --> 00:02:49,920
+was on the sheet, whatever the case may
+
+56
+00:02:49,920 --> 00:02:51,440
+be. I just didn't screenshot it and put
+
+57
+00:02:51,440 --> 00:02:54,920
+inside the group chat.
+
+58
+00:02:55,599 --> 00:02:59,120
+Well, let's check something because if
+
+59
+00:02:59,120 --> 00:03:03,560
+you didn't have your installs done,
+
+60
+00:03:04,400 --> 00:03:06,319
+>> so I did all the installs if that's what
+
+61
+00:03:06,319 --> 00:03:07,280
+you're talking about.
+
+62
+00:03:07,280 --> 00:03:08,720
+>> But you you've been in the group for
+
+63
+00:03:08,720 --> 00:03:11,200
+three years.
+
+64
+00:03:11,200 --> 00:03:13,920
+>> So you can't join you can't join Zion
+
+65
+00:03:13,920 --> 00:03:16,640
+twice, right?
+
+66
+00:03:16,640 --> 00:03:18,640
+>> Right. So I got everything.
+
+67
+00:03:18,640 --> 00:03:20,560
+>> So did you read the pinned message in
+
+68
+00:03:20,560 --> 00:03:23,879
+the group chat?
+
+69
+00:03:24,879 --> 00:03:26,159
+Yes, exactly.
+
+70
+00:03:26,159 --> 00:03:27,840
+>> Okay. So, then you skipped the section
+
+71
+00:03:27,840 --> 00:03:31,280
+where it said prior students don't have
+
+72
+00:03:31,280 --> 00:03:34,760
+to submit deliverables.
+
+73
+00:03:35,040 --> 00:03:35,920
+>> Okay.
+
+74
+00:03:35,920 --> 00:03:38,159
+>> Right.
+
+75
+00:03:38,159 --> 00:03:41,040
+>> Answer my question. Okay.
+
+76
+00:03:41,040 --> 00:03:42,640
+>> You guys got to read the pin message at
+
+77
+00:03:42,640 --> 00:03:44,560
+least once. It hasn't changed in like a
+
+78
+00:03:44,560 --> 00:03:47,200
+week.
+
+79
+00:03:47,200 --> 00:03:48,959
+I get if it maybe if it was changing
+
+80
+00:03:48,959 --> 00:03:50,959
+every day, you guys be it's kind of hard
+
+81
+00:03:50,959 --> 00:03:52,480
+to keep up.
+
+82
+00:03:52,480 --> 00:03:55,519
+But that's been in there for like since
+
+83
+00:03:55,519 --> 00:03:59,560
+the beginning of the group chat.
+
+84
+00:04:04,400 --> 00:04:06,159
+I already forgot how to say your name.
+
+85
+00:04:06,159 --> 00:04:09,159
+Estress.
+
+86
+00:04:09,360 --> 00:04:11,680
+>> Yes. Estras.
+
+87
+00:04:11,680 --> 00:04:13,920
+>> Got it. What's up
+
+88
+00:04:13,920 --> 00:04:18,400
+>> about the groups and the signing sheet?
+
+89
+00:04:18,400 --> 00:04:20,639
+Where can I find it?
+
+90
+00:04:20,639 --> 00:04:22,479
+You find it in Zion.
+
+91
+00:04:22,479 --> 00:04:24,400
+>> In Zion,
+
+92
+00:04:24,400 --> 00:04:26,880
+>> we put everything important in the
+
+93
+00:04:26,880 --> 00:04:30,360
+feature tab,
+
+94
+00:04:31,440 --> 00:04:36,040
+>> which is also the end message.
+
+95
+00:04:49,600 --> 00:04:51,199
+Sorry, I'm not I'm not laughing at you
+
+96
+00:04:51,199 --> 00:04:52,800
+guys. I'm laughing at my admits. That's
+
+97
+00:04:52,800 --> 00:04:55,800
+all.
+
+98
+00:04:55,840 --> 00:04:57,840
+>> Okay. I mean, I'm sorry. We're not
+
+99
+00:04:57,840 --> 00:04:59,600
+Denil. [ __ ]
+
+100
+00:04:59,600 --> 00:05:02,320
+>> No, no, no. I'm laughing what Julian
+
+101
+00:05:02,320 --> 00:05:05,919
+said about Serge and uh and uh the
+
+102
+00:05:05,919 --> 00:05:09,280
+Indians. That was a funny comment.
+
+103
+00:05:09,280 --> 00:05:10,800
+What are they going?
+
+104
+00:05:10,800 --> 00:05:14,960
+>> I mean I I mean that hopefully as time
+
+105
+00:05:14,960 --> 00:05:16,880
+marches on that's going to be the way
+
+106
+00:05:16,880 --> 00:05:20,320
+that uh someone graduates from the class
+
+107
+00:05:20,320 --> 00:05:21,759
+if
+
+108
+00:05:21,759 --> 00:05:24,639
+>> if they can take if they can make an
+
+109
+00:05:24,639 --> 00:05:27,440
+Indian not have a job
+
+110
+00:05:27,440 --> 00:05:31,440
+by superiority of knowing what they're
+
+111
+00:05:31,440 --> 00:05:33,440
+doing then maybe that's a badge of
+
+112
+00:05:33,440 --> 00:05:36,080
+honor. How many Indian scalps can you
+
+113
+00:05:36,080 --> 00:05:39,039
+get out of the office? I would say I
+
+114
+00:05:39,039 --> 00:05:40,639
+want
+
+115
+00:05:40,639 --> 00:05:43,680
+Oh, Theo. No, Theo. The Theo. No, you're
+
+116
+00:05:43,680 --> 00:05:45,440
+not gonna say that. No.
+
+117
+00:05:45,440 --> 00:05:47,280
+>> What? You want Indian Scouts for for
+
+118
+00:05:47,280 --> 00:05:48,880
+your next birthday? Okay.
+
+119
+00:05:48,880 --> 00:05:52,840
+>> No. No. That's
+
+120
+00:05:54,800 --> 00:05:58,639
+God. I'm so bad.
+
+121
+00:05:58,639 --> 00:05:59,840
+I wanted
+
+122
+00:05:59,840 --> 00:06:02,400
+>> Bash. It's not I I don't I don't blame
+
+123
+00:06:02,400 --> 00:06:04,720
+him. I mean, Theo does, you know, Theo
+
+124
+00:06:04,720 --> 00:06:06,400
+may want some curry chicken once in a
+
+125
+00:06:06,400 --> 00:06:09,199
+while. He likes curry. He's from Japan.
+
+126
+00:06:09,199 --> 00:06:12,319
+He's Japanese inside. He wants curry.
+
+127
+00:06:12,319 --> 00:06:13,199
+Curry here.
+
+128
+00:06:13,199 --> 00:06:15,759
+>> He wants curry. Right. Right. So, we
+
+129
+00:06:15,759 --> 00:06:17,520
+need to bring in more Indian scouts for
+
+130
+00:06:17,520 --> 00:06:18,000
+more curry.
+
+131
+00:06:18,000 --> 00:06:22,160
+>> No, no, no. What I was thinking was,
+
+132
+00:06:22,160 --> 00:06:25,360
+you know, like what is it? Like every
+
+133
+00:06:25,360 --> 00:06:28,160
+time you hear a bell, an angel catch his
+
+134
+00:06:28,160 --> 00:06:29,199
+wings.
+
+135
+00:06:29,199 --> 00:06:31,600
+>> Yes. What I wanted was
+
+136
+00:06:31,600 --> 00:06:34,319
+>> um at the graduation ceremony at at the
+
+137
+00:06:34,319 --> 00:06:36,160
+conclave
+
+138
+00:06:36,160 --> 00:06:40,240
+uh we'd have an effigy of an Indian and
+
+139
+00:06:40,240 --> 00:06:44,880
+every time one of us gets graduates the
+
+140
+00:06:44,880 --> 00:06:48,400
+effigy gets teabagged by Chewbacca.
+
+141
+00:06:48,400 --> 00:06:49,840
+>> Oh god.
+
+142
+00:06:49,840 --> 00:06:52,400
+>> I know that was pretty pretty gracious.
+
+143
+00:06:52,400 --> 00:06:54,880
+>> Let's not let's not go Indiana Jones.
+
+144
+00:06:54,880 --> 00:06:56,800
+Okay, we don't need to do that.
+
+145
+00:06:56,800 --> 00:07:01,120
+I was thinking that I was thinko
+
+146
+00:07:01,120 --> 00:07:04,800
+if they take video of that.
+
+147
+00:07:04,800 --> 00:07:06,880
+>> Yeah, let's let's let's not Okay, you
+
+148
+00:07:06,880 --> 00:07:08,880
+you you you could you could you can do
+
+149
+00:07:08,880 --> 00:07:11,120
+that. You you can host a private
+
+150
+00:07:11,120 --> 00:07:14,479
+session, a breakout session where you
+
+151
+00:07:14,479 --> 00:07:16,400
+can host a breakout session for that.
+
+152
+00:07:16,400 --> 00:07:19,400
+Okay.
+
+153
+00:07:21,919 --> 00:07:23,919
+>> All right.
+
+154
+00:07:23,919 --> 00:07:27,039
+So, I just got done with a big ride and
+
+155
+00:07:27,039 --> 00:07:31,840
+I still have not used my car, but that I
+
+156
+00:07:31,840 --> 00:07:33,039
+thought the ride was going to be a lot
+
+157
+00:07:33,039 --> 00:07:34,800
+easier. It was not. That That was a
+
+158
+00:07:34,800 --> 00:07:36,800
+vicious hill.
+
+159
+00:07:36,800 --> 00:07:40,479
+Oh god, that was a hard hill. So, I'm a
+
+160
+00:07:40,479 --> 00:07:44,800
+little messed up right now. Anyway,
+
+161
+00:07:44,800 --> 00:07:47,360
+uh what are we going to do with you guys
+
+162
+00:07:47,360 --> 00:07:50,160
+today? We want to do class. You guys
+
+163
+00:07:50,160 --> 00:07:51,840
+sure you want to do class?
+
+164
+00:07:51,840 --> 00:07:54,080
+>> No. Well, they maybe just want they
+
+165
+00:07:54,080 --> 00:07:55,440
+maybe just they just want to hang out
+
+166
+00:07:55,440 --> 00:08:00,080
+with you, Dio. Just want to part way.
+
+167
+00:08:00,080 --> 00:08:03,039
+>> Yeah, just Yeah, just just hang out.
+
+168
+00:08:03,039 --> 00:08:05,360
+>> Chat about where where you want to move
+
+169
+00:08:05,360 --> 00:08:08,240
+next, you know, cuz I know you I know
+
+170
+00:08:08,240 --> 00:08:09,520
+you're just spinning the globe and
+
+171
+00:08:09,520 --> 00:08:11,440
+picking a random country at this point.
+
+172
+00:08:11,440 --> 00:08:13,039
+So maybe that maybe that's what they
+
+173
+00:08:13,039 --> 00:08:14,319
+want to talk about.
+
+174
+00:08:14,319 --> 00:08:16,720
+>> Um what what do I want next? I don't
+
+175
+00:08:16,720 --> 00:08:18,000
+know.
+
+176
+00:08:18,000 --> 00:08:20,800
+>> You want you want chicken k. That's what
+
+177
+00:08:20,800 --> 00:08:22,879
+you want.
+
+178
+00:08:22,879 --> 00:08:26,960
+I do I do want chicken cut. Um
+
+179
+00:08:26,960 --> 00:08:29,840
+okay guys, so welcome to Saturday class.
+
+180
+00:08:29,840 --> 00:08:32,640
+Um so one of the things as Aaron was
+
+181
+00:08:32,640 --> 00:08:34,640
+talking about if you look at the repo
+
+182
+00:08:34,640 --> 00:08:36,560
+you'll see there's homework right here.
+
+183
+00:08:36,560 --> 00:08:40,560
+MD. Okay. I still haven't changed this.
+
+184
+00:08:40,560 --> 00:08:43,519
+So I screwed this one up. So this is the
+
+185
+00:08:43,519 --> 00:08:45,839
+UDMI and this is the homework and this
+
+186
+00:08:45,839 --> 00:08:47,839
+is the UDMI and this is the homework for
+
+187
+00:08:47,839 --> 00:08:51,200
+it as well. Okay. I need to go edit it.
+
+188
+00:08:51,200 --> 00:08:53,680
+So, make sure you guys um do your
+
+189
+00:08:53,680 --> 00:08:57,399
+homework and submit it.
+
+190
+00:09:00,800 --> 00:09:03,600
+Well done.
+
+191
+00:09:03,600 --> 00:09:05,680
+Did you say I sound like your dad?
+
+192
+00:09:05,680 --> 00:09:09,680
+Uhhill both ways. No, no, no, no. It was
+
+193
+00:09:09,680 --> 00:09:15,200
+uphill one way, but that uphill is epic.
+
+194
+00:09:15,200 --> 00:09:18,160
+It's an epic uphill.
+
+195
+00:09:18,160 --> 00:09:21,839
+So, I'm dead.
+
+196
+00:09:22,320 --> 00:09:25,040
+I don't even know why I did that. Oh, I
+
+197
+00:09:25,040 --> 00:09:26,399
+didn't I didn't want to spend anybody on
+
+198
+00:09:26,399 --> 00:09:28,080
+gas.
+
+199
+00:09:28,080 --> 00:09:30,880
+Hold on.
+
+200
+00:09:30,880 --> 00:09:33,120
+>> How much is gas?
+
+201
+00:09:33,120 --> 00:09:34,320
+>> I don't know. I haven't bought it since
+
+202
+00:09:34,320 --> 00:09:36,880
+the war started.
+
+203
+00:09:36,880 --> 00:09:39,120
+>> So,
+
+204
+00:09:39,120 --> 00:09:43,600
+rich man doesn't want to buy gas.
+
+205
+00:09:43,600 --> 00:09:46,080
+>> No. Well, it I don't want to buy It's I
+
+206
+00:09:46,080 --> 00:09:48,640
+got cardio, right? I mean, it's pretty
+
+207
+00:09:48,640 --> 00:09:53,360
+big cardio. do it. So, got that done.
+
+208
+00:09:53,360 --> 00:09:55,120
+It's
+
+209
+00:09:55,120 --> 00:09:58,080
+uh Okay. So, anyway, this is your
+
+210
+00:09:58,080 --> 00:10:00,080
+homework right here. So, just make sure
+
+211
+00:10:00,080 --> 00:10:04,480
+you guys do it. Okay. Um
+
+212
+00:10:04,480 --> 00:10:09,920
+let's go over here to uh Google. Okay.
+
+213
+00:10:09,920 --> 00:10:12,800
+And we'll go ahead and talk about
+
+214
+00:10:12,800 --> 00:10:14,560
+uh
+
+215
+00:10:14,560 --> 00:10:17,760
+what they call a VPC. And a VPC is what
+
+216
+00:10:17,760 --> 00:10:20,560
+we call a virtual private cloud. And
+
+217
+00:10:20,560 --> 00:10:22,079
+that's going to be your network that you
+
+218
+00:10:22,079 --> 00:10:26,000
+can use within the cloud. Okay. So, in
+
+219
+00:10:26,000 --> 00:10:27,839
+order to get there, hold on. Is
+
+220
+00:10:27,839 --> 00:10:30,560
+everybody open up your consoles? I need
+
+221
+00:10:30,560 --> 00:10:31,920
+you to open up your console. This this
+
+222
+00:10:31,920 --> 00:10:33,760
+is a pretty intensive thing you guys
+
+223
+00:10:33,760 --> 00:10:37,120
+need to be doing right here. Okay.
+
+224
+00:10:37,120 --> 00:10:38,480
+Wait for you guys to open your consoles
+
+225
+00:10:38,480 --> 00:10:41,279
+up.
+
+226
+00:10:41,279 --> 00:10:44,279
+Uh,
+
+227
+00:10:44,959 --> 00:10:47,600
+right.
+
+228
+00:11:11,440 --> 00:11:13,120
+All right,
+
+229
+00:11:13,120 --> 00:11:15,760
+everybody. Good. All right.
+
+230
+00:11:15,760 --> 00:11:18,079
+All right. So,
+
+231
+00:11:18,079 --> 00:11:19,600
+I want you to do is going to go go to
+
+232
+00:11:19,600 --> 00:11:22,640
+the search bar and type in VPC networks
+
+233
+00:11:22,640 --> 00:11:26,240
+or just VPC. That's fine. Click on VPC
+
+234
+00:11:26,240 --> 00:11:29,120
+right here is on drop down and you will
+
+235
+00:11:29,120 --> 00:11:33,120
+go to your uh VPC area. I'm going to go
+
+236
+00:11:33,120 --> 00:11:35,760
+ahead and turn Oh, there's a six rule in
+
+237
+00:11:35,760 --> 00:11:39,519
+here. Interesting. Okay.
+
+238
+00:11:39,519 --> 00:11:43,600
+Ah, now I know how this works. Okay. So
+
+239
+00:11:43,600 --> 00:11:46,480
+I'll add that that this is where you
+
+240
+00:11:46,480 --> 00:11:49,680
+have you create your VPC or your virtual
+
+241
+00:11:49,680 --> 00:11:51,200
+network
+
+242
+00:11:51,200 --> 00:11:53,680
+um for you to do your own computing or
+
+243
+00:11:53,680 --> 00:11:56,880
+to do your work in. When you did your VM
+
+244
+00:11:56,880 --> 00:11:59,120
+last for the last two weeks, you were
+
+245
+00:11:59,120 --> 00:12:01,519
+using the default VPC which is right
+
+246
+00:12:01,519 --> 00:12:04,880
+here. And basically in the office you
+
+247
+00:12:04,880 --> 00:12:07,279
+are not supposed to be using a a virtual
+
+248
+00:12:07,279 --> 00:12:08,560
+sorry you're not supposed to use your
+
+249
+00:12:08,560 --> 00:12:12,160
+default VPC. It's very poor planning and
+
+250
+00:12:12,160 --> 00:12:13,200
+it's just not what you're supposed to
+
+251
+00:12:13,200 --> 00:12:17,360
+do. So, if you go over here and then you
+
+252
+00:12:17,360 --> 00:12:19,360
+go, this is your default. I'm just
+
+253
+00:12:19,360 --> 00:12:20,959
+showing you what default is, right? You
+
+254
+00:12:20,959 --> 00:12:23,440
+click on default and then I go to
+
+255
+00:12:23,440 --> 00:12:25,600
+subnets.
+
+256
+00:12:25,600 --> 00:12:29,200
+This shows you the default subnets uh
+
+257
+00:12:29,200 --> 00:12:31,839
+that are being used everywhere uh within
+
+258
+00:12:31,839 --> 00:12:35,440
+GCP. Now, these are default. These come
+
+259
+00:12:35,440 --> 00:12:39,200
+for free for you uh to use within your
+
+260
+00:12:39,200 --> 00:12:42,000
+account. But uh in the office we never
+
+261
+00:12:42,000 --> 00:12:44,560
+use the default just not the way it is.
+
+262
+00:12:44,560 --> 00:12:45,920
+But I just want to say that they they
+
+263
+00:12:45,920 --> 00:12:48,800
+are there. Okay. And they are the same
+
+264
+00:12:48,800 --> 00:12:50,880
+for all accounts.
+
+265
+00:12:50,880 --> 00:12:55,279
+All right. So we need to talk about how
+
+266
+00:12:55,279 --> 00:12:59,760
+we plan a network and how we design one.
+
+267
+00:12:59,760 --> 00:13:01,360
+Okay. This is kind of an important thing
+
+268
+00:13:01,360 --> 00:13:04,320
+to do. So let's do this real quick.
+
+269
+00:13:04,320 --> 00:13:07,320
+Okay.
+
+270
+00:13:08,320 --> 00:13:12,639
+Um, what I need you to do is to pull up
+
+271
+00:13:12,639 --> 00:13:15,639
+RFC
+
+272
+00:13:15,680 --> 00:13:18,320
+1918.
+
+273
+00:13:18,320 --> 00:13:21,320
+Okay.
+
+274
+00:13:21,680 --> 00:13:23,519
+So, how many people in the class have
+
+275
+00:13:23,519 --> 00:13:28,160
+never heard of RFC 1918 before?
+
+276
+00:13:28,160 --> 00:13:29,600
+Put a one in the chat if you've never
+
+277
+00:13:29,600 --> 00:13:33,079
+heard of this before.
+
+278
+00:13:36,160 --> 00:13:38,160
+DeAndre, you were in class yesterday.
+
+279
+00:13:38,160 --> 00:13:42,279
+You heard of RFC 1918.
+
+280
+00:13:46,399 --> 00:13:48,079
+Come on.
+
+281
+00:13:48,079 --> 00:13:52,800
+All right. So, RFC1918 specifies
+
+282
+00:13:52,800 --> 00:13:55,279
+what a public
+
+283
+00:13:55,279 --> 00:13:58,399
+network is versus a private network. A
+
+284
+00:13:58,399 --> 00:14:01,199
+private network is designated or
+
+285
+00:14:01,199 --> 00:14:05,279
+reserved by these network spaces.
+
+286
+00:14:05,279 --> 00:14:07,680
+A private network cannot be routed on
+
+287
+00:14:07,680 --> 00:14:11,839
+the internet. A public network can be
+
+288
+00:14:11,839 --> 00:14:17,440
+right. Um so if we go
+
+289
+00:14:17,440 --> 00:14:20,959
+if you go pull up um what is it? Go
+
+290
+00:14:20,959 --> 00:14:22,560
+ahead and pull up one of your terminals
+
+291
+00:14:22,560 --> 00:14:24,480
+real quick. And I'm going put in here IP
+
+292
+00:14:24,480 --> 00:14:27,480
+config.
+
+293
+00:14:29,839 --> 00:14:33,519
+I do my IP config right here.
+
+294
+00:14:33,519 --> 00:14:37,040
+You will see that my local address for
+
+295
+00:14:37,040 --> 00:14:38,880
+my computer
+
+296
+00:14:38,880 --> 00:14:40,720
+is
+
+297
+00:14:40,720 --> 00:14:45,040
+well my network is 192 16886
+
+298
+00:14:45,040 --> 00:14:50,880
+and my host IP address is 230.
+
+299
+00:14:50,880 --> 00:14:55,360
+So my network address is 192 16886
+
+300
+00:14:55,360 --> 00:14:58,880
+and my host address is 230
+
+301
+00:14:58,880 --> 00:15:02,000
+and this fits right here within the
+
+302
+00:15:02,000 --> 00:15:04,560
+private address space which is specified
+
+303
+00:15:04,560 --> 00:15:10,480
+by RFC1 1918. So here it is. All right.
+
+304
+00:15:10,480 --> 00:15:13,199
+Now, all of you at home, if you guys do
+
+305
+00:15:13,199 --> 00:15:17,519
+your IP config, you should all have um
+
+306
+00:15:17,519 --> 00:15:20,160
+an IP address which is in either one of
+
+307
+00:15:20,160 --> 00:15:22,480
+these. It's either in 10, you either
+
+308
+00:15:22,480 --> 00:15:25,760
+have what I call a 10net, a 172 net, or
+
+309
+00:15:25,760 --> 00:15:30,000
+a 192 net. So, let's do this real quick.
+
+310
+00:15:30,000 --> 00:15:32,720
+And I want you guys to tell me how many
+
+311
+00:15:32,720 --> 00:15:35,279
+of you guys have a 10 net. If you have a
+
+312
+00:15:35,279 --> 00:15:39,480
+10 net, put a one in the chat.
+
+313
+00:15:43,040 --> 00:15:47,480
+Red Bull. I like to have that right now.
+
+314
+00:15:47,680 --> 00:15:51,759
+Good. In fact, why don't you quickly
+
+315
+00:15:51,759 --> 00:15:54,240
+write down your 10 net that you have
+
+316
+00:15:54,240 --> 00:15:56,639
+into the class, okay? So, everybody can
+
+317
+00:15:56,639 --> 00:16:00,120
+see what you have.
+
+318
+00:16:00,800 --> 00:16:05,440
+If you guys have a 172n net, put a two
+
+319
+00:16:05,440 --> 00:16:07,120
+in the chat and then write down your
+
+320
+00:16:07,120 --> 00:16:13,160
+your uh IP address so people can see it.
+
+321
+00:16:14,000 --> 00:16:17,920
+And if you have a 192 net,
+
+322
+00:16:17,920 --> 00:16:20,959
+put a three in the chat and paste it in
+
+323
+00:16:20,959 --> 00:16:24,480
+there. So I put mine in there. Three. Go
+
+324
+00:16:24,480 --> 00:16:26,880
+and paste it.
+
+325
+00:16:26,880 --> 00:16:30,079
+So there it is. Three. And I put mine in
+
+326
+00:16:30,079 --> 00:16:34,639
+theirs as well. Okay, good.
+
+327
+00:16:34,639 --> 00:16:36,399
+See? So, you see how that works
+
+328
+00:16:36,399 --> 00:16:40,000
+everybody? It it it works the same way.
+
+329
+00:16:40,000 --> 00:16:41,920
+All right. Now, what you will notice
+
+330
+00:16:41,920 --> 00:16:44,880
+with this is particularly for the threes
+
+331
+00:16:44,880 --> 00:16:49,040
+is that 192 168 is the same. The third
+
+332
+00:16:49,040 --> 00:16:51,759
+octet, which is right here, is different
+
+333
+00:16:51,759 --> 00:16:54,399
+for most of the people. So, Charles,
+
+334
+00:16:54,399 --> 00:16:58,800
+it's one, for me, it's 86. For Jason,
+
+335
+00:16:58,800 --> 00:17:01,759
+it's one. Okay. For Bob, it's zero. Poor
+
+336
+00:17:01,759 --> 00:17:05,280
+design. Toré, one. Bad design again.
+
+337
+00:17:05,280 --> 00:17:08,240
+Kevin Wilcox is four. Okay, good. Aaron
+
+338
+00:17:08,240 --> 00:17:12,559
+Briley is 50. Okay. Vanny is one. Poor
+
+339
+00:17:12,559 --> 00:17:16,400
+design. All right. My little comment.
+
+340
+00:17:16,400 --> 00:17:20,480
+That's my snark comment. All right. Um,
+
+341
+00:17:20,480 --> 00:17:22,959
+so you can see what see they're doing.
+
+342
+00:17:22,959 --> 00:17:24,559
+You see a lot of you guys have a zero
+
+343
+00:17:24,559 --> 00:17:27,280
+and one. That's actually a poor design
+
+344
+00:17:27,280 --> 00:17:30,720
+by your um
+
+345
+00:17:30,720 --> 00:17:34,080
+by your uh internet provider. They
+
+346
+00:17:34,080 --> 00:17:35,520
+should give you a different number
+
+347
+00:17:35,520 --> 00:17:39,440
+because 0 and one are the two most
+
+348
+00:17:39,440 --> 00:17:43,760
+common networks used by 192 168 and
+
+349
+00:17:43,760 --> 00:17:46,080
+they're very easy to guess and so
+
+350
+00:17:46,080 --> 00:17:47,679
+therefore they're they're easier to
+
+351
+00:17:47,679 --> 00:17:50,880
+attack from the outside.
+
+352
+00:17:50,880 --> 00:17:53,600
+All right. Now, if I do trace route real
+
+353
+00:17:53,600 --> 00:17:57,360
+quick, hold on to your trace route. I
+
+354
+00:17:57,360 --> 00:18:01,039
+always get this right wrong.
+
+355
+00:18:01,039 --> 00:18:05,720
+Okay, let's do it this way.
+
+356
+00:18:07,840 --> 00:18:13,960
+Okay, if I do a trade route real quick,
+
+357
+00:18:14,080 --> 00:18:17,200
+I get to see which public address I'm
+
+358
+00:18:17,200 --> 00:18:18,720
+using.
+
+359
+00:18:18,720 --> 00:18:21,039
+So, I don't own it, but it's there. So
+
+360
+00:18:21,039 --> 00:18:23,760
+it gets translated.
+
+361
+00:18:23,760 --> 00:18:26,480
+So what you're saying here is
+
+362
+00:18:26,480 --> 00:18:30,640
+this is 192 16886.1.
+
+363
+00:18:30,640 --> 00:18:35,039
+Say 86.1. That's my router in my house.
+
+364
+00:18:35,039 --> 00:18:38,080
+Almost always a.1 is a local router.
+
+365
+00:18:38,080 --> 00:18:41,919
+Almost always not always but damn almost
+
+366
+00:18:41,919 --> 00:18:45,600
+always. All right.
+
+367
+00:18:45,600 --> 00:18:48,960
+Okay. And what we have here is you have
+
+368
+00:18:48,960 --> 00:18:52,320
+my local house and then you have a local
+
+369
+00:18:52,320 --> 00:18:54,480
+point of presence and that's also
+
+370
+00:18:54,480 --> 00:18:58,640
+private. So that's an ISP operating. And
+
+371
+00:18:58,640 --> 00:19:00,720
+then something's going on here that
+
+372
+00:19:00,720 --> 00:19:03,360
+Google doesn't want me to know about.
+
+373
+00:19:03,360 --> 00:19:06,240
+And then it gets to this one right here,
+
+374
+00:19:06,240 --> 00:19:08,799
+MCI Global Fiber.
+
+375
+00:19:08,799 --> 00:19:13,520
+Google Fiber.net. So I have 123 255
+
+376
+00:19:13,520 --> 00:19:15,760
+22464.
+
+377
+00:19:15,760 --> 00:19:18,720
+that is a publicly routable
+
+378
+00:19:18,720 --> 00:19:23,600
+um internet or router uh at an ISP.
+
+379
+00:19:23,600 --> 00:19:25,520
+So that's the first point which I
+
+380
+00:19:25,520 --> 00:19:28,000
+actually have public access. So
+
+381
+00:19:28,000 --> 00:19:30,320
+basically there is what we call NAT
+
+382
+00:19:30,320 --> 00:19:32,960
+translation. I'm going through a double
+
+383
+00:19:32,960 --> 00:19:36,960
+that. So I have well no I'm not going
+
+384
+00:19:36,960 --> 00:19:39,360
+through double that.
+
+385
+00:19:39,360 --> 00:19:42,960
+Maybe I am. No. No. Shouldn't be doing
+
+386
+00:19:42,960 --> 00:19:46,799
+that. Uh, they could. No. Yeah, double
+
+387
+00:19:46,799 --> 00:19:48,640
+that.
+
+388
+00:19:48,640 --> 00:19:52,000
+So, I'm being natted to this IP address
+
+389
+00:19:52,000 --> 00:19:54,400
+and then this IP address being natted to
+
+390
+00:19:54,400 --> 00:19:58,240
+this IP address, which is wild. But it's
+
+391
+00:19:58,240 --> 00:20:01,679
+a way for them to conserve IP addresses
+
+392
+00:20:01,679 --> 00:20:03,440
+and they just simply put do not have
+
+393
+00:20:03,440 --> 00:20:05,679
+enough IP addresses. So let's just we
+
+394
+00:20:05,679 --> 00:20:08,799
+use NAT in order to this network address
+
+395
+00:20:08,799 --> 00:20:11,760
+translation in order to uh increase the
+
+396
+00:20:11,760 --> 00:20:13,120
+number of IP addresses that we have
+
+397
+00:20:13,120 --> 00:20:15,280
+available. Now you guys might be
+
+398
+00:20:15,280 --> 00:20:17,600
+thinking why am I talking about this?
+
+399
+00:20:17,600 --> 00:20:21,200
+It's because when you make um your
+
+400
+00:20:21,200 --> 00:20:23,360
+network
+
+401
+00:20:23,360 --> 00:20:26,880
+in here, your VPC,
+
+402
+00:20:26,880 --> 00:20:32,799
+it has to adhere to the rules in RFC
+
+403
+00:20:32,799 --> 00:20:37,200
+um 24, sorry, in RFC 1918.
+
+404
+00:20:37,200 --> 00:20:39,520
+It must adhere. You cannot play around
+
+405
+00:20:39,520 --> 00:20:41,840
+with this. You can't say I'm going to do
+
+406
+00:20:41,840 --> 00:20:44,799
+something different. No, that fails.
+
+407
+00:20:44,799 --> 00:20:47,120
+This this is the way it is. This is it's
+
+408
+00:20:47,120 --> 00:20:49,039
+internationally this is an international
+
+409
+00:20:49,039 --> 00:20:52,720
+standard. You have to comply with this.
+
+410
+00:20:52,720 --> 00:20:56,240
+So if you notice um here with the
+
+411
+00:20:56,240 --> 00:21:02,159
+default VPCs in uh in GCP
+
+412
+00:21:02,159 --> 00:21:04,799
+all of them comply but these are all 10
+
+413
+00:21:04,799 --> 00:21:08,960
+nets and they all comply with this RFC1
+
+414
+00:21:08,960 --> 00:21:13,600
+1918. Okay. Now, I'm going to give you a
+
+415
+00:21:13,600 --> 00:21:15,360
+sample one that you can do that you can
+
+416
+00:21:15,360 --> 00:21:18,320
+use. Uh, but my big thing I'm going to
+
+417
+00:21:18,320 --> 00:21:20,080
+tell it to you right now is when you
+
+418
+00:21:20,080 --> 00:21:23,679
+make your own uh VPC um is you need to
+
+419
+00:21:23,679 --> 00:21:25,919
+plan your VPC first about how we're
+
+420
+00:21:25,919 --> 00:21:28,320
+going to do how it's going to work and
+
+421
+00:21:28,320 --> 00:21:32,480
+secondly you need to um
+
+422
+00:21:32,480 --> 00:21:35,520
+you need to read this RFC and understand
+
+423
+00:21:35,520 --> 00:21:38,480
+it forwards and backwards. It is mission
+
+424
+00:21:38,480 --> 00:21:42,000
+critical for you to read this. Okay, I'm
+
+425
+00:21:42,000 --> 00:21:44,320
+not joking. You really need to read
+
+426
+00:21:44,320 --> 00:21:45,840
+this. Please, for the love of God,
+
+427
+00:21:45,840 --> 00:21:49,760
+please read this. Um, it's a all of
+
+428
+00:21:49,760 --> 00:21:52,159
+these everything in this is a legitimate
+
+429
+00:21:52,159 --> 00:21:54,799
+question. And if they ask you, for
+
+430
+00:21:54,799 --> 00:21:58,480
+example, um, please tell you how please
+
+431
+00:21:58,480 --> 00:22:00,960
+how did you use RFC1 1918 within your
+
+432
+00:22:00,960 --> 00:22:02,640
+VPC,
+
+433
+00:22:02,640 --> 00:22:05,440
+which is a very legitimate question on
+
+434
+00:22:05,440 --> 00:22:08,159
+an interview. Um, you need to have an
+
+435
+00:22:08,159 --> 00:22:09,679
+answer immediately and you should be
+
+436
+00:22:09,679 --> 00:22:10,799
+able you should be able to knock that
+
+437
+00:22:10,799 --> 00:22:12,960
+off like on the top of your head. If you
+
+438
+00:22:12,960 --> 00:22:15,440
+have any like uh or well maybe it was
+
+439
+00:22:15,440 --> 00:22:18,080
+kind of like this failure means you
+
+440
+00:22:18,080 --> 00:22:20,480
+don't understand 1918
+
+441
+00:22:20,480 --> 00:22:22,960
+right when I started doing networking
+
+442
+00:22:22,960 --> 00:22:24,880
+when I started working in computers this
+
+443
+00:22:24,880 --> 00:22:28,080
+was um I started doing help desk in when
+
+444
+00:22:28,080 --> 00:22:33,120
+I knew help desk in 98 and RFC in 1918
+
+445
+00:22:33,120 --> 00:22:34,799
+was
+
+446
+00:22:34,799 --> 00:22:38,799
+2000 when I started using it and this is
+
+447
+00:22:38,799 --> 00:22:40,960
+February 1996
+
+448
+00:22:40,960 --> 00:22:43,360
+and it has this has not changed at all.
+
+449
+00:22:43,360 --> 00:22:45,440
+This this standard has has been there
+
+450
+00:22:45,440 --> 00:22:48,320
+ever since. It's it's not going away.
+
+451
+00:22:48,320 --> 00:22:52,640
+Okay. Um any questions before I continue
+
+452
+00:22:52,640 --> 00:22:56,480
+or is everybody good? Let's keep on
+
+453
+00:22:56,480 --> 00:22:59,360
+going.
+
+454
+00:22:59,360 --> 00:23:03,200
+We good. Anybody have questions?
+
+455
+00:23:03,200 --> 00:23:06,960
+Are you are you all live there? I got 53
+
+456
+00:23:06,960 --> 00:23:10,520
+people in the class.
+
+457
+00:23:11,200 --> 00:23:14,400
+>> Yeah. 45 of them are dead.
+
+458
+00:23:14,400 --> 00:23:15,039
+>> Got a pulse.
+
+459
+00:23:15,039 --> 00:23:18,799
+>> All right, great. Oo, I like that. Vader
+
+460
+00:23:18,799 --> 00:23:21,360
+Alexander filter. Good. Okay, so what
+
+461
+00:23:21,360 --> 00:23:24,799
+I'm going to do today is
+
+462
+00:23:24,799 --> 00:23:28,960
+I'm going to say my main network is 192
+
+463
+00:23:28,960 --> 00:23:33,520
+168. Today I'm going to put this as
+
+464
+00:23:33,520 --> 00:23:35,280
+100.
+
+465
+00:23:35,280 --> 00:23:39,120
+And then I'm going to say Salpollo
+
+466
+00:23:39,120 --> 00:23:42,760
+is 192.168
+
+467
+00:23:43,600 --> 00:23:48,039
+um 120.0/24.
+
+468
+00:23:49,360 --> 00:23:51,440
+I'm going to say Tokyo is
+
+469
+00:23:51,440 --> 00:23:54,440
+192.168.140.024.
+
+470
+00:23:57,760 --> 00:24:01,120
+So I'm going to make um
+
+471
+00:24:01,120 --> 00:24:04,400
+three subnets. All right. new three
+
+472
+00:24:04,400 --> 00:24:07,280
+subnets today. Now, think of it how I
+
+473
+00:24:07,280 --> 00:24:08,640
+did this. I want you to see how I did
+
+474
+00:24:08,640 --> 00:24:14,919
+this real quick. Main network is Iowa.
+
+475
+00:24:17,120 --> 00:24:19,919
+Oh, yeah. Quick. Who says Iowa's going
+
+476
+00:24:19,919 --> 00:24:24,520
+to get educated by the Ali today?
+
+477
+00:24:25,039 --> 00:24:27,279
+Who put a one if I was going to get
+
+478
+00:24:27,279 --> 00:24:29,360
+educated by the by line? I just want to
+
+479
+00:24:29,360 --> 00:24:33,080
+know how many people agree.
+
+480
+00:24:33,840 --> 00:24:37,320
+I and I
+
+481
+00:24:44,960 --> 00:24:47,120
+all right you people who didn't get one,
+
+482
+00:24:47,120 --> 00:24:50,679
+you get extra homework.
+
+483
+00:24:52,400 --> 00:24:54,559
+Sorry, you didn't answer quick enough.
+
+484
+00:24:54,559 --> 00:24:56,799
+I'm I'm listening to this. Everybody
+
+485
+00:24:56,799 --> 00:24:59,520
+above TIQS and above gets spared. The
+
+486
+00:24:59,520 --> 00:25:02,880
+rest of you don't.
+
+487
+00:25:02,960 --> 00:25:04,720
+Tad, you get triple homework. You're
+
+488
+00:25:04,720 --> 00:25:06,480
+getting an Armageddon in personal
+
+489
+00:25:06,480 --> 00:25:09,480
+tomorrow.
+
+490
+00:25:10,240 --> 00:25:12,880
+>> I'm deleting it. I'm deleting it.
+
+491
+00:25:12,880 --> 00:25:15,360
+>> Oh, no. No. I saw that. I already saw
+
+492
+00:25:15,360 --> 00:25:18,720
+that. I Well, there are the Elite 8. Oh,
+
+493
+00:25:18,720 --> 00:25:21,440
+no. No. There's no forgiveness for this.
+
+494
+00:25:21,440 --> 00:25:25,200
+No mercy, no forgiveness.
+
+495
+00:25:25,200 --> 00:25:28,240
+If my all I get to the sweet the the
+
+496
+00:25:28,240 --> 00:25:31,440
+final four. Oh my god, I will be so
+
+497
+00:25:31,440 --> 00:25:34,240
+drunk next week. I'll be at the bars.
+
+498
+00:25:34,240 --> 00:25:38,240
+Oh, it'll be so good. Anyway,
+
+499
+00:25:38,240 --> 00:25:40,480
+all right. So, these are my subnets that
+
+500
+00:25:40,480 --> 00:25:42,720
+I'm going to use. You notice that I have
+
+501
+00:25:42,720 --> 00:25:45,679
+these planned already and they're on my
+
+502
+00:25:45,679 --> 00:25:47,919
+notepad right now.
+
+503
+00:25:47,919 --> 00:25:49,520
+This is because I need to transfer them
+
+504
+00:25:49,520 --> 00:25:52,799
+over and so I need to have these planned
+
+505
+00:25:52,799 --> 00:25:56,080
+before I start. I don't just do this
+
+506
+00:25:56,080 --> 00:25:58,240
+willy-nilly. I actually have this
+
+507
+00:25:58,240 --> 00:25:59,200
+planned before I start the
+
+508
+00:25:59,200 --> 00:26:01,840
+configuration. Okay.
+
+509
+00:26:01,840 --> 00:26:04,640
+You sound like y in two years we'll have
+
+510
+00:26:04,640 --> 00:26:08,240
+dreadlocks in Brazil. I I might
+
+511
+00:26:08,240 --> 00:26:10,480
+I I don't know if I'll dread I'll be I
+
+512
+00:26:10,480 --> 00:26:13,520
+don't know.
+
+513
+00:26:13,520 --> 00:26:15,120
+I'll say this. Brazilian women are
+
+514
+00:26:15,120 --> 00:26:18,240
+winning. But if I go to Japan, I told
+
+515
+00:26:18,240 --> 00:26:21,360
+you guys yesterday I got the job offer
+
+516
+00:26:21,360 --> 00:26:22,960
+for Japan and I gave a verbal
+
+517
+00:26:22,960 --> 00:26:24,559
+acceptance.
+
+518
+00:26:24,559 --> 00:26:27,600
+So if I did go back to Japan for two or
+
+519
+00:26:27,600 --> 00:26:30,080
+three years, I know where I would go
+
+520
+00:26:30,080 --> 00:26:33,440
+date. It would it would be very simple.
+
+521
+00:26:33,440 --> 00:26:36,559
+I would date in Kawasaki and Yokohama.
+
+522
+00:26:36,559 --> 00:26:40,400
+I would be on the prowl in those areas,
+
+523
+00:26:40,400 --> 00:26:43,679
+right? Why? Because there are Brazilian
+
+524
+00:26:43,679 --> 00:26:46,559
+Japanese there.
+
+525
+00:26:46,559 --> 00:26:48,080
+Okay.
+
+526
+00:26:48,080 --> 00:26:50,640
+All right. So we're going to go ahead.
+
+527
+00:26:50,640 --> 00:26:54,320
+I'm going to go to this VPC section.
+
+528
+00:26:54,320 --> 00:26:57,120
+And I'm going to rotate here the top
+
+529
+00:26:57,120 --> 00:26:58,960
+one.
+
+530
+00:26:58,960 --> 00:27:02,159
+Okay. And it says create VPC. Click on
+
+531
+00:27:02,159 --> 00:27:04,799
+that.
+
+532
+00:27:04,799 --> 00:27:09,360
+And uh here we go. Uh the name of this
+
+533
+00:27:09,360 --> 00:27:12,320
+is going to be
+
+534
+00:27:12,320 --> 00:27:15,679
+it has to be lowerase.
+
+535
+00:27:15,679 --> 00:27:20,360
+Elite 8. Okay.
+
+536
+00:27:24,880 --> 00:27:27,279
+Okay. Description can describe it
+
+537
+00:27:27,279 --> 00:27:32,080
+everything you want. Okay.
+
+538
+00:27:32,080 --> 00:27:36,320
+And come down here and it says want a
+
+539
+00:27:36,320 --> 00:27:39,279
+new subnet. Yeah. Okay. Make a new
+
+540
+00:27:39,279 --> 00:27:40,799
+subnet.
+
+541
+00:27:40,799 --> 00:27:43,919
+So I'm going to call this one align.
+
+542
+00:27:43,919 --> 00:27:47,200
+has to be lowercase
+
+543
+00:27:47,200 --> 00:27:50,520
+and description.
+
+544
+00:27:51,360 --> 00:27:54,679
+So, Ali
+
+545
+00:27:56,399 --> 00:28:00,520
+owning Iowa
+
+546
+00:28:01,120 --> 00:28:03,440
+in Iowa.
+
+547
+00:28:03,440 --> 00:28:06,559
+There you go. And the region, get this
+
+548
+00:28:06,559 --> 00:28:07,760
+region right. Make sure you get this
+
+549
+00:28:07,760 --> 00:28:10,159
+region right. I'm going to put this
+
+550
+00:28:10,159 --> 00:28:13,440
+region in Iowa. See this? Choosing that.
+
+551
+00:28:13,440 --> 00:28:16,960
+Okay, I got a subnet. I'm calling it Ali
+
+552
+00:28:16,960 --> 00:28:19,520
+and I'm I'm putting it in US Central
+
+553
+00:28:19,520 --> 00:28:24,520
+one, Iowa. Okay.
+
+554
+00:28:25,360 --> 00:28:26,960
+Now,
+
+555
+00:28:26,960 --> 00:28:29,039
+so it's IP version 4. Not touching
+
+556
+00:28:29,039 --> 00:28:32,320
+anything there. Okay. And it says, hey,
+
+557
+00:28:32,320 --> 00:28:34,240
+what's this what's this range? You
+
+558
+00:28:34,240 --> 00:28:37,520
+notice I already have the range ready.
+
+559
+00:28:37,520 --> 00:28:40,159
+All I need to do is go over here. I got
+
+560
+00:28:40,159 --> 00:28:43,039
+my range, right? Copy it.
+
+561
+00:28:43,039 --> 00:28:44,559
+Copy.
+
+562
+00:28:44,559 --> 00:28:48,000
+Paste it in there. Paste.
+
+563
+00:28:48,000 --> 00:28:50,880
+Got my refresh rate. Okay.
+
+564
+00:28:50,880 --> 00:28:54,880
+Next one. Private Google access on.
+
+565
+00:28:54,880 --> 00:28:58,320
+Okay. And now I'm going to add No, I'm
+
+566
+00:28:58,320 --> 00:29:00,000
+not. I'm not going to do that. I'm going
+
+567
+00:29:00,000 --> 00:29:04,799
+to add a subnet right here. Add subnet.
+
+568
+00:29:04,799 --> 00:29:07,760
+I'm going to call this one
+
+569
+00:29:07,760 --> 00:29:10,399
+S Paulo.
+
+570
+00:29:10,399 --> 00:29:13,399
+Okay.
+
+571
+00:29:13,520 --> 00:29:15,200
+description
+
+572
+00:29:15,200 --> 00:29:19,760
+Sao Paulo my second home
+
+573
+00:29:19,760 --> 00:29:21,600
+and the region is going to be hu I
+
+574
+00:29:21,600 --> 00:29:26,159
+wonder what's going to put Sa Paulo now
+
+575
+00:29:26,159 --> 00:29:28,080
+IP stack IP version 4 again we're not
+
+576
+00:29:28,080 --> 00:29:30,399
+touching that and what's the range we'll
+
+577
+00:29:30,399 --> 00:29:34,240
+go over here salo I have a range going
+
+578
+00:29:34,240 --> 00:29:38,760
+and click on this copy
+
+579
+00:29:39,039 --> 00:29:43,039
+paste Okay. Oh. Oh, don't put words in
+
+580
+00:29:43,039 --> 00:29:44,640
+there.
+
+581
+00:29:44,640 --> 00:29:46,640
+Okay.
+
+582
+00:29:46,640 --> 00:29:48,559
+Okay. Make sure no white space. Uh,
+
+583
+00:29:48,559 --> 00:29:49,760
+that's actually kind of an important
+
+584
+00:29:49,760 --> 00:29:51,679
+thing.
+
+585
+00:29:51,679 --> 00:29:54,320
+White space. Okay. All right. Same
+
+586
+00:29:54,320 --> 00:29:56,240
+thing.
+
+587
+00:29:56,240 --> 00:30:00,080
+Private Google access on. All right.
+
+588
+00:30:00,080 --> 00:30:05,559
+Now, I'm adding one more submit. Tokyo.
+
+589
+00:30:07,039 --> 00:30:09,520
+Okay. Hold up. Make sure I didn't put
+
+590
+00:30:09,520 --> 00:30:12,559
+any capitals. Okay, no capitals. Region
+
+591
+00:30:12,559 --> 00:30:15,039
+is going to be Tokyo.
+
+592
+00:30:15,039 --> 00:30:19,279
+Uh, we'll find Tokyo real quick. Where's
+
+593
+00:30:19,279 --> 00:30:23,919
+Tokyo? There it is. Asia, Northeast One.
+
+594
+00:30:23,919 --> 00:30:26,080
+And it's IP range. Got the IP range
+
+595
+00:30:26,080 --> 00:30:29,960
+right here. Copy it.
+
+596
+00:30:30,399 --> 00:30:31,919
+Paste.
+
+597
+00:30:31,919 --> 00:30:33,440
+Okay.
+
+598
+00:30:33,440 --> 00:30:37,760
+Private Google access on. There we go.
+
+599
+00:30:37,760 --> 00:30:40,720
+There we go. All right.
+
+600
+00:30:40,720 --> 00:30:44,000
+So, I have now three subnets.
+
+601
+00:30:44,000 --> 00:30:48,159
+Okay. Before I continue,
+
+602
+00:30:48,159 --> 00:30:50,000
+does anybody have any questions? We're
+
+603
+00:30:50,000 --> 00:30:52,399
+just at the subnets so far. I want to
+
+604
+00:30:52,399 --> 00:30:53,520
+know if you guys have any questions
+
+605
+00:30:53,520 --> 00:30:56,840
+about the subnets.
+
+606
+00:30:57,760 --> 00:31:00,559
+>> Yes. Can you redo the first one? Can you
+
+607
+00:31:00,559 --> 00:31:02,000
+go over the first one again? It's the
+
+608
+00:31:02,000 --> 00:31:05,200
+same as the other ones,
+
+609
+00:31:05,200 --> 00:31:06,799
+but you don't have to do it this way.
+
+610
+00:31:06,799 --> 00:31:08,880
+You know, you can name it anything you
+
+611
+00:31:08,880 --> 00:31:11,279
+want. You can put it in any region you
+
+612
+00:31:11,279 --> 00:31:12,320
+want. You can do what you want with
+
+613
+00:31:12,320 --> 00:31:16,320
+this. This you are free.
+
+614
+00:31:16,320 --> 00:31:20,440
+It's the same thing three times.
+
+615
+00:31:20,480 --> 00:31:24,080
+>> Okay. Got it. Got it.
+
+616
+00:31:29,919 --> 00:31:32,000
+Why would they be specific to my
+
+617
+00:31:32,000 --> 00:31:35,520
+machine, Vincent?
+
+618
+00:31:35,520 --> 00:31:38,720
+Why? What? What is spec What is about my
+
+619
+00:31:38,720 --> 00:31:40,399
+machine?
+
+620
+00:31:40,399 --> 00:31:43,120
+Why? Okay, Vincent, I got to do this to
+
+621
+00:31:43,120 --> 00:31:46,159
+you. No, I gotta I gotta educate you on
+
+622
+00:31:46,159 --> 00:31:53,000
+this one. Okay. Name Vincent
+
+623
+00:31:54,720 --> 00:31:56,559
+Leiso
+
+624
+00:31:56,559 --> 00:31:58,159
+Booty.
+
+625
+00:31:58,159 --> 00:32:01,279
+There we go. description
+
+626
+00:32:01,279 --> 00:32:02,799
+subnet
+
+627
+00:32:02,799 --> 00:32:05,799
+where
+
+628
+00:32:06,320 --> 00:32:07,840
+Vincent
+
+629
+00:32:07,840 --> 00:32:10,840
+celebrates
+
+630
+00:32:12,240 --> 00:32:14,960
+his love and devotion.
+
+631
+00:32:14,960 --> 00:32:20,000
+Te vot to Leis
+
+632
+00:32:20,000 --> 00:32:21,519
+booty.
+
+633
+00:32:21,519 --> 00:32:24,519
+Okay.
+
+634
+00:32:24,559 --> 00:32:26,960
+Sorry, Vincent. YOU ASKED A QUESTION.
+
+635
+00:32:26,960 --> 00:32:30,000
+I'm going to make you learn right now.
+
+636
+00:32:30,000 --> 00:32:34,000
+That's the only way cuz now you will
+
+637
+00:32:34,000 --> 00:32:36,559
+never ask that question again. Okay.
+
+638
+00:32:36,559 --> 00:32:38,320
+Region. What's a good reason for this?
+
+639
+00:32:38,320 --> 00:32:41,200
+Give me a good reason for this, guys.
+
+640
+00:32:41,200 --> 00:32:45,600
+Dallas. So, I put it in Dallas, LA.
+
+641
+00:32:45,600 --> 00:32:48,640
+Oh, Vegas. Mumbai. You want Mumbai? I
+
+642
+00:32:48,640 --> 00:32:50,880
+like that. Okay. Mubai. Putting your ass
+
+643
+00:32:50,880 --> 00:32:54,480
+in Mumbai. Okay. So, there we go. Mubai.
+
+644
+00:32:54,480 --> 00:32:56,080
+All right.
+
+645
+00:32:56,080 --> 00:33:00,240
+And I'm going to go over here.
+
+646
+00:33:00,240 --> 00:33:02,880
+Vincent
+
+647
+00:33:02,880 --> 00:33:05,919
+Leo love
+
+648
+00:33:05,919 --> 00:33:08,919
+192.168.69.024.
+
+649
+00:33:13,840 --> 00:33:17,360
+There we go. Oh, Theo is so bad. Theo,
+
+650
+00:33:17,360 --> 00:33:21,519
+stop. Go back to therapy. No. No. Okay,
+
+651
+00:33:21,519 --> 00:33:23,919
+so I'm going to put this over here. IP
+
+652
+00:33:23,919 --> 00:33:27,519
+range is right there. Paste. Now we put
+
+653
+00:33:27,519 --> 00:33:29,840
+the 69 there because we know that's a
+
+654
+00:33:29,840 --> 00:33:32,480
+favorite thing for Vincent and Leiso. So
+
+655
+00:33:32,480 --> 00:33:34,720
+there, that's a range. We all know what
+
+656
+00:33:34,720 --> 00:33:37,519
+that's going on there. And now we go
+
+657
+00:33:37,519 --> 00:33:40,480
+private access. Yeah. Yep. Yeah, that's
+
+658
+00:33:40,480 --> 00:33:43,919
+odd. That's it. We got it. Okay. So now
+
+659
+00:33:43,919 --> 00:33:48,159
+we have four We have four
+
+660
+00:33:48,159 --> 00:33:52,159
+subnets. All right. We got Iowa, we have
+
+661
+00:33:52,159 --> 00:33:55,519
+Sa Paulo, we have Tokyo, and we have the
+
+662
+00:33:55,519 --> 00:34:00,080
+special Vincent Leiso lover subnet in
+
+663
+00:34:00,080 --> 00:34:01,760
+Mumbai.
+
+664
+00:34:01,760 --> 00:34:04,760
+Okay,
+
+665
+00:34:06,240 --> 00:34:07,919
+follow the tray. Follow the
+
+666
+00:34:07,919 --> 00:34:09,760
+instructions.
+
+667
+00:34:09,760 --> 00:34:12,480
+Okay,
+
+668
+00:34:12,480 --> 00:34:14,639
+now follow the error. It's giving you
+
+669
+00:34:14,639 --> 00:34:18,079
+it's it's telling you it's wrong.
+
+670
+00:34:18,079 --> 00:34:21,839
+Okay. Now, next one. So, the firewall
+
+671
+00:34:21,839 --> 00:34:24,399
+rules
+
+672
+00:34:24,399 --> 00:34:27,839
+have here select all.
+
+673
+00:34:27,839 --> 00:34:30,079
+I want you to select all of these. And
+
+674
+00:34:30,079 --> 00:34:32,320
+this is going to allow custom, allow
+
+675
+00:34:32,320 --> 00:34:36,720
+ICMP, it's allow RDP, allow SSH. Okay.
+
+676
+00:34:36,720 --> 00:34:39,119
+We will allow other ones later on. She's
+
+677
+00:34:39,119 --> 00:34:40,960
+coming for Vincent. Yeah, she wants to
+
+678
+00:34:40,960 --> 00:34:44,879
+ride it. I know. There we go.
+
+679
+00:34:44,879 --> 00:34:47,440
+Okay.
+
+680
+00:34:47,440 --> 00:34:50,320
+So now we have regional dynamic routing
+
+681
+00:34:50,320 --> 00:34:53,320
+mode.
+
+682
+00:34:58,320 --> 00:35:01,119
+Uh here let's do dynamic routing mode
+
+683
+00:35:01,119 --> 00:35:04,680
+today. Let's do global.
+
+684
+00:35:05,440 --> 00:35:09,760
+Uh that's fine. Should work. Okay. So
+
+685
+00:35:09,760 --> 00:35:11,680
+remember before we make a VPC, what do
+
+686
+00:35:11,680 --> 00:35:14,560
+we do?
+
+687
+00:35:14,560 --> 00:35:16,240
+What's the tradition?
+
+688
+00:35:16,240 --> 00:35:17,599
+>> Pray.
+
+689
+00:35:17,599 --> 00:35:20,160
+>> We pray. Yeah, we always pray. Please
+
+690
+00:35:20,160 --> 00:35:24,280
+God, please let this work.
+
+691
+00:35:25,520 --> 00:35:28,520
+>> Okay,
+
+692
+00:35:30,160 --> 00:35:34,440
+there we go. Delete eight.
+
+693
+00:35:34,480 --> 00:35:37,040
+Vincent is not will never let me will
+
+694
+00:35:37,040 --> 00:35:39,839
+never forgive me for what I've done.
+
+695
+00:35:39,839 --> 00:35:42,320
+Why did you do this? I just went to
+
+696
+00:35:42,320 --> 00:35:45,520
+class. I wanted to do was there. I
+
+697
+00:35:45,520 --> 00:35:47,520
+thought your computer was connected to
+
+698
+00:35:47,520 --> 00:35:50,560
+the cloud and it dictated GCP global
+
+699
+00:35:50,560 --> 00:35:53,560
+routing.
+
+700
+00:35:55,359 --> 00:35:59,560
+I learned it the hard way.
+
+701
+00:36:00,400 --> 00:36:04,760
+Yep. What you learned today?
+
+702
+00:36:07,440 --> 00:36:07,839
+>> Yeah.
+
+703
+00:36:07,839 --> 00:36:09,599
+>> Is there a reason we changed the routing
+
+704
+00:36:09,599 --> 00:36:11,280
+mode?
+
+705
+00:36:11,280 --> 00:36:15,359
+Um, so now I can it's dynamic. So then I
+
+706
+00:36:15,359 --> 00:36:17,200
+can make a piece I can make a VM in
+
+707
+00:36:17,200 --> 00:36:19,599
+multiple regions and then ping each
+
+708
+00:36:19,599 --> 00:36:21,200
+other
+
+709
+00:36:21,200 --> 00:36:25,520
+it it's only affects cloud routers.
+
+710
+00:36:25,520 --> 00:36:27,520
+>> I said global it's I mean I don't want
+
+711
+00:36:27,520 --> 00:36:29,040
+to do regional
+
+712
+00:36:29,040 --> 00:36:30,400
+>> it doesn't affect them though either
+
+713
+00:36:30,400 --> 00:36:31,200
+way.
+
+714
+00:36:31,200 --> 00:36:34,200
+>> Yeah.
+
+715
+00:36:43,200 --> 00:36:47,359
+All right. So, what I want you to do is,
+
+716
+00:36:47,359 --> 00:36:50,560
+okay, go here real quick. Going look at
+
+717
+00:36:50,560 --> 00:36:53,520
+Elite 8. We'll look at my subnets. And I
+
+718
+00:36:53,520 --> 00:36:55,599
+have a list of my subnets. Okay. So, I
+
+719
+00:36:55,599 --> 00:36:59,680
+got Ali, S. Paulo, Tokyo, and Vincent
+
+720
+00:36:59,680 --> 00:37:03,920
+Leiso, Booty. I have four subnetss.
+
+721
+00:37:03,920 --> 00:37:07,040
+Okay, this is going to be good. Now
+
+722
+00:37:07,040 --> 00:37:09,359
+let's make an EC2
+
+723
+00:37:09,359 --> 00:37:14,640
+in um a custom EC2 sorry make a custom V
+
+724
+00:37:14,640 --> 00:37:18,320
+VM in our custom subnets. Okay, I'm
+
+725
+00:37:18,320 --> 00:37:20,240
+going to do right now just make open up
+
+726
+00:37:20,240 --> 00:37:22,640
+a new tab. The reason I'm open up a new
+
+727
+00:37:22,640 --> 00:37:24,240
+tab is just so I'm have this as my
+
+728
+00:37:24,240 --> 00:37:27,839
+reference in case I need it.
+
+729
+00:37:27,839 --> 00:37:29,920
+There you go. And I'm go here to create
+
+730
+00:37:29,920 --> 00:37:33,079
+a VM.
+
+731
+00:37:34,079 --> 00:37:37,079
+Okay.
+
+732
+00:37:38,880 --> 00:37:42,320
+Now, the first one I'm going to do is
+
+733
+00:37:42,320 --> 00:37:44,720
+call this
+
+734
+00:37:44,720 --> 00:37:46,800
+Vincent
+
+735
+00:37:46,800 --> 00:37:48,880
+Leiso
+
+736
+00:37:48,880 --> 00:37:51,880
+Lover
+
+737
+00:37:52,560 --> 00:37:55,920
+Lane. Okay, there we go. And I'm going
+
+738
+00:37:55,920 --> 00:37:59,200
+to put this one into Mumbai.
+
+739
+00:37:59,200 --> 00:38:00,880
+Okay,
+
+740
+00:38:00,880 --> 00:38:05,280
+let's go down here. Nook. There we go.
+
+741
+00:38:05,280 --> 00:38:09,440
+And any zone, I don't care. And oh, 30.
+
+742
+00:38:09,440 --> 00:38:11,440
+Oh, who cares? All right. This is all I
+
+743
+00:38:11,440 --> 00:38:14,480
+need to do here. OS storage, nothing.
+
+744
+00:38:14,480 --> 00:38:17,440
+Data protection, no backups.
+
+745
+00:38:17,440 --> 00:38:20,160
+Networking. Networking is important. Pay
+
+746
+00:38:20,160 --> 00:38:22,000
+attention to networking here. So, I need
+
+747
+00:38:22,000 --> 00:38:24,560
+to tell it where to go. All right. So,
+
+748
+00:38:24,560 --> 00:38:26,000
+listen up to this. This is an important
+
+749
+00:38:26,000 --> 00:38:29,359
+thing. First, allow HTTP traffic. Allow
+
+750
+00:38:29,359 --> 00:38:32,480
+that. All right.
+
+751
+00:38:32,480 --> 00:38:34,079
+Now
+
+752
+00:38:34,079 --> 00:38:35,760
+we go down here. Says network
+
+753
+00:38:35,760 --> 00:38:37,839
+interfaces.
+
+754
+00:38:37,839 --> 00:38:40,480
+See how we have a default.
+
+755
+00:38:40,480 --> 00:38:43,200
+Click on it and it has default network.
+
+756
+00:38:43,200 --> 00:38:46,160
+We don't want that. Click out of that
+
+757
+00:38:46,160 --> 00:38:49,599
+and click on your VPC which my VPC on
+
+758
+00:38:49,599 --> 00:38:53,440
+this one is elite 8 and see how it goes
+
+759
+00:38:53,440 --> 00:38:56,480
+automatically to the subnet le Vincent
+
+760
+00:38:56,480 --> 00:39:00,320
+Leiso booty. Okay. It's automatic,
+
+761
+00:39:00,320 --> 00:39:02,880
+right? kind of nice. Why was it
+
+762
+00:39:02,880 --> 00:39:05,920
+automatic? Because when I started over
+
+763
+00:39:05,920 --> 00:39:08,480
+here in machine configuration, I chose
+
+764
+00:39:08,480 --> 00:39:13,200
+Asia South one and Asia south one is
+
+765
+00:39:13,200 --> 00:39:16,640
+Mumbai and that has a subnet of Vincent
+
+766
+00:39:16,640 --> 00:39:20,880
+Leiso Booty. Okay. So because it has
+
+767
+00:39:20,880 --> 00:39:23,839
+that that subnet automatically appeared
+
+768
+00:39:23,839 --> 00:39:28,240
+and populated when I chose my own VPC
+
+769
+00:39:28,240 --> 00:39:31,119
+which is Elite 8. Okay.
+
+770
+00:39:31,119 --> 00:39:33,839
+Oh, Vincent, you will totally learn VPC
+
+771
+00:39:33,839 --> 00:39:36,640
+now. So will all the students, thank you
+
+772
+00:39:36,640 --> 00:39:39,760
+for being a perfect learning instrument.
+
+773
+00:39:39,760 --> 00:39:42,079
+You're really I'm sure everyone is
+
+774
+00:39:42,079 --> 00:39:44,400
+learning this right now. You're this is
+
+775
+00:39:44,400 --> 00:39:45,839
+this is great. I'm just telling you.
+
+776
+00:39:45,839 --> 00:39:49,480
+Thank Thank you, Vincent.
+
+777
+00:39:55,040 --> 00:39:58,520
+Oh, goodness.
+
+778
+00:39:59,200 --> 00:40:01,200
+I I see somebody like knocking at my
+
+779
+00:40:01,200 --> 00:40:03,680
+front door. It's my therapist. Neo, you
+
+780
+00:40:03,680 --> 00:40:05,680
+shouldn't do that. Yeah, I should.
+
+781
+00:40:05,680 --> 00:40:07,200
+Sorry.
+
+782
+00:40:07,200 --> 00:40:11,480
+Are they learning this at Black?
+
+783
+00:40:12,960 --> 00:40:17,440
+I don't think so. Okay. Now, the rest
+
+784
+00:40:17,440 --> 00:40:19,040
+here, I'm not going to do anything here
+
+785
+00:40:19,040 --> 00:40:20,320
+for networking. That's it. That's all I
+
+786
+00:40:20,320 --> 00:40:22,720
+need to do. I want you to go here down
+
+787
+00:40:22,720 --> 00:40:24,400
+to advanced.
+
+788
+00:40:24,400 --> 00:40:26,400
+Advanced, we have we need the startup
+
+789
+00:40:26,400 --> 00:40:29,680
+script, right? So, I need to go back to
+
+790
+00:40:29,680 --> 00:40:32,400
+GitHub.
+
+791
+00:40:32,400 --> 00:40:34,880
+And in GitHub, I'm going to go to my
+
+792
+00:40:34,880 --> 00:40:38,800
+repo. I'm go to weekly lessons
+
+793
+00:40:38,800 --> 00:40:42,960
+week a user scripts. And that go to
+
+794
+00:40:42,960 --> 00:40:45,599
+super a.sh.
+
+795
+00:40:45,599 --> 00:40:49,520
+And going to copy this. Just for anybody
+
+796
+00:40:49,520 --> 00:40:54,000
+who having problems with the navigation.
+
+797
+00:40:54,000 --> 00:40:56,480
+Here you go with the navigation.
+
+798
+00:40:56,480 --> 00:40:58,560
+Copy it.
+
+799
+00:40:58,560 --> 00:41:01,760
+Return over here and paste it here.
+
+800
+00:41:01,760 --> 00:41:04,760
+Okay.
+
+801
+00:41:04,960 --> 00:41:10,440
+And now you click here and say create.
+
+802
+00:41:12,480 --> 00:41:16,079
+Wow. What's the name of my VM?
+
+803
+00:41:16,079 --> 00:41:17,680
+Can somebody tell me what the name of my
+
+804
+00:41:17,680 --> 00:41:21,000
+VM is?
+
+805
+00:41:22,160 --> 00:41:24,800
+>> I want make sure you guys make sure to
+
+806
+00:41:24,800 --> 00:41:26,000
+reinforce it. What? What do you say,
+
+807
+00:41:26,000 --> 00:41:28,160
+DeAndre?
+
+808
+00:41:28,160 --> 00:41:30,720
+>> Oh, Vincent Lizo Lover.
+
+809
+00:41:30,720 --> 00:41:32,720
+>> Okay, good.
+
+810
+00:41:32,720 --> 00:41:37,720
+And what subnet is it in?
+
+811
+00:41:38,319 --> 00:41:42,520
+>> What's the IP of the subnet?
+
+812
+00:41:46,000 --> 00:41:48,079
+As a
+
+813
+00:41:48,079 --> 00:41:49,760
+>> What is it? It's right there on the
+
+814
+00:41:49,760 --> 00:41:52,760
+screen.
+
+815
+00:41:55,839 --> 00:41:59,119
+DeAndre, you need to know this.
+
+816
+00:41:59,119 --> 00:42:00,640
+If you don't know this, you don't this
+
+817
+00:42:00,640 --> 00:42:02,800
+is this is critical for you to
+
+818
+00:42:02,800 --> 00:42:06,720
+understand this. Okay? You cannot
+
+819
+00:42:06,720 --> 00:42:09,520
+not know this. You have to know this.
+
+820
+00:42:09,520 --> 00:42:14,319
+Okay. Um Christopher Alexander, what is
+
+821
+00:42:14,319 --> 00:42:17,520
+the internal or internal network for
+
+822
+00:42:17,520 --> 00:42:21,720
+this um subnet?
+
+823
+00:42:25,119 --> 00:42:28,920
+Christopher Alexander.
+
+824
+00:42:36,319 --> 00:42:39,119
+>> No, no, not 34. Where you getting the 34
+
+825
+00:42:39,119 --> 00:42:40,240
+from? I used
+
+826
+00:42:40,240 --> 00:42:42,000
+>> You're asking for the cider range for
+
+827
+00:42:42,000 --> 00:42:43,440
+the subnet, right?
+
+828
+00:42:43,440 --> 00:42:46,079
+>> Yeah.
+
+829
+00:42:48,480 --> 00:42:49,920
+If you can't, if you don't know what a
+
+830
+00:42:49,920 --> 00:42:54,680
+sire range is, put a three in the chat.
+
+831
+00:42:58,079 --> 00:42:59,920
+DeAndre, you've done this more than
+
+832
+00:42:59,920 --> 00:43:01,440
+once.
+
+833
+00:43:01,440 --> 00:43:03,839
+How do you make a subnet
+
+834
+00:43:03,839 --> 00:43:05,680
+without know not know without knowing a
+
+835
+00:43:05,680 --> 00:43:09,079
+cider range?
+
+836
+00:43:10,400 --> 00:43:12,480
+Well, at least they're Andres. Okay, you
+
+837
+00:43:12,480 --> 00:43:14,000
+guys need to get this because if you're
+
+838
+00:43:14,000 --> 00:43:15,440
+if you don't know this, you're saying
+
+839
+00:43:15,440 --> 00:43:17,359
+you're not making a subnet. That's what
+
+840
+00:43:17,359 --> 00:43:18,880
+that's what you're actually saying.
+
+841
+00:43:18,880 --> 00:43:22,319
+>> This is keep bringing it up that
+
+842
+00:43:22,319 --> 00:43:25,200
+especially if you're new to it. Like I
+
+843
+00:43:25,200 --> 00:43:28,079
+have the list of videos of background
+
+844
+00:43:28,079 --> 00:43:30,319
+networking knowledge that you really
+
+845
+00:43:30,319 --> 00:43:32,240
+should watch that would explain all of
+
+846
+00:43:32,240 --> 00:43:35,520
+this with nice pretty animations.
+
+847
+00:43:35,520 --> 00:43:36,400
+>> Yeah,
+
+848
+00:43:36,400 --> 00:43:39,680
+>> it's better than anyone can do in class.
+
+849
+00:43:39,680 --> 00:43:44,079
+this internal IP 192 16869.
+
+850
+00:43:44,079 --> 00:43:47,119
+This is your cider range. It's right
+
+851
+00:43:47,119 --> 00:43:50,000
+here on the screen. So, I make sure you
+
+852
+00:43:50,000 --> 00:43:52,240
+guys get this because if you don't get
+
+853
+00:43:52,240 --> 00:43:54,880
+this, you're going to have trouble. So,
+
+854
+00:43:54,880 --> 00:43:58,800
+that's your network. Okay? And I I had I
+
+855
+00:43:58,800 --> 00:44:00,720
+wrote it out here in the beginning. So,
+
+856
+00:44:00,720 --> 00:44:02,880
+that not only is your your cider well
+
+857
+00:44:02,880 --> 00:44:04,400
+your cider range actually is a little
+
+858
+00:44:04,400 --> 00:44:06,079
+different, but that is your internal
+
+859
+00:44:06,079 --> 00:44:09,119
+network that you're using right here.
+
+860
+00:44:09,119 --> 00:44:14,160
+It's right there stated 192 168 69.
+
+861
+00:44:14,160 --> 00:44:15,920
+All right.
+
+862
+00:44:15,920 --> 00:44:21,119
+And that is in compliance with RFC19
+
+863
+00:44:21,119 --> 00:44:24,720
+18. It's all together. Now, how do we
+
+864
+00:44:24,720 --> 00:44:26,480
+know this is the correct one? We did it
+
+865
+00:44:26,480 --> 00:44:28,880
+right.
+
+866
+00:44:28,880 --> 00:44:30,800
+First thing we're going to do is connect
+
+867
+00:44:30,800 --> 00:44:32,560
+here to SSH. Make sure we got things
+
+868
+00:44:32,560 --> 00:44:35,720
+done correctly.
+
+869
+00:44:45,680 --> 00:44:49,000
+Yep. Authorize.
+
+870
+00:44:52,560 --> 00:44:55,920
+Okay, good. Now I want to get some Oh, I
+
+871
+00:44:55,920 --> 00:44:58,160
+don't I was not trying to do that. What
+
+872
+00:44:58,160 --> 00:45:02,240
+just happened? Okay, let's go get this
+
+873
+00:45:02,240 --> 00:45:06,720
+right here. Oh, no. Don't want that.
+
+874
+00:45:06,720 --> 00:45:09,119
+There we go. I need some commands on
+
+875
+00:45:09,119 --> 00:45:13,400
+here real quick. Wait, where's my zoom?
+
+876
+00:45:14,720 --> 00:45:18,240
+Okay, so I need to go over here. Go back
+
+877
+00:45:18,240 --> 00:45:22,720
+to zoom. So I go back to my uh what is
+
+878
+00:45:22,720 --> 00:45:26,480
+it? My repo. I'm going to go to week a
+
+879
+00:45:26,480 --> 00:45:30,560
+text. I'm going to go down here and see
+
+880
+00:45:30,560 --> 00:45:34,880
+it has curl s local h localhost age. Go
+
+881
+00:45:34,880 --> 00:45:37,839
+ahead and copy that.
+
+882
+00:45:37,839 --> 00:45:40,319
+Go over here.
+
+883
+00:45:40,319 --> 00:45:43,720
+Paste it.
+
+884
+00:45:43,760 --> 00:45:45,760
+Ah, good. It gives me information that I
+
+885
+00:45:45,760 --> 00:45:48,079
+have that I need. So, I know this is
+
+886
+00:45:48,079 --> 00:45:50,160
+really working. It's not a joke. All
+
+887
+00:45:50,160 --> 00:45:52,319
+right. So, this is this is working
+
+888
+00:45:52,319 --> 00:45:55,119
+correctly.
+
+889
+00:45:55,119 --> 00:45:57,119
+Oh, what I want you to want to do next
+
+890
+00:45:57,119 --> 00:45:58,640
+is
+
+891
+00:45:58,640 --> 00:46:01,359
+we're going to go ahead and this
+
+892
+00:46:01,359 --> 00:46:05,200
+external IP. Copy it.
+
+893
+00:46:05,200 --> 00:46:09,599
+I'm going to say here http col/ slash
+
+894
+00:46:09,599 --> 00:46:11,599
+paste.
+
+895
+00:46:11,599 --> 00:46:14,319
+Now, this tells me
+
+896
+00:46:14,319 --> 00:46:16,800
+that I'm in the criteria.
+
+897
+00:46:16,800 --> 00:46:21,280
+All right. project project sir instance
+
+898
+00:46:21,280 --> 00:46:24,560
+Vincent leiso loverl lane and the
+
+899
+00:46:24,560 --> 00:46:29,720
+internal IP address is 192 16869.2
+
+900
+00:46:30,319 --> 00:46:32,400
+perfect
+
+901
+00:46:32,400 --> 00:46:35,760
+I know it's in the correct one okay go
+
+902
+00:46:35,760 --> 00:46:38,640
+ahead and copy this and you guys can put
+
+903
+00:46:38,640 --> 00:46:42,079
+this into the chat and we can work on
+
+904
+00:46:42,079 --> 00:46:43,599
+this and see make sure we correct each
+
+905
+00:46:43,599 --> 00:46:46,839
+other's work
+
+906
+00:46:49,040 --> 00:46:54,400
+There we go. Lisa Vero BEEN BIRTHDAY. A
+
+907
+00:46:54,400 --> 00:47:00,040
+no yeah you be you be tripping. Huh.
+
+908
+00:47:02,400 --> 00:47:05,520
+Okay. There we go.
+
+909
+00:47:05,520 --> 00:47:08,240
+Okay. There we go. I like it.
+
+910
+00:47:08,240 --> 00:47:11,240
+All right.
+
+911
+00:47:11,280 --> 00:47:13,359
+There we go.
+
+912
+00:47:13,359 --> 00:47:16,160
+Fight back. Shoot. I didn't go fight
+
+913
+00:47:16,160 --> 00:47:19,359
+back. You lost. All right,
+
+914
+00:47:19,359 --> 00:47:21,119
+there you go. There. Yeah. Yeah, you're
+
+915
+00:47:21,119 --> 00:47:26,839
+tr you're trying. Uh, Ernst,
+
+916
+00:47:28,400 --> 00:47:31,280
+there we go. Sovereign man. There we go.
+
+917
+00:47:31,280 --> 00:47:33,520
+Okay,
+
+918
+00:47:33,520 --> 00:47:36,920
+Mr. A.
+
+919
+00:47:38,800 --> 00:47:41,520
+Very good. Vincent
+
+920
+00:47:41,520 --> 00:47:44,720
+Leiso Lover. There we go.
+
+921
+00:47:44,720 --> 00:47:47,720
+Joe
+
+922
+00:47:50,640 --> 00:47:54,240
+Valkyrie and internal. There we go. Very
+
+923
+00:47:54,240 --> 00:47:57,040
+good, Joe.
+
+924
+00:47:57,040 --> 00:48:00,040
+Jock.
+
+925
+00:48:01,520 --> 00:48:03,920
+There we go. Instance, Iowa. Oh, you're
+
+926
+00:48:03,920 --> 00:48:08,880
+so nice, Jock. There you go.
+
+927
+00:48:08,880 --> 00:48:12,359
+All right, John.
+
+928
+00:48:13,839 --> 00:48:16,640
+There we go. Okay, I like this. Put in
+
+929
+00:48:16,640 --> 00:48:22,520
+Yokohama. There we go. Next one. Ted.
+
+930
+00:48:24,960 --> 00:48:28,839
+Good. Camp.
+
+931
+00:48:31,119 --> 00:48:32,800
+Good.
+
+932
+00:48:32,800 --> 00:48:36,520
+Kevin Wilcox.
+
+933
+00:48:38,480 --> 00:48:44,640
+Good. Okay. Charles Keys.
+
+934
+00:48:46,640 --> 00:48:48,480
+Good.
+
+935
+00:48:48,480 --> 00:48:50,559
+Okay. See, some of you guys got it. All
+
+936
+00:48:50,559 --> 00:48:52,160
+right.
+
+937
+00:48:52,160 --> 00:48:54,000
+All right. So, what we're going to do
+
+938
+00:48:54,000 --> 00:48:59,200
+now is make another uh VM. All right.
+
+939
+00:48:59,200 --> 00:49:03,400
+So, create instance right here.
+
+940
+00:49:05,520 --> 00:49:11,040
+This one I'm going to call it S Paulo.
+
+941
+00:49:11,040 --> 00:49:14,960
+Uh, what's a good one?
+
+942
+00:49:14,960 --> 00:49:17,760
+Uh, special.
+
+943
+00:49:17,760 --> 00:49:19,280
+The region I'm going to choose for this
+
+944
+00:49:19,280 --> 00:49:21,599
+is going to be Sao Paulo.
+
+945
+00:49:21,599 --> 00:49:23,920
+All right.
+
+946
+00:49:23,920 --> 00:49:27,040
+We'll put this over here.
+
+947
+00:49:27,040 --> 00:49:30,040
+Okay.
+
+948
+00:49:31,280 --> 00:49:34,319
+$40. Yep, that's right. Yeah, this is
+
+949
+00:49:34,319 --> 00:49:35,920
+kind of the problem I'm kind of seeing
+
+950
+00:49:35,920 --> 00:49:38,160
+right now with Brazil.
+
+951
+00:49:38,160 --> 00:49:40,240
+It it looks great, but it's more
+
+952
+00:49:40,240 --> 00:49:41,839
+expensive. Doesn't make sense, but it's
+
+953
+00:49:41,839 --> 00:49:44,720
+more expensive. All right. OS and
+
+954
+00:49:44,720 --> 00:49:47,520
+storage, nothing. Data protection, no
+
+955
+00:49:47,520 --> 00:49:50,559
+backups, networking.
+
+956
+00:49:50,559 --> 00:49:53,520
+Going to do this again. Allow HTTP
+
+957
+00:49:53,520 --> 00:49:58,079
+traffic. Okay. Scroll down.
+
+958
+00:49:58,079 --> 00:50:00,400
+Network interface.
+
+959
+00:50:00,400 --> 00:50:03,040
+Network is not default.
+
+960
+00:50:03,040 --> 00:50:06,880
+Put it into elite 8. You notice that my
+
+961
+00:50:06,880 --> 00:50:09,920
+SA Paulo
+
+962
+00:50:09,920 --> 00:50:14,000
+custom subnet appeared automatically
+
+963
+00:50:14,000 --> 00:50:15,440
+because I configured it from the
+
+964
+00:50:15,440 --> 00:50:17,280
+beginning.
+
+965
+00:50:17,280 --> 00:50:20,160
+Right?
+
+966
+00:50:20,160 --> 00:50:24,839
+What is my network range for Salo?
+
+967
+00:50:26,079 --> 00:50:28,000
+Put it into the chat. What is my network
+
+968
+00:50:28,000 --> 00:50:31,559
+range for Salo?
+
+969
+00:50:38,319 --> 00:50:41,319
+Nope.
+
+970
+00:50:51,680 --> 00:50:55,079
+Give me my number
+
+971
+00:50:55,200 --> 00:50:58,000
+or give me my subnet value.
+
+972
+00:50:58,000 --> 00:51:01,880
+What's my subnet value?
+
+973
+00:51:02,400 --> 00:51:05,400
+Uh,
+
+974
+00:51:08,160 --> 00:51:10,559
+you're getting there. That's close.
+
+975
+00:51:10,559 --> 00:51:12,319
+Yeah, I I can see how you say that. That
+
+976
+00:51:12,319 --> 00:51:16,000
+way, that's actually not correct.
+
+977
+00:51:16,000 --> 00:51:18,400
+You're close there, Gregory. You got one
+
+978
+00:51:18,400 --> 00:51:21,599
+of the octets correct. I need I need uh
+
+979
+00:51:21,599 --> 00:51:23,920
+three more.
+
+980
+00:51:23,920 --> 00:51:25,920
+So, that's right. So, Josh Ox is
+
+981
+00:51:25,920 --> 00:51:29,119
+correct. 1921 168.1
+
+982
+00:51:29,119 --> 00:51:31,839
+120. that is the subnet value. You can
+
+983
+00:51:31,839 --> 00:51:34,720
+go further and say024.
+
+984
+00:51:34,720 --> 00:51:36,079
+So all you have to do is say the
+
+985
+00:51:36,079 --> 00:51:38,480
+entirety of it and that's what it is.
+
+986
+00:51:38,480 --> 00:51:42,800
+That's your subnet value. Uh Aaron,
+
+987
+00:51:42,800 --> 00:51:46,000
+>> so if I were to answer that, I would
+
+988
+00:51:46,000 --> 00:51:47,599
+kind of answer it differently. Maybe it
+
+989
+00:51:47,599 --> 00:51:50,720
+makes more sense to the new guys is he's
+
+990
+00:51:50,720 --> 00:51:54,960
+asking like this range. So
+
+991
+00:51:54,960 --> 00:51:56,720
+you guys will have to look that you know
+
+992
+00:51:56,720 --> 00:51:58,960
+study this later but this is like a
+
+993
+00:51:58,960 --> 00:52:02,800
+shortcut notation here the slash24.
+
+994
+00:52:02,800 --> 00:52:05,599
+Another way to say this is this is a
+
+995
+00:52:05,599 --> 00:52:11,319
+range of IP addresses from 192.168.120.0
+
+996
+00:52:12,319 --> 00:52:16,920
+all the way through 192.168.120.255.
+
+997
+00:52:18,160 --> 00:52:20,480
+>> Yeah. Although technically
+
+998
+00:52:20,480 --> 00:52:23,480
+192.168.120.0.1.254.255
+
+999
+00:52:26,240 --> 00:52:28,800
+are reserved, but that's basically what
+
+1000
+00:52:28,800 --> 00:52:30,240
+it said.
+
+1001
+00:52:30,240 --> 00:52:31,599
+>> Yep.
+
+1002
+00:52:31,599 --> 00:52:33,760
+>> Yeah.
+
+1003
+00:52:33,760 --> 00:52:37,040
+>> So, okay.
+
+1004
+00:52:37,040 --> 00:52:39,280
+There we go. So, I just want to make
+
+1005
+00:52:39,280 --> 00:52:41,520
+sure you guys understand this. The
+
+1006
+00:52:41,520 --> 00:52:46,079
+subnet is there. Right there. Okay.
+
+1007
+00:52:46,079 --> 00:52:49,599
+and go down here and
+
+1008
+00:52:49,599 --> 00:52:52,800
+go to advanced. Same thing. Go back to
+
+1009
+00:52:52,800 --> 00:52:54,559
+my repo.
+
+1010
+00:52:54,559 --> 00:52:57,440
+Copy it.
+
+1011
+00:52:57,440 --> 00:53:01,319
+Start script. Paste.
+
+1012
+00:53:02,079 --> 00:53:06,599
+Okay. And now create.
+
+1013
+00:53:11,119 --> 00:53:15,800
+So what is the name of my first VM?
+
+1014
+00:53:19,839 --> 00:53:24,079
+What is the name of my first VM?
+
+1015
+00:53:24,079 --> 00:53:27,079
+>> Vis.
+
+1016
+00:53:27,200 --> 00:53:31,040
+>> Good. What is the name of my second
+
+1017
+00:53:31,040 --> 00:53:34,040
+VM?
+
+1018
+00:53:38,960 --> 00:53:41,280
+>> Sound special.
+
+1019
+00:53:41,280 --> 00:53:42,160
+>> Special.
+
+1020
+00:53:42,160 --> 00:53:44,000
+>> S Paulo Special. What is the name of my
+
+1021
+00:53:44,000 --> 00:53:47,640
+first VM again?
+
+1022
+00:53:48,880 --> 00:53:51,280
+>> Vincent Lizo Lover Lane.
+
+1023
+00:53:51,280 --> 00:53:54,319
+>> Oh, that's good. What is the IP address,
+
+1024
+00:53:54,319 --> 00:53:59,839
+the internal IP address of the first VM?
+
+1025
+00:53:59,839 --> 00:54:03,480
+>> Uh 192.168.69.2.
+
+1026
+00:54:05,119 --> 00:54:06,800
+>> Good.
+
+1027
+00:54:06,800 --> 00:54:10,480
+I like that. Here you go. Oh, Vincent, I
+
+1028
+00:54:10,480 --> 00:54:13,440
+was you're you're helping them learn so
+
+1029
+00:54:13,440 --> 00:54:16,079
+much today. Thank you for being a
+
+1030
+00:54:16,079 --> 00:54:17,839
+teacher's assistant today. Thank you,
+
+1031
+00:54:17,839 --> 00:54:21,119
+Vincent. They're learning a lot. They're
+
+1032
+00:54:21,119 --> 00:54:23,760
+learning a lot. Everybody's learning
+
+1033
+00:54:23,760 --> 00:54:27,040
+today. Especially you, Vincent.
+
+1034
+00:54:27,040 --> 00:54:29,680
+Langy boy, what was your question?
+
+1035
+00:54:29,680 --> 00:54:33,119
+>> Oh, um I was beyond lost. Okay. After I
+
+1036
+00:54:33,119 --> 00:54:37,040
+make the the VPC network, what was the
+
+1037
+00:54:37,040 --> 00:54:38,400
+next step?
+
+1038
+00:54:38,400 --> 00:54:41,359
+>> The keep on following. That's it. You
+
+1039
+00:54:41,359 --> 00:54:42,640
+might have to go.
+
+1040
+00:54:42,640 --> 00:54:44,079
+>> Yeah, you it looks like you didn't make
+
+1041
+00:54:44,079 --> 00:54:46,400
+the subnets. So, I can't go back to that
+
+1042
+00:54:46,400 --> 00:54:47,359
+right now.
+
+1043
+00:54:47,359 --> 00:54:49,119
+>> Sorry.
+
+1044
+00:54:49,119 --> 00:54:51,040
+>> All right.
+
+1045
+00:54:51,040 --> 00:54:52,240
+>> I'll show you how to make another I'll
+
+1046
+00:54:52,240 --> 00:54:55,880
+put another subnet in.
+
+1047
+00:55:01,359 --> 00:55:03,760
+Okay. So, first thing I'm going to do
+
+1048
+00:55:03,760 --> 00:55:06,400
+for Salpollo special, I'm going to go
+
+1049
+00:55:06,400 --> 00:55:09,520
+over here, copy it to the clipboard.
+
+1050
+00:55:09,520 --> 00:55:12,079
+All right. And
+
+1051
+00:55:12,079 --> 00:55:17,240
+click on SSH. Make sure SSH is working.
+
+1052
+00:55:24,079 --> 00:55:27,400
+Yes. Authorize
+
+1053
+00:55:29,359 --> 00:55:32,240
+SSH works. Good. Next, I'm going to take
+
+1054
+00:55:32,240 --> 00:55:38,760
+go over here. http col/ slash paste.
+
+1055
+00:55:40,480 --> 00:55:43,520
+Wait a minute. What the hell?
+
+1056
+00:55:43,520 --> 00:55:46,559
+Did I There's no way. I know. I clicked
+
+1057
+00:55:46,559 --> 00:55:48,880
+it.
+
+1058
+00:55:48,880 --> 00:55:50,799
+Hold on.
+
+1059
+00:55:50,799 --> 00:55:54,400
+>> You put a startup script in.
+
+1060
+00:55:54,400 --> 00:55:57,119
+>> No. Uh, let me
+
+1061
+00:55:57,119 --> 00:55:58,880
+>> go to the very bottom. It'll show if
+
+1062
+00:55:58,880 --> 00:56:00,640
+there's a startup script.
+
+1063
+00:56:00,640 --> 00:56:03,599
+>> No, I need to do networking.
+
+1064
+00:56:03,599 --> 00:56:07,359
+>> Yeah, you you did HTTP traffic.
+
+1065
+00:56:07,359 --> 00:56:09,119
+>> It has the network tag.
+
+1066
+00:56:09,119 --> 00:56:12,720
+>> There it is right there. Yep. Uh
+
+1067
+00:56:12,720 --> 00:56:14,799
+>> go to the go to the very bottom under
+
+1068
+00:56:14,799 --> 00:56:17,799
+metadata.
+
+1069
+00:56:18,160 --> 00:56:21,839
+So, no startup script. See if
+
+1070
+00:56:21,839 --> 00:56:24,160
+>> I pasted. Oh, okay. You just have empty
+
+1071
+00:56:24,160 --> 00:56:25,839
+line. Oh, you copied the wrong thing.
+
+1072
+00:56:25,839 --> 00:56:28,079
+That's not a startup script at all. Oh
+
+1073
+00:56:28,079 --> 00:56:31,520
+my god. I did do that, didn't I? Oh
+
+1074
+00:56:31,520 --> 00:56:34,240
+[ __ ] I have to do this again. Okay,
+
+1075
+00:56:34,240 --> 00:56:36,079
+hold on. I'll finish this real quick.
+
+1076
+00:56:36,079 --> 00:56:38,000
+>> But that's good for the students to see.
+
+1077
+00:56:38,000 --> 00:56:42,000
+We It didn't work. Checked. We have HTTP
+
+1078
+00:56:42,000 --> 00:56:46,920
+access. Do we have startup script?
+
+1079
+00:56:47,359 --> 00:56:50,359
+>> Hey,
+
+1080
+00:56:54,240 --> 00:56:55,680
+this is machine image. I don't want to
+
+1081
+00:56:55,680 --> 00:57:01,880
+machine instances. Uh create instance
+
+1082
+00:57:04,799 --> 00:57:06,480
+to
+
+1083
+00:57:06,480 --> 00:57:10,119
+the solo.
+
+1084
+00:57:22,400 --> 00:57:24,559
+>> Yeah, I did. I thought I was in the
+
+1085
+00:57:24,559 --> 00:57:27,720
+right place.
+
+1086
+00:57:28,240 --> 00:57:31,240
+Yeah.
+
+1087
+00:57:32,400 --> 00:57:35,040
+Okay.
+
+1088
+00:57:35,040 --> 00:57:37,760
+I missed in here working. Oh, that's
+
+1089
+00:57:37,760 --> 00:57:40,760
+right.
+
+1090
+00:57:42,720 --> 00:57:45,040
+There it is. Okay.
+
+1091
+00:57:45,040 --> 00:57:47,119
+And
+
+1092
+00:57:47,119 --> 00:57:50,520
+let's try
+
+1093
+00:57:53,359 --> 00:57:56,359
+Uh,
+
+1094
+00:58:08,400 --> 00:58:10,640
+>> that's good for them to see though your
+
+1095
+00:58:10,640 --> 00:58:14,079
+internal IP.
+
+1096
+00:58:14,079 --> 00:58:14,640
+>> Yeah.
+
+1097
+00:58:14,640 --> 00:58:19,000
+>> You see the pattern here, guys?
+
+1098
+00:58:19,359 --> 00:58:20,960
+>> 2.3
+
+1099
+00:58:20,960 --> 00:58:24,559
+it increases.
+
+1100
+00:58:26,799 --> 00:58:31,960
+What? I can make a few of these.
+
+1101
+00:58:38,240 --> 00:58:41,640
+Okay. Authorize.
+
+1102
+00:58:46,079 --> 00:58:48,799
+That's it. Your demand.
+
+1103
+00:58:48,799 --> 00:58:52,760
+Okay. Copy this one.
+
+1104
+00:58:54,559 --> 00:58:58,160
+There it goes. Okay. So, here it is. VPC
+
+1105
+00:58:58,160 --> 00:59:02,079
+Elite 8 instance Apollo 2 and I'm in the
+
+1106
+00:59:02,079 --> 00:59:04,720
+correct region. Okay.
+
+1107
+00:59:04,720 --> 00:59:08,640
+The other region was Mumbai that's where
+
+1108
+00:59:08,640 --> 00:59:13,160
+Vincent which remember
+
+1109
+00:59:15,359 --> 00:59:18,559
+the other reason this is Asia South one
+
+1110
+00:59:18,559 --> 00:59:21,200
+right it's a Mumbai and the name of that
+
+1111
+00:59:21,200 --> 00:59:22,799
+one what's the name of the first
+
+1112
+00:59:22,799 --> 00:59:26,400
+instance again I forgot
+
+1113
+00:59:26,400 --> 00:59:28,319
+what is the name of the first instance
+
+1114
+00:59:28,319 --> 00:59:31,040
+can somebody tell me
+
+1115
+00:59:31,040 --> 00:59:33,359
+>> ah there you go thank you I I had a hard
+
+1116
+00:59:33,359 --> 00:59:34,960
+time reading that I having a hard time.
+
+1117
+00:59:34,960 --> 00:59:38,559
+Okay. And what is the IP the internal IP
+
+1118
+00:59:38,559 --> 00:59:42,760
+address for the first one?
+
+1119
+00:59:45,760 --> 00:59:48,760
+>> 192.168.69.2.
+
+1120
+00:59:48,960 --> 00:59:54,040
+>> Good. What is the name of the second VM?
+
+1121
+00:59:54,880 --> 00:59:57,440
+>> 192.168.12.
+
+1122
+00:59:57,440 --> 00:59:59,839
+>> No. What is the name of the second VM?
+
+1123
+00:59:59,839 --> 01:00:02,960
+>> Oh, S. Paulo 2.
+
+1124
+01:00:02,960 --> 01:00:07,240
+>> Good. Where is it located?
+
+1125
+01:00:09,200 --> 01:00:12,720
+Where in which region?
+
+1126
+01:00:12,720 --> 01:00:14,960
+>> South America.
+
+1127
+01:00:14,960 --> 01:00:17,040
+>> America. East.
+
+1128
+01:00:17,040 --> 01:00:20,000
+>> Okay. So remember, South America is a
+
+1129
+01:00:20,000 --> 01:00:22,319
+continent.
+
+1130
+01:00:22,319 --> 01:00:25,280
+So you'd either need to name the actual
+
+1131
+01:00:25,280 --> 01:00:30,319
+city or go right for the zone. But
+
+1132
+01:00:30,319 --> 01:00:33,440
+everybody would just say Sa Paulo. It's
+
+1133
+01:00:33,440 --> 01:00:36,079
+located in Sao Paulo.
+
+1134
+01:00:36,079 --> 01:00:38,000
+Make sure you get the say the word
+
+1135
+01:00:38,000 --> 01:00:40,880
+correctly. Sao Paulo. If you say South
+
+1136
+01:00:40,880 --> 01:00:42,720
+America East one, nobody will know what
+
+1137
+01:00:42,720 --> 01:00:45,440
+you're talking about. It's like if I say
+
+1138
+01:00:45,440 --> 01:00:48,559
+US Central one, nobody knows what that
+
+1139
+01:00:48,559 --> 01:00:52,000
+is. Just say Iowa. Everybody knows what
+
+1140
+01:00:52,000 --> 01:00:58,240
+Iowa is. Okay. Salo 2 VM's
+
+1141
+01:00:58,240 --> 01:01:00,720
+IP address. The internal IV press is
+
+1142
+01:01:00,720 --> 01:01:03,680
+what?
+
+1143
+01:01:13,440 --> 01:01:16,079
+1 192.168.1
+
+1144
+01:01:16,079 --> 01:01:17,760
+12.3.
+
+1145
+01:01:17,760 --> 01:01:21,280
+>> Yep. Yep. Um, you don't say I have to
+
+1146
+01:01:21,280 --> 01:01:24,240
+say point say dot
+
+1147
+01:01:24,240 --> 01:01:26,000
+or if you really want to just say go
+
+1148
+01:01:26,000 --> 01:01:30,480
+quick 192 168 123.
+
+1149
+01:01:30,480 --> 01:01:32,799
+That's it.
+
+1150
+01:01:32,799 --> 01:01:34,559
+Because if you say it a lot, you're
+
+1151
+01:01:34,559 --> 01:01:36,880
+saying dot dot dot dot dot point point.
+
+1152
+01:01:36,880 --> 01:01:39,040
+It gets redundant. You get tired of
+
+1153
+01:01:39,040 --> 01:01:41,520
+saying it. So you just say the numbers.
+
+1154
+01:01:41,520 --> 01:01:42,640
+Everybody knows what you're talking
+
+1155
+01:01:42,640 --> 01:01:45,640
+about.
+
+1156
+01:01:46,079 --> 01:01:52,040
+Okay, there we go. Got that there.
+
+1157
+01:01:53,280 --> 01:01:56,480
+There you go. Yep. Cord fields. Okay, so
+
+1158
+01:01:56,480 --> 01:01:58,880
+what we got here,
+
+1159
+01:01:58,880 --> 01:02:03,240
+Mr. A? We got
+
+1160
+01:02:03,680 --> 01:02:06,400
+good
+
+1161
+01:02:06,400 --> 01:02:09,799
+Mr. K.
+
+1162
+01:02:12,960 --> 01:02:15,960
+Good.
+
+1163
+01:02:16,240 --> 01:02:19,960
+Okay. Vincent
+
+1164
+01:02:22,240 --> 01:02:25,280
+S. Paul special. Good.
+
+1165
+01:02:25,280 --> 01:02:27,040
+I'm surprised they didn't say like save
+
+1166
+01:02:27,040 --> 01:02:32,040
+me or something. Kevin Wilcox.
+
+1167
+01:02:34,880 --> 01:02:38,640
+Good. I like this.
+
+1168
+01:02:38,640 --> 01:02:44,119
+Okay. William gave.
+
+1169
+01:02:45,359 --> 01:02:49,280
+Okay. Good. Okay.
+
+1170
+01:02:49,280 --> 01:02:55,240
+Okay. Good. Let's go. Rob. No. Bob.
+
+1171
+01:02:57,040 --> 01:02:59,040
+Lori. I like the [ __ ] I've been flying
+
+1172
+01:02:59,040 --> 01:03:02,200
+in Floria.
+
+1173
+01:03:02,880 --> 01:03:06,520
+I should go to Floripa.
+
+1174
+01:03:06,720 --> 01:03:08,559
+Marry a poor spent a lot of money to
+
+1175
+01:03:08,559 --> 01:03:10,640
+marry a poor Brazilian.
+
+1176
+01:03:10,640 --> 01:03:14,640
+Uh, good. But, uh, Ted, good. All right.
+
+1177
+01:03:14,640 --> 01:03:16,480
+Now, guys, I want you to use the status
+
+1178
+01:03:16,480 --> 01:03:19,200
+group. I want you to use Super A because
+
+1179
+01:03:19,200 --> 01:03:21,520
+it gets more information. All right.
+
+1180
+01:03:21,520 --> 01:03:26,839
+From now on, use Super A. Josh Ox.
+
+1181
+01:03:27,920 --> 01:03:30,079
+Good Brazilian baddies. Yeah, everybody
+
+1182
+01:03:30,079 --> 01:03:32,240
+wants me to go to Brazilian, right?
+
+1183
+01:03:32,240 --> 01:03:35,240
+Jock.
+
+1184
+01:03:36,880 --> 01:03:40,280
+There you go.
+
+1185
+01:03:42,240 --> 01:03:45,240
+Joe,
+
+1186
+01:03:47,680 --> 01:03:50,079
+good.
+
+1187
+01:03:50,079 --> 01:03:53,079
+Charles
+
+1188
+01:03:55,599 --> 01:04:00,799
+Wuang. I like it. I'll take it.
+
+1189
+01:04:00,799 --> 01:04:06,319
+There you go. Elite 8. Okay, good. Now,
+
+1190
+01:04:06,319 --> 01:04:07,760
+let's go ahead. Let's go back to what
+
+1191
+01:04:07,760 --> 01:04:09,599
+Langy Boy was having. I think Langy Boy
+
+1192
+01:04:09,599 --> 01:04:12,000
+was having it. We need to go back and we
+
+1193
+01:04:12,000 --> 01:04:15,280
+need to create another subnet. Okay, so
+
+1194
+01:04:15,280 --> 01:04:17,039
+we create another subnet. Let's do this
+
+1195
+01:04:17,039 --> 01:04:20,280
+real quick.
+
+1196
+01:04:22,799 --> 01:04:24,720
+We want to put another subnet into Elite
+
+1197
+01:04:24,720 --> 01:04:28,000
+8. What we do here is first at the top
+
+1198
+01:04:28,000 --> 01:04:30,400
+say VPC
+
+1199
+01:04:30,400 --> 01:04:32,640
+VPC networks.
+
+1200
+01:04:32,640 --> 01:04:35,760
+Click on come. Right now I have three
+
+1201
+01:04:35,760 --> 01:04:39,039
+VPCs. Now remember your default VPC.
+
+1202
+01:04:39,039 --> 01:04:40,799
+Don't mess with that. Leave that alone.
+
+1203
+01:04:40,799 --> 01:04:44,319
+Do not touch it. I have birthday VPC
+
+1204
+01:04:44,319 --> 01:04:47,119
+from yesterday and I have Elite 8 VPC
+
+1205
+01:04:47,119 --> 01:04:49,119
+from today. I'm going to go ahead and
+
+1206
+01:04:49,119 --> 01:04:52,160
+use Elite 8. Okay.
+
+1207
+01:04:52,160 --> 01:04:57,200
+Now, here go to subnets and I need to
+
+1208
+01:04:57,200 --> 01:04:59,039
+add a subnet.
+
+1209
+01:04:59,039 --> 01:05:00,960
+Okay.
+
+1210
+01:05:00,960 --> 01:05:03,280
+Before I add the subnet, I need to think
+
+1211
+01:05:03,280 --> 01:05:06,559
+about what subnet am I going to add. So,
+
+1212
+01:05:06,559 --> 01:05:07,680
+I'm going to go back over here in my
+
+1213
+01:05:07,680 --> 01:05:09,200
+paper.
+
+1214
+01:05:09,200 --> 01:05:14,000
+Okay. H what subnet should I do today?
+
+1215
+01:05:14,000 --> 01:05:18,640
+So, let's do
+
+1216
+01:05:18,640 --> 01:05:20,559
+uh Is there Netherlands? Do they got one
+
+1217
+01:05:20,559 --> 01:05:23,799
+in the Netherlands?
+
+1218
+01:05:23,839 --> 01:05:27,480
+Do they have one in the Netherlands?
+
+1219
+01:05:27,680 --> 01:05:29,839
+What do they do?
+
+1220
+01:05:29,839 --> 01:05:31,680
+Madrid? I haven't put anything in over
+
+1221
+01:05:31,680 --> 01:05:34,160
+there yet. So, Netherlands, they do.
+
+1222
+01:05:34,160 --> 01:05:38,280
+Okay, so Netherlands
+
+1223
+01:05:43,440 --> 01:05:48,079
+Netherlands and going to call this one 1
+
+1224
+01:05:48,079 --> 01:05:50,480
+92.168
+
+1225
+01:05:50,480 --> 01:05:54,640
+dot oh that's good
+
+1226
+01:05:54,640 --> 01:05:58,240
+what what number 53
+
+1227
+01:05:58,240 --> 01:06:01,240
+53.0224
+
+1228
+01:06:03,520 --> 01:06:07,119
+Okay. So that's my subnet. Again, you
+
+1229
+01:06:07,119 --> 01:06:08,640
+should always on a piece of paper plan
+
+1230
+01:06:08,640 --> 01:06:10,240
+out your subnets first before you do any
+
+1231
+01:06:10,240 --> 01:06:11,760
+configuration.
+
+1232
+01:06:11,760 --> 01:06:14,799
+So then take this subnet,
+
+1233
+01:06:14,799 --> 01:06:16,960
+copy it.
+
+1234
+01:06:16,960 --> 01:06:22,680
+Okay. So name of my subnets Netherlands
+
+1235
+01:06:22,880 --> 01:06:25,520
+descriptions
+
+1236
+01:06:25,520 --> 01:06:27,440
+another
+
+1237
+01:06:27,440 --> 01:06:29,839
+call this cosmic
+
+1238
+01:06:29,839 --> 01:06:31,920
+techno
+
+1239
+01:06:31,920 --> 01:06:36,280
+underground party.
+
+1240
+01:06:36,640 --> 01:06:42,160
+My region is going to be Netherlands.
+
+1241
+01:06:42,160 --> 01:06:45,920
+There we go. So VPC network is Elite 8.
+
+1242
+01:06:45,920 --> 01:06:48,880
+Okay. And the purpose what the heck is
+
+1243
+01:06:48,880 --> 01:06:51,880
+this?
+
+1244
+01:06:52,960 --> 01:06:54,400
+I don't have to do I'm not going to do
+
+1245
+01:06:54,400 --> 01:06:58,319
+anything with that. IP stack is there
+
+1246
+01:06:58,319 --> 01:07:00,480
+and range. I'm going copy my range.
+
+1247
+01:07:00,480 --> 01:07:04,000
+There it is. All right. private Google
+
+1248
+01:07:04,000 --> 01:07:06,480
+access on.
+
+1249
+01:07:06,480 --> 01:07:09,039
+All right. And going to go ahead and add
+
+1250
+01:07:09,039 --> 01:07:13,200
+it. Should be easy.
+
+1251
+01:07:13,200 --> 01:07:17,559
+We've now added another subnet.
+
+1252
+01:07:20,079 --> 01:07:22,799
+Does anybody have a question regarding
+
+1253
+01:07:22,799 --> 01:07:27,240
+subnets? How to add a subnet?
+
+1254
+01:07:36,960 --> 01:07:40,640
+Oh. Oh, Vincent, this sub this subnet
+
+1255
+01:07:40,640 --> 01:07:42,799
+isn't going away. I just want you to
+
+1256
+01:07:42,799 --> 01:07:45,440
+know. So, I'm going to delete the other
+
+1257
+01:07:45,440 --> 01:07:49,200
+subnetss, but Elite 8 and Vincent Leiso
+
+1258
+01:07:49,200 --> 01:07:52,000
+Booty subnet is going to stay here for
+
+1259
+01:07:52,000 --> 01:07:55,200
+every class. I'm just saying every one
+
+1260
+01:07:55,200 --> 01:07:57,359
+of those is there. I don't know why
+
+1261
+01:07:57,359 --> 01:08:00,240
+though. I can't figure out why, but it's
+
+1262
+01:08:00,240 --> 01:08:04,839
+gonna stay. All right.
+
+1263
+01:08:06,319 --> 01:08:09,039
+All right. So, I want to go ahead and
+
+1264
+01:08:09,039 --> 01:08:11,760
+create an instance.
+
+1265
+01:08:11,760 --> 01:08:14,079
+Okay. So, create instance. We'll go over
+
+1266
+01:08:14,079 --> 01:08:17,079
+here.
+
+1267
+01:08:18,000 --> 01:08:22,120
+Call this one Netherlands
+
+1268
+01:08:25,600 --> 01:08:27,359
+rave.
+
+1269
+01:08:27,359 --> 01:08:31,719
+I'm going to put this into another lens.
+
+1270
+01:08:33,199 --> 01:08:36,560
+Okay. Go down.
+
+1271
+01:08:36,560 --> 01:08:40,400
+Data protection. No backup. Networking.
+
+1272
+01:08:40,400 --> 01:08:44,159
+Allow HTTP traffic first. What? Next.
+
+1273
+01:08:44,159 --> 01:08:46,239
+Network interface.
+
+1274
+01:08:46,239 --> 01:08:50,480
+Network default. Change that to Elite 8.
+
+1275
+01:08:50,480 --> 01:08:53,359
+Automatically goes to Netherlands. Okay.
+
+1276
+01:08:53,359 --> 01:08:55,759
+See how it went? Subnet is automatically
+
+1277
+01:08:55,759 --> 01:09:00,319
+determined. So nice. Go to advanced. I
+
+1278
+01:09:00,319 --> 01:09:02,799
+need my starter script. Guys, startup
+
+1279
+01:09:02,799 --> 01:09:05,520
+script. Use super a.sh.
+
+1280
+01:09:05,520 --> 01:09:08,400
+Use this one. Super a.sh.
+
+1281
+01:09:08,400 --> 01:09:10,719
+Copy this one because it gives me the
+
+1282
+01:09:10,719 --> 01:09:13,120
+information that I need.
+
+1283
+01:09:13,120 --> 01:09:15,679
+Okay. Go back.
+
+1284
+01:09:15,679 --> 01:09:19,560
+Paste. Okay.
+
+1285
+01:09:20,080 --> 01:09:23,480
+Scroll down.
+
+1286
+01:09:24,239 --> 01:09:25,920
+Okay.
+
+1287
+01:09:25,920 --> 01:09:28,920
+And
+
+1288
+01:09:29,120 --> 01:09:33,159
+okay, hold on.
+
+1289
+01:09:33,920 --> 01:09:37,880
+Can I have a little fun here?
+
+1290
+01:09:42,319 --> 01:09:46,199
+No, I can't. Can I
+
+1291
+01:09:46,319 --> 01:09:49,480
+do that?
+
+1292
+01:09:49,920 --> 01:09:52,920
+Okay.
+
+1293
+01:09:57,840 --> 01:10:00,840
+Good.
+
+1294
+01:10:18,400 --> 01:10:19,920
+Okay.
+
+1295
+01:10:19,920 --> 01:10:21,120
+So,
+
+1296
+01:10:21,120 --> 01:10:25,880
+What is the name of my third VM?
+
+1297
+01:10:29,199 --> 01:10:31,199
+>> Netherlands rave.
+
+1298
+01:10:31,199 --> 01:10:35,280
+>> Good. In which region is it?
+
+1299
+01:10:35,280 --> 01:10:36,960
+>> Netherlands.
+
+1300
+01:10:36,960 --> 01:10:42,840
+>> Good. What is the internal IP of it?
+
+1301
+01:10:43,440 --> 01:10:46,440
+>> 192.168532.
+
+1302
+01:10:47,280 --> 01:10:50,880
+>> Good. There you go. So to make sure that
+
+1303
+01:10:50,880 --> 01:10:56,199
+it works, click here SSH.
+
+1304
+01:11:01,199 --> 01:11:04,480
+Uh we're using Mumbai because it's a
+
+1305
+01:11:04,480 --> 01:11:07,679
+perfect place for Vincent and Liso to
+
+1306
+01:11:07,679 --> 01:11:10,159
+have their honeymoon.
+
+1307
+01:11:10,159 --> 01:11:16,800
+That's why the subnet is 168 192 168.69
+
+1308
+01:11:16,800 --> 01:11:20,000
+because they want to get busy.
+
+1309
+01:11:20,000 --> 01:11:21,840
+Oh, it's going to be curry flavored,
+
+1310
+01:11:21,840 --> 01:11:27,480
+just so you know. Okay, support 22.
+
+1311
+01:11:29,600 --> 01:11:31,920
+Okay,
+
+1312
+01:11:31,920 --> 01:11:36,880
+I say like Theo, you have no chill.
+
+1313
+01:11:36,880 --> 01:11:40,440
+You have no mercy.
+
+1314
+01:11:41,920 --> 01:11:43,840
+Look at
+
+1315
+01:11:43,840 --> 01:11:49,800
+Oh god. See this one? Okay. instance.
+
+1316
+01:11:56,400 --> 01:11:59,400
+Sorry.
+
+1317
+01:12:04,320 --> 01:12:06,960
+No,
+
+1318
+01:12:06,960 --> 01:12:10,600
+I don't think it's funny.
+
+1319
+01:12:14,560 --> 01:12:19,000
+Okay. Right.
+
+1320
+01:12:20,960 --> 01:12:24,719
+So region is Europe West 4 with the
+
+1321
+01:12:24,719 --> 01:12:26,400
+Netherlands.
+
+1322
+01:12:26,400 --> 01:12:28,800
+Your zone is Europe West 4C or you can
+
+1323
+01:12:28,800 --> 01:12:32,800
+just say C. All right. And then you have
+
+1324
+01:12:32,800 --> 01:12:35,840
+instance name Netherlands rave. Okay. So
+
+1325
+01:12:35,840 --> 01:12:37,760
+let's see what you guys got. Vincent,
+
+1326
+01:12:37,760 --> 01:12:41,080
+what you got?
+
+1327
+01:12:41,440 --> 01:12:43,840
+There you go. Class. There you go. Very
+
+1328
+01:12:43,840 --> 01:12:46,159
+good. Vincent's trying to get on my good
+
+1329
+01:12:46,159 --> 01:12:48,960
+side. Just just so you know, Vincent,
+
+1330
+01:12:48,960 --> 01:12:51,199
+you're gonna be my learn teachers aid
+
+1331
+01:12:51,199 --> 01:12:54,000
+every class for a while.
+
+1332
+01:12:54,000 --> 01:12:57,000
+Ted,
+
+1333
+01:12:58,960 --> 01:13:04,920
+there you go. I like it. Very good.
+
+1334
+01:13:11,840 --> 01:13:16,560
+Very good. Malaga, I like that.
+
+1335
+01:13:16,560 --> 01:13:18,640
+Very good. Ernst
+
+1336
+01:13:18,640 --> 01:13:21,640
+Joe,
+
+1337
+01:13:24,159 --> 01:13:27,760
+very good. Berlin Wall, I like it.
+
+1338
+01:13:27,760 --> 01:13:31,440
+Europe, West 10. Very good, Mr. Alex.
+
+1339
+01:13:31,440 --> 01:13:35,080
+Let's see what you got.
+
+1340
+01:13:35,840 --> 01:13:38,159
+There you go.
+
+1341
+01:13:38,159 --> 01:13:41,960
+William Gaval.
+
+1342
+01:13:44,960 --> 01:13:48,159
+Very good. Okay. Good.
+
+1343
+01:13:48,159 --> 01:13:51,560
+Kevin Wilcox.
+
+1344
+01:13:54,159 --> 01:13:57,480
+Very good.
+
+1345
+01:13:58,159 --> 01:14:01,719
+Charles Keys.
+
+1346
+01:14:04,800 --> 01:14:06,719
+Got Wuen.
+
+1347
+01:14:06,719 --> 01:14:11,520
+Good. Hold on. Uhoh. Your your VPC is
+
+1348
+01:14:11,520 --> 01:14:13,600
+default. You didn't put it into the
+
+1349
+01:14:13,600 --> 01:14:17,880
+correct VPC. Sorry, bro.
+
+1350
+01:14:22,000 --> 01:14:25,040
+Yep. Aaron had good eye there.
+
+1351
+01:14:25,040 --> 01:14:29,000
+Alexander Felder.
+
+1352
+01:14:29,120 --> 01:14:32,800
+So, Aussie County, Europe, West One,
+
+1353
+01:14:32,800 --> 01:14:36,960
+Cousins of Vader. I like it. I like it.
+
+1354
+01:14:36,960 --> 01:14:40,640
+Alexander Felder. Very good.
+
+1355
+01:14:40,640 --> 01:14:43,600
+There we go. I like it.
+
+1356
+01:14:43,600 --> 01:14:47,000
+Mr. K.
+
+1357
+01:14:50,480 --> 01:14:54,320
+Okay. Oh, yes. There we go. Plumbing.
+
+1358
+01:14:54,320 --> 01:14:57,120
+Plumbing Fridays. I like that. Love
+
+1359
+01:14:57,120 --> 01:14:59,840
+Kisha. There we go. Mr. K. I like it. I
+
+1360
+01:14:59,840 --> 01:15:04,360
+like what I see. Jacques.
+
+1361
+01:15:06,800 --> 01:15:10,000
+Saturday. There we go. There we go. Very
+
+1362
+01:15:10,000 --> 01:15:13,000
+good.
+
+1363
+01:15:13,280 --> 01:15:16,640
+All right. I like what I see so far. You
+
+1364
+01:15:16,640 --> 01:15:19,840
+guys are figuring it out. Very good.
+
+1365
+01:15:19,840 --> 01:15:23,520
+This is helpful. I like it.
+
+1366
+01:15:23,520 --> 01:15:27,239
+Do you have any questions?
+
+1367
+01:15:27,679 --> 01:15:29,120
+No. You want to see how you delete a
+
+1368
+01:15:29,120 --> 01:15:32,159
+subnet, right?
+
+1369
+01:15:32,159 --> 01:15:35,199
+Okay. So, delete a subnet.
+
+1370
+01:15:35,199 --> 01:15:37,199
+First thing we're going to do, let's
+
+1371
+01:15:37,199 --> 01:15:39,120
+look at the resources real quick. So, I
+
+1372
+01:15:39,120 --> 01:15:41,520
+got Sa Paulo
+
+1373
+01:15:41,520 --> 01:15:47,199
+and No. Okay. So, I can delete Iowa.
+
+1374
+01:15:47,199 --> 01:15:50,880
+So, I'm going to go to Iowa right here.
+
+1375
+01:15:50,880 --> 01:15:52,880
+Oh, sorry. Here it is. US Central One,
+
+1376
+01:15:52,880 --> 01:15:54,239
+which is a lot. I'm not going to do that
+
+1377
+01:15:54,239 --> 01:15:57,840
+one. Tokyo. No, I'm not doing that.
+
+1378
+01:15:57,840 --> 01:15:59,600
+H Tokyo. Delete Tokyo. Okay. Delete
+
+1379
+01:15:59,600 --> 01:16:03,280
+Tokyo. So, it goes here. says delete.
+
+1380
+01:16:03,280 --> 01:16:06,600
+There you go.
+
+1381
+01:16:15,040 --> 01:16:17,679
+And if you want to add a submit,
+
+1382
+01:16:17,679 --> 01:16:21,159
+come over here.
+
+1383
+01:16:21,199 --> 01:16:24,199
+Okay.
+
+1384
+01:16:36,560 --> 01:16:38,640
+Oh, I think
+
+1385
+01:16:38,640 --> 01:16:41,640
+69
+
+1386
+01:16:42,800 --> 01:16:46,320
+138 138, right? Well, that would be a
+
+1387
+01:16:46,320 --> 01:16:53,719
+good one. Yeah, 138 slash 24.
+
+1388
+01:16:53,920 --> 01:16:56,920
+Okay.
+
+1389
+01:16:59,199 --> 01:17:03,719
+So, I'm going to copy this.
+
+1390
+01:17:04,239 --> 01:17:07,360
+And to add a subnet
+
+1391
+01:17:07,360 --> 01:17:10,360
+name,
+
+1392
+01:17:11,440 --> 01:17:13,120
+remember it can't be can't have
+
+1393
+01:17:13,120 --> 01:17:16,120
+capitals.
+
+1394
+01:17:41,840 --> 01:17:45,120
+Okay. And the region is going to be
+
+1395
+01:17:45,120 --> 01:17:50,000
+where's a good romantic region for that?
+
+1396
+01:17:50,080 --> 01:17:52,400
+Where did I put them?
+
+1397
+01:17:52,400 --> 01:17:54,560
+Where's a good place?
+
+1398
+01:17:54,560 --> 01:17:56,800
+Bangkok.
+
+1399
+01:17:56,800 --> 01:17:59,520
+Oh, I just added to that. They're going
+
+1400
+01:17:59,520 --> 01:18:01,440
+to Bangkok.
+
+1401
+01:18:01,440 --> 01:18:06,120
+All right. So, your IP rate
+
+1402
+01:18:11,440 --> 01:18:14,800
+is 138 because it's 269.
+
+1403
+01:18:14,800 --> 01:18:17,760
+Okay.
+
+1404
+01:18:17,760 --> 01:18:21,360
+Okay. So, paste. Oh, I'm going to hell.
+
+1405
+01:18:21,360 --> 01:18:24,480
+Okay. Anyway.
+
+1406
+01:18:24,480 --> 01:18:27,199
+Yeah, that works. Oh, I need to put a
+
+1407
+01:18:27,199 --> 01:18:31,480
+dot zero there. There we go.
+
+1408
+01:18:31,840 --> 01:18:34,480
+Oh, sorry.
+
+1409
+01:18:34,480 --> 01:18:36,080
+Eight.
+
+1410
+01:18:36,080 --> 01:18:41,719
+Screw that one up. Hold on. 168
+
+1411
+01:18:43,600 --> 01:18:48,080
+zero. Okay. and private Google access.
+
+1412
+01:18:48,080 --> 01:18:50,960
+Yes.
+
+1413
+01:18:50,960 --> 01:18:56,400
+On click off. Okay. And add.
+
+1414
+01:18:56,400 --> 01:18:59,400
+Okay.
+
+1415
+01:19:20,239 --> 01:19:23,480
+Oh sh.
+
+1416
+01:19:37,920 --> 01:19:42,280
+So this is
+
+1417
+01:19:43,600 --> 01:19:46,000
+okay.
+
+1418
+01:19:46,000 --> 01:19:49,520
+So I'm gonna add my I'm going to go
+
+1419
+01:19:49,520 --> 01:19:53,280
+ahead and make a VM. So go create
+
+1420
+01:19:53,280 --> 01:19:56,280
+instance.
+
+1421
+01:19:58,800 --> 01:20:03,159
+I call this Vincent Hollywood.
+
+1422
+01:20:06,159 --> 01:20:10,440
+Okay. And the reason
+
+1423
+01:20:13,679 --> 01:20:17,640
+I got up in Bangkok,
+
+1424
+01:20:20,320 --> 01:20:23,120
+I'm so mad. But okay, it doesn't have
+
+1425
+01:20:23,120 --> 01:20:25,440
+E2.
+
+1426
+01:20:25,440 --> 01:20:28,000
+Some forms are reliable. Oh, [ __ ]
+
+1427
+01:20:28,000 --> 01:20:32,560
+It still be there. Okay, let's put it N.
+
+1428
+01:20:32,560 --> 01:20:36,719
+It's given N2. Good
+
+1429
+01:20:36,719 --> 01:20:39,719
+ta
+
+1430
+01:20:44,800 --> 01:20:47,840
+us. No, I don't want that. I want this
+
+1431
+01:20:47,840 --> 01:20:49,520
+one.
+
+1432
+01:20:49,520 --> 01:20:52,960
+Well, which one is available in Bangkok?
+
+1433
+01:20:52,960 --> 01:20:54,640
+C4.
+
+1434
+01:20:54,640 --> 01:20:57,040
+Oh, that's a big one. Okay, that'll
+
+1435
+01:20:57,040 --> 01:21:00,480
+work. Well, diesel style. Okay. Yeah,
+
+1436
+01:21:00,480 --> 01:21:03,600
+that's a big one. Okay. Um,
+
+1437
+01:21:03,600 --> 01:21:06,719
+data protection, no backups. Networking
+
+1438
+01:21:06,719 --> 01:21:10,320
+allow HTTP traffic, the same thing.
+
+1439
+01:21:10,320 --> 01:21:13,040
+Network interface
+
+1440
+01:21:13,040 --> 01:21:17,040
+elite 8 automatically goes to Lincent
+
+1441
+01:21:17,040 --> 01:21:19,840
+Leisel honeymoon.
+
+1442
+01:21:19,840 --> 01:21:24,760
+It has 269s and it's in Bangkok.
+
+1443
+01:21:30,000 --> 01:21:32,719
+Put the script in there. Oh, where do my
+
+1444
+01:21:32,719 --> 01:21:35,840
+scripts go? Oh, I just erased it, didn't
+
+1445
+01:21:35,840 --> 01:21:39,920
+I? Okay. Uh,
+
+1446
+01:21:39,920 --> 01:21:42,920
+github.com
+
+1447
+01:21:47,760 --> 01:21:50,080
+uh AI.
+
+1448
+01:21:50,080 --> 01:21:53,120
+There we go.
+
+1449
+01:21:53,120 --> 01:21:56,639
+There's tier one
+
+1450
+01:21:56,639 --> 01:21:59,040
+weekly lessons.
+
+1451
+01:21:59,040 --> 01:22:03,440
+Okay. user script. Oh, not that one
+
+1452
+01:22:03,440 --> 01:22:07,239
+script. And
+
+1453
+01:22:08,000 --> 01:22:12,120
+okay, copy it.
+
+1454
+01:22:12,639 --> 01:22:14,320
+Here
+
+1455
+01:22:14,320 --> 01:22:17,280
+I go. And
+
+1456
+01:22:17,280 --> 01:22:20,280
+great.
+
+1457
+01:22:50,480 --> 01:22:52,400
+I should give you an hour of therapy for
+
+1458
+01:22:52,400 --> 01:22:55,600
+free, man.
+
+1459
+01:22:58,400 --> 01:23:01,600
+Oh god, that felt good. Okay, it's still
+
+1460
+01:23:01,600 --> 01:23:04,239
+spinning. It's going to take a while.
+
+1461
+01:23:04,239 --> 01:23:07,320
+All right.
+
+1462
+01:23:09,440 --> 01:23:11,199
+Oh,
+
+1463
+01:23:11,199 --> 01:23:15,800
+current limit. So, there's a limit.
+
+1464
+01:23:16,159 --> 01:23:18,719
+So, we're having a problem with You're
+
+1465
+01:23:18,719 --> 01:23:23,920
+lucky. Bangkok is having a problem.
+
+1466
+01:23:23,920 --> 01:23:25,679
+with the amount that can be spun up
+
+1467
+01:23:25,679 --> 01:23:29,719
+there. So, you're lucky.
+
+1468
+01:23:30,880 --> 01:23:35,040
+Oh god, it's so You're so good. Anyway,
+
+1469
+01:23:35,040 --> 01:23:38,239
+you guys are good sports. Um, go ahead
+
+1470
+01:23:38,239 --> 01:23:40,480
+and knock out
+
+1471
+01:23:40,480 --> 01:23:41,760
+we're going to go ahead and knock out
+
+1472
+01:23:41,760 --> 01:23:45,440
+the uh VMs. So, I knock out this VM
+
+1473
+01:23:45,440 --> 01:23:48,639
+first. So, Sa Paul Apollo 2 and
+
+1474
+01:23:48,639 --> 01:23:53,440
+Netherlands Rave, knock them out.
+
+1475
+01:23:53,679 --> 01:23:58,520
+Delete. Yes. Delete.
+
+1476
+01:24:04,159 --> 01:24:06,239
+Okay.
+
+1477
+01:24:06,239 --> 01:24:08,000
+And this one. So I had a problem.
+
+1478
+01:24:08,000 --> 01:24:11,400
+Dismiss it.
+
+1479
+01:24:11,440 --> 01:24:13,679
+Get rid of that one.
+
+1480
+01:24:13,679 --> 01:24:15,840
+Just tell it. Hey, like just don't don't
+
+1481
+01:24:15,840 --> 01:24:20,199
+do anything. All right.
+
+1482
+01:24:21,440 --> 01:24:24,080
+To tell you the truth, the V the VPC
+
+1483
+01:24:24,080 --> 01:24:26,719
+that you made should be minimal. Well,
+
+1484
+01:24:26,719 --> 01:24:29,960
+that's odd.
+
+1485
+01:24:34,960 --> 01:24:38,960
+Oh. Oh, look at that. You're you're one
+
+1486
+01:24:38,960 --> 01:24:41,040
+of the one of them got erased. Okay,
+
+1487
+01:24:41,040 --> 01:24:43,679
+you're lucky. All right, so all the VMs
+
+1488
+01:24:43,679 --> 01:24:45,840
+are out. Now, if you want to erase your
+
+1489
+01:24:45,840 --> 01:24:47,440
+VPC
+
+1490
+01:24:47,440 --> 01:24:51,280
+and go to your VPC networks over here
+
+1491
+01:24:51,280 --> 01:24:52,800
+and then you just go ahead and choose
+
+1492
+01:24:52,800 --> 01:24:55,840
+which one you want to erase. Do not do
+
+1493
+01:24:55,840 --> 01:25:00,480
+not do not erase default. Okay? Don't do
+
+1494
+01:25:00,480 --> 01:25:02,960
+that. Don't be crazy. Okay? So, if you
+
+1495
+01:25:02,960 --> 01:25:05,120
+go to your subnets and if you want to
+
+1496
+01:25:05,120 --> 01:25:06,960
+erase the subnet, you can in here,
+
+1497
+01:25:06,960 --> 01:25:09,360
+right? I'm going to keep these subnets
+
+1498
+01:25:09,360 --> 01:25:11,440
+because these are useful. Also, I'll
+
+1499
+01:25:11,440 --> 01:25:13,840
+probably use some for teaching next few
+
+1500
+01:25:13,840 --> 01:25:16,840
+weeks.
+
+1501
+01:25:17,600 --> 01:25:20,400
+Okay.
+
+1502
+01:25:20,400 --> 01:25:23,679
+Anyway, uh any questions?
+
+1503
+01:25:23,679 --> 01:25:27,000
+We got Charles.
+
+1504
+01:25:29,360 --> 01:25:32,360
+Good.
+
+1505
+01:25:32,400 --> 01:25:35,199
+Jason,
+
+1506
+01:25:35,199 --> 01:25:37,600
+>> one question I did have is what would
+
+1507
+01:25:37,600 --> 01:25:41,280
+cause the script to not work if the VM
+
+1508
+01:25:41,280 --> 01:25:43,280
+is running?
+
+1509
+01:25:43,280 --> 01:25:45,920
+>> It could be it's who knows just make
+
+1510
+01:25:45,920 --> 01:25:47,199
+sure that the script is copied
+
+1511
+01:25:47,199 --> 01:25:48,960
+correctly.
+
+1512
+01:25:48,960 --> 01:25:51,960
+>> Okay.
+
+1513
+01:25:53,920 --> 01:25:57,199
+>> Um this the normal thing for code is it
+
+1514
+01:25:57,199 --> 01:25:59,199
+for various reasons it for this reason
+
+1515
+01:25:59,199 --> 01:26:01,120
+or another reason it doesn't work. So, I
+
+1516
+01:26:01,120 --> 01:26:03,920
+have to go redo it. It's a part of life.
+
+1517
+01:26:03,920 --> 01:26:06,719
+Just take it on the chin and keep on
+
+1518
+01:26:06,719 --> 01:26:08,080
+going,
+
+1519
+01:26:08,080 --> 01:26:08,880
+>> right?
+
+1520
+01:26:08,880 --> 01:26:10,639
+>> I would say most likely either you
+
+1521
+01:26:10,639 --> 01:26:13,679
+didn't you haven't waited long enough or
+
+1522
+01:26:13,679 --> 01:26:16,560
+I mean you sometimes bootstrapping
+
+1523
+01:26:16,560 --> 01:26:19,280
+fails, but if it's a if it's a known
+
+1524
+01:26:19,280 --> 01:26:22,239
+good script, that's really unlikely,
+
+1525
+01:26:22,239 --> 01:26:23,600
+especially if you're using the same
+
+1526
+01:26:23,600 --> 01:26:25,760
+instance type we are. But, uh
+
+1527
+01:26:25,760 --> 01:26:26,239
+>> yeah,
+
+1528
+01:26:26,239 --> 01:26:29,280
+>> you could try restarting it. I copied it
+
+1529
+01:26:29,280 --> 01:26:32,000
+directly from um Theo's code with the
+
+1530
+01:26:32,000 --> 01:26:33,840
+copy icon
+
+1531
+01:26:33,840 --> 01:26:36,400
+>> and are you certain it's the script
+
+1532
+01:26:36,400 --> 01:26:38,560
+that's failed?
+
+1533
+01:26:38,560 --> 01:26:40,480
+>> I would think so. I mean the VM is
+
+1534
+01:26:40,480 --> 01:26:44,800
+running. I can open it um with SSH.
+
+1535
+01:26:44,800 --> 01:26:46,960
+But like if I paste it in the URL,
+
+1536
+01:26:46,960 --> 01:26:48,800
+>> what's the IP? What's the IP address?
+
+1537
+01:26:48,800 --> 01:26:50,159
+Put it in the chat.
+
+1538
+01:26:50,159 --> 01:26:52,159
+>> Okay, putting it in the chat now. One
+
+1539
+01:26:52,159 --> 01:26:55,159
+sec.
+
+1540
+01:26:59,840 --> 01:27:04,920
+Let me just scan the ports real quick.
+
+1541
+01:27:06,560 --> 01:27:09,560
+Okay.
+
+1542
+01:27:12,800 --> 01:27:16,840
+Spelled commands right.
+
+1543
+01:27:28,080 --> 01:27:30,719
+It's going to make me type it today.
+
+1544
+01:27:30,719 --> 01:27:34,040
+That's okay.
+
+1545
+01:27:34,800 --> 01:27:36,320
+62
+
+1546
+01:27:36,320 --> 01:27:39,320
+215.
+
+1547
+01:27:43,840 --> 01:27:48,520
+Uh, that's a port. That's a port 80.
+
+1548
+01:27:52,320 --> 01:27:56,400
+Make sure you have port 80 open.
+
+1549
+01:27:56,400 --> 01:27:58,159
+>> All right.
+
+1550
+01:27:58,159 --> 01:28:01,040
+>> Yeah.
+
+1551
+01:28:01,040 --> 01:28:03,600
+>> Yeah. That's a port.
+
+1552
+01:28:03,600 --> 01:28:08,840
+>> Would that change be on the VPC?
+
+1553
+01:28:10,320 --> 01:28:11,760
+>> Yeah, you have to go directly to the
+
+1554
+01:28:11,760 --> 01:28:15,040
+instance on the VM.
+
+1555
+01:28:15,040 --> 01:28:18,400
+Hey, I got
+
+1556
+01:28:18,400 --> 01:28:19,600
+looks like I made it through the
+
+1557
+01:28:19,600 --> 01:28:23,080
+firewall rule.
+
+1558
+01:28:23,199 --> 01:28:26,000
+Let's see because I I got exit seven on
+
+1559
+01:28:26,000 --> 01:28:28,480
+curl.
+
+1560
+01:28:28,480 --> 01:28:32,600
+So, failed to connect.
+
+1561
+01:28:36,239 --> 01:28:39,239
+Yeah.
+
+1562
+01:28:45,120 --> 01:28:46,960
+So,
+
+1563
+01:28:46,960 --> 01:28:49,280
+well, if the lab's done, I mean, you
+
+1564
+01:28:49,280 --> 01:28:51,360
+could share your screen.
+
+1565
+01:28:51,360 --> 01:28:53,840
+>> Yeah.
+
+1566
+01:28:53,840 --> 01:28:55,920
+>> All right.
+
+1567
+01:28:55,920 --> 01:28:58,800
+>> Wait, where do I I share screen? What
+
+1568
+01:28:58,800 --> 01:29:00,560
+the heck?
+
+1569
+01:29:00,560 --> 01:29:04,480
+Where? Oh, God.
+
+1570
+01:29:04,480 --> 01:29:07,679
+>> Well, there it is.
+
+1571
+01:29:07,679 --> 01:29:12,679
+>> Okay. Sharing now. One second.
+
+1572
+01:29:20,159 --> 01:29:23,920
+>> So in um one tab I've got my VMs.
+
+1573
+01:29:23,920 --> 01:29:26,480
+>> No, no, no. Go back. Go back to the
+
+1574
+01:29:26,480 --> 01:29:29,840
+problematic VM.
+
+1575
+01:29:29,840 --> 01:29:33,520
+>> Yeah. Same for both of them.
+
+1576
+01:29:33,520 --> 01:29:35,280
+>> Reporting.
+
+1577
+01:29:35,280 --> 01:29:37,840
+We'll open one of them
+
+1578
+01:29:37,840 --> 01:29:40,239
+because at least on my side it looks
+
+1579
+01:29:40,239 --> 01:29:43,360
+like uh port 80 is open. No. So click on
+
+1580
+01:29:43,360 --> 01:29:45,440
+the VM. So you see the name, click on
+
+1581
+01:29:45,440 --> 01:29:47,120
+it. It's going to open the instance
+
+1582
+01:29:47,120 --> 01:29:48,639
+details.
+
+1583
+01:29:48,639 --> 01:29:50,560
+>> So start scrolling down. Go to the
+
+1584
+01:29:50,560 --> 01:29:54,040
+networking section.
+
+1585
+01:29:55,520 --> 01:29:58,239
+So HTTP is open. So scroll down all the
+
+1586
+01:29:58,239 --> 01:30:01,639
+way to the bottom.
+
+1587
+01:30:06,560 --> 01:30:08,480
+Okay, drop that menu down for the
+
+1588
+01:30:08,480 --> 01:30:13,800
+startup script at the very bottom. Yep.
+
+1589
+01:30:16,000 --> 01:30:20,199
+Let go all the way to the bottom
+
+1590
+01:30:29,280 --> 01:30:31,120
+and then go all the way to the top of
+
+1591
+01:30:31,120 --> 01:30:33,199
+the startup script. Don't scroll like
+
+1592
+01:30:33,199 --> 01:30:35,360
+just this section here. Yeah.
+
+1593
+01:30:35,360 --> 01:30:37,600
+>> Okay.
+
+1594
+01:30:37,600 --> 01:30:39,520
+And
+
+1595
+01:30:39,520 --> 01:30:40,800
+>> yeah, it hurts.
+
+1596
+01:30:40,800 --> 01:30:44,320
+>> This is super
+
+1597
+01:30:44,320 --> 01:30:47,679
+A that he's using. Is that what you're
+
+1598
+01:30:47,679 --> 01:30:51,400
+using? Super A.
+
+1599
+01:30:53,440 --> 01:30:54,159
+Super A.
+
+1600
+01:30:54,159 --> 01:30:55,040
+>> Hold on.
+
+1601
+01:30:55,040 --> 01:30:56,639
+>> That's not That's not That's Yeah,
+
+1602
+01:30:56,639 --> 01:30:57,280
+that's not right.
+
+1603
+01:30:57,280 --> 01:30:59,360
+>> Hold on. When you made the subnet, did
+
+1604
+01:30:59,360 --> 01:31:02,719
+you allow private access for Google?
+
+1605
+01:31:02,719 --> 01:31:05,679
+>> No, it's the script. It's The script is
+
+1606
+01:31:05,679 --> 01:31:07,520
+wrong.
+
+1607
+01:31:07,520 --> 01:31:08,800
+>> The script is wrong.
+
+1608
+01:31:08,800 --> 01:31:10,159
+>> Yeah.
+
+1609
+01:31:10,159 --> 01:31:12,239
+>> Where? Well, it doesn't say thanks for
+
+1610
+01:31:12,239 --> 01:31:14,400
+Aaron, which means it's not the update
+
+1611
+01:31:14,400 --> 01:31:16,159
+uh updated.
+
+1612
+01:31:16,159 --> 01:31:20,360
+>> It's not the updated one. Yep.
+
+1613
+01:31:20,639 --> 01:31:24,040
+>> That was a
+
+1614
+01:31:24,560 --> 01:31:27,199
+>> because because port 80 is open. You can
+
+1615
+01:31:27,199 --> 01:31:29,760
+you scan the ports and it it makes it
+
+1616
+01:31:29,760 --> 01:31:32,480
+through the firewall. It's just uh
+
+1617
+01:31:32,480 --> 01:31:34,480
+there's nothing listening on port 80 at
+
+1618
+01:31:34,480 --> 01:31:37,600
+that address.
+
+1619
+01:31:37,600 --> 01:31:41,040
+So for the script, I copied it directly
+
+1620
+01:31:41,040 --> 01:31:43,840
+from here.
+
+1621
+01:31:43,840 --> 01:31:46,000
+>> Is this a forked? That's a forked
+
+1622
+01:31:46,000 --> 01:31:49,000
+though.
+
+1623
+01:31:49,520 --> 01:31:51,199
+>> So it's outdated then.
+
+1624
+01:31:51,199 --> 01:31:53,280
+>> So scroll up.
+
+1625
+01:31:53,280 --> 01:31:56,600
+>> Click there.
+
+1626
+01:31:58,880 --> 01:32:00,639
+And then
+
+1627
+01:32:00,639 --> 01:32:03,679
+you see right here
+
+1628
+01:32:03,679 --> 01:32:07,040
+says it's it's behind
+
+1629
+01:32:07,040 --> 01:32:08,480
+Got it. Okay.
+
+1630
+01:32:08,480 --> 01:32:12,199
+>> Click sync fork.
+
+1631
+01:32:15,600 --> 01:32:19,960
+>> Now you'll have a good script.
+
+1632
+01:32:26,320 --> 01:32:28,639
+>> And this is the one that I should be
+
+1633
+01:32:28,639 --> 01:32:30,880
+using instead then. Okay.
+
+1634
+01:32:30,880 --> 01:32:32,560
+>> Yeah. You see? Yeah. It's the one
+
+1635
+01:32:32,560 --> 01:32:34,719
+that'll have the comment that because it
+
+1636
+01:32:34,719 --> 01:32:35,760
+was broken.
+
+1637
+01:32:35,760 --> 01:32:37,280
+>> Okay. All right. I'll retry it with
+
+1638
+01:32:37,280 --> 01:32:38,719
+that. Thank you.
+
+1639
+01:32:38,719 --> 01:32:40,239
+>> Yep.
+
+1640
+01:32:40,239 --> 01:32:43,679
+So, make sure startup scripts are only
+
+1641
+01:32:43,679 --> 01:32:46,960
+uh executed when you first make a VM.
+
+1642
+01:32:46,960 --> 01:32:48,480
+So, you're going to have to just remake
+
+1643
+01:32:48,480 --> 01:32:51,120
+it. Don't try to like edit the settings.
+
+1644
+01:32:51,120 --> 01:32:54,880
+>> Okay, I'll do that now.
+
+1645
+01:32:54,880 --> 01:32:58,000
+>> Yeah, good job.
+
+1646
+01:32:58,000 --> 01:33:02,639
+All right. And then Langy boy,
+
+1647
+01:33:02,639 --> 01:33:06,920
+yours is not working.
+
+1648
+01:33:10,560 --> 01:33:14,320
+Yeah, yours isn't working. Ling boy. Um,
+
+1649
+01:33:14,320 --> 01:33:15,760
+well, we spend a little bit of time
+
+1650
+01:33:15,760 --> 01:33:17,760
+troubleshooting yours. Langing boy, show
+
+1651
+01:33:17,760 --> 01:33:19,679
+your screen because yours is not
+
+1652
+01:33:19,679 --> 01:33:22,719
+working. You got to figure out why.
+
+1653
+01:33:22,719 --> 01:33:24,960
+>> All right. All right.
+
+1654
+01:33:24,960 --> 01:33:26,000
+>> Let's see what you're doing with the
+
+1655
+01:33:26,000 --> 01:33:29,000
+script.
+
+1656
+01:33:55,120 --> 01:33:58,520
+What is it?
+
+1657
+01:34:01,120 --> 01:34:04,440
+Go to networking.
+
+1658
+01:34:04,800 --> 01:34:06,239
+Keep going. Scroll down. Scroll down.
+
+1659
+01:34:06,239 --> 01:34:08,880
+Networking. Networking.
+
+1660
+01:34:08,880 --> 01:34:11,280
+Come on. Stop.
+
+1661
+01:34:11,280 --> 01:34:13,199
+Yeah. Okay, that one's on. Go to your
+
+1662
+01:34:13,199 --> 01:34:16,480
+script. Same thing.
+
+1663
+01:34:16,480 --> 01:34:20,360
+Are you using super a
+
+1664
+01:34:20,960 --> 01:34:22,560
+>> scroll down? Go. No. No. Where did you
+
+1665
+01:34:22,560 --> 01:34:25,920
+go? Stop. Where? Where? Stay there on
+
+1666
+01:34:25,920 --> 01:34:27,120
+that screen.
+
+1667
+01:34:27,120 --> 01:34:30,600
+>> Scroll down.
+
+1668
+01:34:33,760 --> 01:34:36,719
+Keep on going. Scroll. More. More. More.
+
+1669
+01:34:36,719 --> 01:34:40,320
+More. Okay. Now, startup script. Go to
+
+1670
+01:34:40,320 --> 01:34:42,159
+the bottom. You have a that drop down.
+
+1671
+01:34:42,159 --> 01:34:43,840
+Click on
+
+1672
+01:34:43,840 --> 01:34:45,679
+>> No, no, not that one. It says startup
+
+1673
+01:34:45,679 --> 01:34:48,239
+script.
+
+1674
+01:34:48,239 --> 01:34:50,400
+>> I need you to open up
+
+1675
+01:34:50,400 --> 01:34:51,280
+>> right there.
+
+1676
+01:34:51,280 --> 01:34:54,520
+>> There you go.
+
+1677
+01:34:55,600 --> 01:34:59,159
+>> Oh, interesting.
+
+1678
+01:35:00,639 --> 01:35:02,320
+>> If he didn't allow private access when
+
+1679
+01:35:02,320 --> 01:35:03,679
+he made the sub.
+
+1680
+01:35:03,679 --> 01:35:06,400
+>> What's his What's his IP address? Let's
+
+1681
+01:35:06,400 --> 01:35:10,880
+Well, let's I can narrow this down.
+
+1682
+01:35:10,880 --> 01:35:14,000
+Oh, I see it. Is this the one the the
+
+1683
+01:35:14,000 --> 01:35:17,000
+49.4242?
+
+1684
+01:35:18,159 --> 01:35:21,760
+>> I think so. Yeah.
+
+1685
+01:35:21,760 --> 01:35:22,159
+>> Yeah.
+
+1686
+01:35:22,159 --> 01:35:26,760
+>> Okay. Give me one second here.
+
+1687
+01:35:37,760 --> 01:35:40,719
+Well,
+
+1688
+01:35:40,719 --> 01:35:43,040
+that's an HTTPS.
+
+1689
+01:35:43,040 --> 01:35:46,880
+Wait, did he try HTTP?
+
+1690
+01:35:46,880 --> 01:35:49,440
+Oh, cuz I mean the comments.
+
+1691
+01:35:49,440 --> 01:35:52,560
+>> Oh, there it is. HTTPS. Yeah, it's HTTP,
+
+1692
+01:35:52,560 --> 01:35:54,880
+bro.
+
+1693
+01:35:54,880 --> 01:35:57,920
+That's why.
+
+1694
+01:35:57,920 --> 01:36:00,320
+>> Okay.
+
+1695
+01:36:00,320 --> 01:36:01,120
+So
+
+1696
+01:36:01,120 --> 01:36:04,080
+>> you put put it correctly. Go to your
+
+1697
+01:36:04,080 --> 01:36:07,920
+URL. We copy the IP address and then use
+
+1698
+01:36:07,920 --> 01:36:12,639
+HTTP not HTTPS.
+
+1699
+01:36:12,639 --> 01:36:15,639
+>> Okay.
+
+1700
+01:36:39,280 --> 01:36:42,280
+Good.
+
+1701
+01:36:44,800 --> 01:36:47,360
+Good job, man.
+
+1702
+01:36:47,360 --> 01:36:49,600
+That URL into the chat and you're you're
+
+1703
+01:36:49,600 --> 01:36:51,840
+good. You can check it.
+
+1704
+01:36:51,840 --> 01:36:54,840
+>> All right.
+
+1705
+01:36:55,360 --> 01:36:57,600
+Is there anybody else in here that
+
+1706
+01:36:57,600 --> 01:37:02,040
+hasn't been able to get this working?
+
+1707
+01:37:02,800 --> 01:37:04,560
+I can hang around for a couple minutes
+
+1708
+01:37:04,560 --> 01:37:07,600
+if Theo has to go as well. Be a good
+
+1709
+01:37:07,600 --> 01:37:08,880
+time.
+
+1710
+01:37:08,880 --> 01:37:12,880
+>> I don't think we'll yet sometime.
+
+1711
+01:37:12,880 --> 01:37:14,000
+Trying to think what I'm going to have
+
+1712
+01:37:14,000 --> 01:37:17,480
+for lunch.
+
+1713
+01:37:20,080 --> 01:37:22,880
+>> Isn't it 5?
+
+1714
+01:37:22,880 --> 01:37:25,280
+>> Uh, yeah. But I didn't eat breakfast
+
+1715
+01:37:25,280 --> 01:37:27,280
+until like
+
+1716
+01:37:27,280 --> 01:37:29,600
+what was it 1?
+
+1717
+01:37:29,600 --> 01:37:34,679
+I think that's a great idea. A various
+
+1718
+01:37:37,040 --> 01:37:40,040
+No.
+
+1719
+01:37:43,920 --> 01:37:48,840
+What I say? No. Waffle House.
+
+1720
+01:37:57,760 --> 01:38:00,760
+Actually,
+
+1721
+01:38:06,639 --> 01:38:10,320
+it kind of is Lavarius, but not there.
+
+1722
+01:38:10,320 --> 01:38:14,239
+The I gota admit like the Latinas here
+
+1723
+01:38:14,239 --> 01:38:16,560
+in the restaurants, they can make some
+
+1724
+01:38:16,560 --> 01:38:18,960
+mean pancakes.
+
+1725
+01:38:18,960 --> 01:38:23,760
+Then they're good. So yeah, if I want to
+
+1726
+01:38:23,760 --> 01:38:26,320
+have a grand slam, I just go to Latinas,
+
+1727
+01:38:26,320 --> 01:38:29,960
+go get it from them.
+
+1728
+01:38:30,400 --> 01:38:32,480
+I sit there and uh study music theory
+
+1729
+01:38:32,480 --> 01:38:35,960
+while I do that.
+
+1730
+01:38:48,960 --> 01:38:51,040
+Anyway,
+
+1731
+01:38:51,040 --> 01:38:53,679
+yep. Enjoy the speed ups, guys. I think
+
+1732
+01:38:53,679 --> 01:38:55,679
+this is out for class, guys. You like I
+
+1733
+01:38:55,679 --> 01:38:57,360
+said, good job. Remember your homework.
+
+1734
+01:38:57,360 --> 01:39:02,320
+Homework is in the in the um repo. And I
+
+1735
+01:39:02,320 --> 01:39:05,119
+hope to God the Ali win. So, let's hope
+
+1736
+01:39:05,119 --> 01:39:07,600
+this let's hope let's hope it goes well.
+
+1737
+01:39:07,600 --> 01:39:09,360
+Um,
+
+1738
+01:39:09,360 --> 01:39:12,159
+tip off is a little bit. Go have a good
+
+1739
+01:39:12,159 --> 01:39:13,840
+day. Okay, guys. I will see you next
+
+1740
+01:39:13,840 --> 01:39:17,920
+week. Good job. And remember the subnet,
+
+1741
+01:39:17,920 --> 01:39:20,159
+our favorite subnetss. We're going to
+
+1742
+01:39:20,159 --> 01:39:21,760
+have this subnet next week. We're use
+
+1743
+01:39:21,760 --> 01:39:24,560
+the same one. I'll talk to you later.
+
+1744
+01:39:24,560 --> 01:39:27,560
+Byebye.

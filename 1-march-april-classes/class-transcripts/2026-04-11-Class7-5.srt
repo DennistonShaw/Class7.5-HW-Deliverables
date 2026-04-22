@@ -1,0 +1,9331 @@
+1
+00:00:00,080 --> 00:00:03,280
+be able to do this class. All right. So,
+
+2
+00:00:03,280 --> 00:00:05,680
+do it now.
+
+3
+00:00:05,680 --> 00:00:08,080
+So, tell me if you don't have it. Put a
+
+4
+00:00:08,080 --> 00:00:09,760
+one in the chat if you don't have this
+
+5
+00:00:09,760 --> 00:00:11,599
+set up.
+
+6
+00:00:11,599 --> 00:00:16,360
+Uh RJB, what you got?
+
+7
+00:00:21,039 --> 00:00:22,720
+>> If it wants to update it, don't worry
+
+8
+00:00:22,720 --> 00:00:24,240
+about it right now. It's going to take a
+
+9
+00:00:24,240 --> 00:00:27,680
+while. That's not what Theo was asking.
+
+10
+00:00:27,680 --> 00:00:30,000
+No, I'm only out. I need you to make
+
+11
+00:00:30,000 --> 00:00:32,399
+sure that this information here is
+
+12
+00:00:32,399 --> 00:00:37,399
+there. I don't care if it is update.
+
+13
+00:00:40,399 --> 00:00:44,160
+This session is live stream. No, no,
+
+14
+00:00:44,160 --> 00:00:48,239
+Trey. I um What do you
+
+15
+00:00:48,239 --> 00:00:49,680
+I'm not gonna be stunky. I don't have
+
+16
+00:00:49,680 --> 00:00:52,559
+time. All right.
+
+17
+00:00:52,559 --> 00:00:57,079
+Um, what do you get?
+
+18
+00:00:57,520 --> 00:00:59,120
+What are you guys getting if you when
+
+19
+00:00:59,120 --> 00:01:02,800
+you got when you guys do your um G-Cloud
+
+20
+00:01:02,800 --> 00:01:05,680
+info? What is the what? Take a
+
+21
+00:01:05,680 --> 00:01:07,760
+screenshot of what you're seeing so we
+
+22
+00:01:07,760 --> 00:01:09,439
+can see it in like we can find out
+
+23
+00:01:09,439 --> 00:01:12,840
+what's going on.
+
+24
+00:01:17,040 --> 00:01:22,159
+Where's my dogs? My dog. Yo, don't get
+
+25
+00:01:22,159 --> 00:01:26,159
+don't get Where's my Don't get
+
+26
+00:01:26,159 --> 00:01:29,159
+Okay.
+
+27
+00:01:32,880 --> 00:01:37,360
+No, I didn't say that. No, no, Nest Egg,
+
+28
+00:01:37,360 --> 00:01:43,439
+I didn't say that. I told you to put in
+
+29
+00:01:43,439 --> 00:01:47,280
+G-Cloud info.
+
+30
+00:01:47,280 --> 00:01:49,280
+That's the command. I I didn't whatever
+
+31
+00:01:49,280 --> 00:01:50,640
+you're doing there. I didn't tell you to
+
+32
+00:01:50,640 --> 00:01:55,960
+do that. I said G-Cloud info.
+
+33
+00:01:58,159 --> 00:01:59,920
+What are you doing with that command? I
+
+34
+00:01:59,920 --> 00:02:03,479
+didn't say that command.
+
+35
+00:02:07,119 --> 00:02:10,119
+Good.
+
+36
+00:02:15,760 --> 00:02:19,000
+Very good.
+
+37
+00:02:25,920 --> 00:02:28,000
+Okay, fine. All right. So, I need to
+
+38
+00:02:28,000 --> 00:02:32,080
+know if you if you don't have this, then
+
+39
+00:02:32,080 --> 00:02:37,720
+I need to know it now. Tell me.
+
+40
+00:02:39,440 --> 00:02:41,280
+>> It's not working for me. I don't have
+
+41
+00:02:41,280 --> 00:02:42,560
+it.
+
+42
+00:02:42,560 --> 00:02:44,400
+>> Okay. Take a screenshot. Let me see what
+
+43
+00:02:44,400 --> 00:02:45,120
+you got.
+
+44
+00:02:45,120 --> 00:02:48,000
+>> Sure.
+
+45
+00:02:53,040 --> 00:02:57,040
+No. What do you Okay.
+
+46
+00:02:57,040 --> 00:02:59,519
+Okay. So, you don't Okay. So, nest egg
+
+47
+00:02:59,519 --> 00:03:01,840
+you don't have it.
+
+48
+00:03:01,840 --> 00:03:04,400
+Okay.
+
+49
+00:03:04,400 --> 00:03:07,400
+And
+
+50
+00:03:09,440 --> 00:03:12,239
+>> now nest nest
+
+51
+00:03:12,239 --> 00:03:14,879
+he's a new student. He absolutely does
+
+52
+00:03:14,879 --> 00:03:18,080
+have it. He it's he's having the
+
+53
+00:03:18,080 --> 00:03:19,840
+environmental variable issue. He needs
+
+54
+00:03:19,840 --> 00:03:23,200
+to open the cloud shell and run G-Cloud
+
+55
+00:03:23,200 --> 00:03:24,800
+info
+
+56
+00:03:24,800 --> 00:03:27,360
+>> because because regardless like
+
+57
+00:03:27,360 --> 00:03:28,959
+>> what if you use those clouds
+
+58
+00:03:28,959 --> 00:03:32,400
+>> if you run the ADC command from the
+
+59
+00:03:32,400 --> 00:03:34,000
+cloud shell it goes into the same
+
+60
+00:03:34,000 --> 00:03:36,560
+directory that like Terraform the
+
+61
+00:03:36,560 --> 00:03:39,280
+Terraform Google provider would look.
+
+62
+00:03:39,280 --> 00:03:41,120
+>> So like it it doesn't matter where he
+
+63
+00:03:41,120 --> 00:03:42,959
+runs that G-Cloud command. So you can
+
+64
+00:03:42,959 --> 00:03:44,400
+run it from the cloud shell and it'll
+
+65
+00:03:44,400 --> 00:03:45,680
+still work.
+
+66
+00:03:45,680 --> 00:03:48,640
+>> Yeah. So run it from the Okay, you guys
+
+67
+00:03:48,640 --> 00:03:50,720
+you guys who have cl the cloud shell
+
+68
+00:03:50,720 --> 00:03:53,599
+installed, run it from the cloud shell.
+
+69
+00:03:53,599 --> 00:03:54,080
+>> Okay.
+
+70
+00:03:54,080 --> 00:03:56,159
+>> So if you're on Windows and you get like
+
+71
+00:03:56,159 --> 00:03:58,480
+an error that's like when you run try to
+
+72
+00:03:58,480 --> 00:04:00,480
+run G-Cloud command that says like py
+
+73
+00:04:00,480 --> 00:04:01,840
+there's an issue with Python or
+
+74
+00:04:01,840 --> 00:04:04,879
+something sort
+
+75
+00:04:04,879 --> 00:04:09,280
+uh SDK shell and uh run that and then
+
+76
+00:04:09,280 --> 00:04:12,239
+run the commands there.
+
+77
+00:04:12,239 --> 00:04:14,959
+and then have your group fix the Python
+
+78
+00:04:14,959 --> 00:04:20,919
+issue with G-Cloud for Git Bash later.
+
+79
+00:04:34,639 --> 00:04:38,440
+>> You can't come in here.
+
+80
+00:04:38,560 --> 00:04:43,479
+mute if you're not talking.
+
+81
+00:04:43,600 --> 00:04:46,600
+>> Okay,
+
+82
+00:04:48,160 --> 00:04:53,440
+>> Estros, you should have the G-Cloud um
+
+83
+00:04:53,440 --> 00:04:55,360
+shell installed.
+
+84
+00:04:55,360 --> 00:04:57,600
+Go with that.
+
+85
+00:04:57,600 --> 00:04:59,759
+>> He's he's on a Mac.
+
+86
+00:04:59,759 --> 00:05:02,320
+>> Oh,
+
+87
+00:05:02,320 --> 00:05:05,840
+>> he he's on a really old version of Mac.
+
+88
+00:05:05,840 --> 00:05:10,160
+I got him a deprecated version of the
+
+89
+00:05:10,160 --> 00:05:13,840
+SDK installed, but I wasn't confident. I
+
+90
+00:05:13,840 --> 00:05:17,120
+mean, it it had initialized uh back when
+
+91
+00:05:17,120 --> 00:05:21,199
+I set it up, but
+
+92
+00:05:21,199 --> 00:05:26,680
+not sure what's going on, but
+
+93
+00:05:28,800 --> 00:05:34,160
+it says common not found.
+
+94
+00:05:34,160 --> 00:05:35,680
+>> Yeah.
+
+95
+00:05:35,680 --> 00:05:38,680
+Um,
+
+96
+00:05:40,240 --> 00:05:43,240
+okay.
+
+97
+00:05:44,160 --> 00:05:46,080
+I don't know.
+
+98
+00:05:46,080 --> 00:05:51,800
+>> Uh, who who's using a Mac right now?
+
+99
+00:05:52,880 --> 00:05:54,800
+>> I
+
+100
+00:05:54,800 --> 00:05:55,759
+>> Quinton.
+
+101
+00:05:55,759 --> 00:05:58,880
+>> Yes. Yes. Run uh in terminal run the
+
+102
+00:05:58,880 --> 00:06:03,520
+command which space G-Cloud
+
+103
+00:06:03,520 --> 00:06:06,560
+which like whi
+
+104
+00:06:06,560 --> 00:06:09,840
+space G-Cloud and then paste in the chat
+
+105
+00:06:09,840 --> 00:06:13,880
+what it tells you
+
+106
+00:06:15,600 --> 00:06:18,800
+>> or Kevin whoever does it first.
+
+107
+00:06:18,800 --> 00:06:21,800
+>> Go
+
+108
+00:06:24,400 --> 00:06:26,319
+okay. Oh, okay. It's going to be in the
+
+109
+00:06:26,319 --> 00:06:30,400
+homebrew path, but uh Estus didn't
+
+110
+00:06:30,400 --> 00:06:34,360
+didn't use homebrew.
+
+111
+00:06:36,560 --> 00:06:41,400
+Uh, give me a sec.
+
+112
+00:06:41,919 --> 00:06:44,319
+Let's see.
+
+113
+00:06:44,319 --> 00:06:46,240
+I'll wait
+
+114
+00:06:46,240 --> 00:06:47,919
+>> just one second. Let me just look up
+
+115
+00:06:47,919 --> 00:06:52,600
+where the binary is on uh
+
+116
+00:07:18,479 --> 00:07:22,400
+Yeah, estrus. Uh,
+
+117
+00:07:22,400 --> 00:07:26,160
+if I remember right, we unzipped
+
+118
+00:07:26,160 --> 00:07:29,039
+this uh
+
+119
+00:07:29,039 --> 00:07:30,720
+somewhere
+
+120
+00:07:30,720 --> 00:07:33,599
+on in your computer. There should be a
+
+121
+00:07:33,599 --> 00:07:37,039
+Google Cloud SDK folder like an
+
+122
+00:07:37,039 --> 00:07:41,240
+documents or something.
+
+123
+00:07:41,360 --> 00:07:45,080
+Let me take a look.
+
+124
+00:08:12,000 --> 00:08:14,000
+All
+
+125
+00:08:25,039 --> 00:08:28,039
+right.
+
+126
+00:09:01,760 --> 00:09:04,760
+I'm
+
+127
+00:09:09,040 --> 00:09:10,720
+he he doesn't he shouldn't have to do
+
+128
+00:09:10,720 --> 00:09:14,480
+that bash. It's I was the one that
+
+129
+00:09:14,480 --> 00:09:17,440
+uh extracted the tar uh tarball with
+
+130
+00:09:17,440 --> 00:09:20,080
+him. It's like in a home directory or
+
+131
+00:09:20,080 --> 00:09:25,000
+documents. It's like two places to look.
+
+132
+00:09:30,880 --> 00:09:34,640
+So, Estus, uh, do you see a folder
+
+133
+00:09:34,640 --> 00:09:39,800
+>> that says like Google Cloud SDK?
+
+134
+00:09:40,320 --> 00:09:43,360
+>> Uh, not really. I don't see it. Oh, if
+
+135
+00:09:43,360 --> 00:09:45,360
+you don't, then maybe you deleted it
+
+136
+00:09:45,360 --> 00:09:47,600
+after we did it, in which case it would
+
+137
+00:09:47,600 --> 00:09:48,800
+find it.
+
+138
+00:09:48,800 --> 00:09:50,959
+>> Was it supposed to stay in um
+
+139
+00:09:50,959 --> 00:09:51,279
+>> Yes,
+
+140
+00:09:51,279 --> 00:09:54,560
+>> I only deleted deleted um what was in
+
+141
+00:09:54,560 --> 00:09:58,000
+the download folder, nothing else?
+
+142
+00:09:58,000 --> 00:09:59,839
+>> It was supposed to stay.
+
+143
+00:09:59,839 --> 00:10:01,440
+>> Oh,
+
+144
+00:10:01,440 --> 00:10:03,760
+>> yeah. Let's redo it.
+
+145
+00:10:03,760 --> 00:10:06,080
+>> Uh that that's going to take a bit of
+
+146
+00:10:06,080 --> 00:10:08,000
+time. His group can help him with that.
+
+147
+00:10:08,000 --> 00:10:09,760
+They're going to have to find out. I I
+
+148
+00:10:09,760 --> 00:10:12,080
+had to look to find which deprecated
+
+149
+00:10:12,080 --> 00:10:14,399
+version worked and stuff and manually
+
+150
+00:10:14,399 --> 00:10:16,160
+extract it and add it to the path
+
+151
+00:10:16,160 --> 00:10:18,000
+variable and So, oh
+
+152
+00:10:18,000 --> 00:10:19,920
+>> his his group can
+
+153
+00:10:19,920 --> 00:10:23,600
+>> he's using like a 2012 Mac. So, uh
+
+154
+00:10:23,600 --> 00:10:27,640
+homebrew doesn't support it.
+
+155
+00:10:31,839 --> 00:10:34,320
+>> May the Lord be with you.
+
+156
+00:10:34,320 --> 00:10:35,760
+We can say
+
+157
+00:10:35,760 --> 00:10:38,000
+>> yep should be able to figure it out
+
+158
+00:10:38,000 --> 00:10:40,480
+though. just uh have to look back and
+
+159
+00:10:40,480 --> 00:10:43,200
+and see what version of the the cloud
+
+160
+00:10:43,200 --> 00:10:45,600
+SDK was supported for that version of
+
+161
+00:10:45,600 --> 00:10:47,360
+Mac OS.
+
+162
+00:10:47,360 --> 00:10:49,519
+>> Okay. Okay. So, this is good. Okay. This
+
+163
+00:10:49,519 --> 00:10:52,240
+is this is good. Now,
+
+164
+00:10:52,240 --> 00:10:53,760
+um
+
+165
+00:10:53,760 --> 00:10:56,399
+Okay. So,
+
+166
+00:10:56,399 --> 00:10:59,360
+um I want you to go to your browser.
+
+167
+00:10:59,360 --> 00:11:01,760
+Okay. You're actually I'm not going to
+
+168
+00:11:01,760 --> 00:11:03,360
+this
+
+169
+00:11:03,360 --> 00:11:05,600
+I don't feel
+
+170
+00:11:05,600 --> 00:11:11,800
+I'm just feel just be nice and delete.
+
+171
+00:11:13,760 --> 00:11:15,440
+Okay.
+
+172
+00:11:15,440 --> 00:11:19,240
+All right. Um
+
+173
+00:11:19,760 --> 00:11:21,839
+Okay. Next thing I need you to do is go
+
+174
+00:11:21,839 --> 00:11:25,519
+to your um Gmail. Make sure that you're
+
+175
+00:11:25,519 --> 00:11:27,760
+logged into the correct account. You
+
+176
+00:11:27,760 --> 00:11:29,519
+should be already have that because when
+
+177
+00:11:29,519 --> 00:11:33,120
+you did your um
+
+178
+00:11:33,120 --> 00:11:35,360
+when you made the bucket, you should
+
+179
+00:11:35,360 --> 00:11:38,240
+already be in the correct account by
+
+180
+00:11:38,240 --> 00:11:39,920
+default. I just want to make sure you
+
+181
+00:11:39,920 --> 00:11:41,839
+have that. Now, for the purpose of this
+
+182
+00:11:41,839 --> 00:11:45,040
+lab, I as your teacher logged out of all
+
+183
+00:11:45,040 --> 00:11:47,120
+other Gmail accounts because it makes my
+
+184
+00:11:47,120 --> 00:11:49,920
+life a lot easier uh to work in this
+
+185
+00:11:49,920 --> 00:11:52,640
+way. I'm just telling you. um you might
+
+186
+00:11:52,640 --> 00:11:55,519
+want to do like do a different browser
+
+187
+00:11:55,519 --> 00:11:58,480
+login and only use one account because
+
+188
+00:11:58,480 --> 00:12:00,560
+this next command is going to be kind of
+
+189
+00:12:00,560 --> 00:12:04,480
+a big one. All right. Um so if we go to
+
+190
+00:12:04,480 --> 00:12:06,639
+the repo.
+
+191
+00:12:06,639 --> 00:12:11,560
+Okay, this is the repo. Um
+
+192
+00:12:11,920 --> 00:12:14,560
+I have a lot of the how you're supposed
+
+193
+00:12:14,560 --> 00:12:17,760
+to do this. It's written here. Okay. So,
+
+194
+00:12:17,760 --> 00:12:19,040
+the first thing I need you to do is
+
+195
+00:12:19,040 --> 00:12:23,680
+authenticate your G-Cloud to your actual
+
+196
+00:12:23,680 --> 00:12:25,920
+G-Cloud, sorry, your G-Cloud client. I
+
+197
+00:12:25,920 --> 00:12:27,360
+need you to authenticate yourself
+
+198
+00:12:27,360 --> 00:12:30,079
+basically to the cloud. This is the
+
+199
+00:12:30,079 --> 00:12:32,720
+command right here.
+
+200
+00:12:32,720 --> 00:12:35,200
+I'm going to copy it.
+
+201
+00:12:35,200 --> 00:12:38,639
+And because I know that I've already
+
+202
+00:12:38,639 --> 00:12:40,399
+have my default value, I'm going to
+
+203
+00:12:40,399 --> 00:12:43,680
+paste this in here.
+
+204
+00:12:43,680 --> 00:12:44,959
+I'm going to make sure I do it
+
+205
+00:12:44,959 --> 00:12:47,040
+correctly.
+
+206
+00:12:47,040 --> 00:12:49,680
+There's some gunk on there. There you
+
+207
+00:12:49,680 --> 00:12:51,519
+go.
+
+208
+00:12:51,519 --> 00:12:52,959
+And it has default. Okay.
+
+209
+00:12:52,959 --> 00:12:55,279
+>> If if you successfully ran this
+
+210
+00:12:55,279 --> 00:12:57,839
+yesterday, particularly if I had to help
+
+211
+00:12:57,839 --> 00:12:59,839
+troubleshoot for a while and then we got
+
+212
+00:12:59,839 --> 00:13:04,800
+it to run, don't run it again.
+
+213
+00:13:04,800 --> 00:13:06,480
+>> This is made I'm doing this for the guys
+
+214
+00:13:06,480 --> 00:13:10,399
+who um haven't done this before. Now,
+
+215
+00:13:10,399 --> 00:13:12,079
+you notice I didn't look at anything. I
+
+216
+00:13:12,079 --> 00:13:15,760
+just said continue. Kept on going.
+
+217
+00:13:15,760 --> 00:13:17,920
+Some people were asking as if they had
+
+218
+00:13:17,920 --> 00:13:19,200
+we're going to have to pay 18 years of
+
+219
+00:13:19,200 --> 00:13:22,560
+trial support. Okay, it's um cloud
+
+220
+00:13:22,560 --> 00:13:26,639
+service. Chill out. It's okay. So now
+
+221
+00:13:26,639 --> 00:13:29,839
+what I've done is authenticated
+
+222
+00:13:29,839 --> 00:13:33,200
+uh my computer to G-Cloud and now I
+
+223
+00:13:33,200 --> 00:13:34,720
+don't need to use a JSON file in order
+
+224
+00:13:34,720 --> 00:13:36,480
+to run Terraform. This is a kind of a
+
+225
+00:13:36,480 --> 00:13:40,880
+big thing. All right. So,
+
+226
+00:13:40,880 --> 00:13:43,040
+next thing I need to do is actually get
+
+227
+00:13:43,040 --> 00:13:46,240
+a folder and get some Terraform into it.
+
+228
+00:13:46,240 --> 00:13:47,680
+Sounds good, doesn't it? Don't you think
+
+229
+00:13:47,680 --> 00:13:48,959
+so? Let's actually go run some
+
+230
+00:13:48,959 --> 00:13:52,079
+Terraform. So, what I'm going to do now
+
+231
+00:13:52,079 --> 00:13:55,040
+is I'm going to
+
+232
+00:13:55,040 --> 00:13:57,600
+go ahead and
+
+233
+00:13:57,600 --> 00:14:04,160
+go to I think go to my Terraform folder
+
+234
+00:14:04,160 --> 00:14:08,560
+and go to here, Seir one.
+
+235
+00:14:08,560 --> 00:14:11,760
+and go to week B. And not going to do
+
+236
+00:14:11,760 --> 00:14:13,760
+this one. Nope. I'm going to do
+
+237
+00:14:13,760 --> 00:14:15,680
+Terraform.
+
+238
+00:14:15,680 --> 00:14:17,600
+And
+
+239
+00:14:17,600 --> 00:14:20,079
+I'm going to call this one Terraform 2.
+
+240
+00:14:20,079 --> 00:14:21,600
+Going to make a new folder here. Call it
+
+241
+00:14:21,600 --> 00:14:25,160
+Terraform 2.
+
+242
+00:14:25,760 --> 00:14:27,279
+I'm doing this guy. I have I have to do
+
+243
+00:14:27,279 --> 00:14:28,959
+this as your teacher right now. If you
+
+244
+00:14:28,959 --> 00:14:30,079
+did this yesterday, you could follow
+
+245
+00:14:30,079 --> 00:14:32,880
+along, but I I have to do this again.
+
+246
+00:14:32,880 --> 00:14:36,079
+This just a part of the class. Okay. So,
+
+247
+00:14:36,079 --> 00:14:39,680
+I'm going to click open Terraform 2.
+
+248
+00:14:39,680 --> 00:14:43,360
+And now what I'm going to do is
+
+249
+00:14:43,360 --> 00:14:46,720
+um I'm just going to rightclick in the
+
+250
+00:14:46,720 --> 00:14:52,519
+folder and it says open Git Bash here.
+
+251
+00:14:52,959 --> 00:14:55,920
+And now I've done that. Follow also
+
+252
+00:14:55,920 --> 00:14:57,680
+follow what Aaron's saying. This is also
+
+253
+00:14:57,680 --> 00:14:59,360
+correct.
+
+254
+00:14:59,360 --> 00:15:02,160
+So, get bash opened. And now I'm just
+
+255
+00:15:02,160 --> 00:15:04,959
+going to type in here code
+
+256
+00:15:04,959 --> 00:15:06,560
+dot
+
+257
+00:15:06,560 --> 00:15:11,639
+code space dot and enter.
+
+258
+00:15:12,880 --> 00:15:14,639
+And now
+
+259
+00:15:14,639 --> 00:15:18,399
+what happened is my Visual Studio Code
+
+260
+00:15:18,399 --> 00:15:21,920
+opened up directly
+
+261
+00:15:21,920 --> 00:15:26,639
+where it's supposed to be. Okay.
+
+262
+00:15:26,639 --> 00:15:29,199
+Well, that works, too.
+
+263
+00:15:29,199 --> 00:15:32,199
+Actually,
+
+264
+00:15:32,800 --> 00:15:33,920
+to tell you the truth, you could
+
+265
+00:15:33,920 --> 00:15:38,240
+actually just do and double and
+
+266
+00:15:38,240 --> 00:15:39,199
+and it'll
+
+267
+00:15:39,199 --> 00:15:42,880
+>> Yeah, I I didn't want to get give them a
+
+268
+00:15:42,880 --> 00:15:45,680
+long one, but I I can put that in there.
+
+269
+00:15:45,680 --> 00:15:48,000
+>> Yeah, that's good. I like that.
+
+270
+00:15:48,000 --> 00:15:50,399
+>> Yeah. And then in my notes, I I show all
+
+271
+00:15:50,399 --> 00:15:53,040
+of that with screenshots. But, uh yeah,
+
+272
+00:15:53,040 --> 00:15:54,079
+let me rewrite.
+
+273
+00:15:54,079 --> 00:15:56,639
+>> Follow guys, follow Aaron's notes, too.
+
+274
+00:15:56,639 --> 00:15:58,959
+That's good. That's actually really
+
+275
+00:15:58,959 --> 00:16:03,199
+good. I like that. Good value add. Okay.
+
+276
+00:16:03,199 --> 00:16:04,959
+So,
+
+277
+00:16:04,959 --> 00:16:07,920
+next what I need you to do
+
+278
+00:16:07,920 --> 00:16:10,880
+is go back to my repo. I'm going to my
+
+279
+00:16:10,880 --> 00:16:12,800
+repo because I changed a lot of things
+
+280
+00:16:12,800 --> 00:16:14,800
+in here yesterday.
+
+281
+00:16:14,800 --> 00:16:16,720
+Go to Python.
+
+282
+00:16:16,720 --> 00:16:18,399
+Sorry. I'm going to go to the Terraform
+
+283
+00:16:18,399 --> 00:16:21,680
+part. Look into the chat. I'm typing. I
+
+284
+00:16:21,680 --> 00:16:24,560
+just put that into the chat. Um, this a
+
+285
+00:16:24,560 --> 00:16:27,519
+directory that I'm using. All right. So
+
+286
+00:16:27,519 --> 00:16:30,800
+let me give you a little bit of
+
+287
+00:16:30,800 --> 00:16:34,720
+information here. I did this
+
+288
+00:16:34,720 --> 00:16:38,959
+um I did this methodology in order to
+
+289
+00:16:38,959 --> 00:16:41,360
+help you guys learn and actually it
+
+290
+00:16:41,360 --> 00:16:43,040
+actually makes my life easier as a
+
+291
+00:16:43,040 --> 00:16:46,000
+teacher. Uh you need to follow this
+
+292
+00:16:46,000 --> 00:16:48,320
+methodology very precisely in the
+
+293
+00:16:48,320 --> 00:16:51,680
+beginning. If you do not, the likelihood
+
+294
+00:16:51,680 --> 00:16:53,279
+of you actually running Terraform
+
+295
+00:16:53,279 --> 00:16:56,720
+correctly is very low and we don't want
+
+296
+00:16:56,720 --> 00:16:58,959
+you running too much. We only want you
+
+297
+00:16:58,959 --> 00:17:02,160
+running a little bit and then you only
+
+298
+00:17:02,160 --> 00:17:04,240
+have you have we want to limit your
+
+299
+00:17:04,240 --> 00:17:06,079
+error messages so we can troubleshoot it
+
+300
+00:17:06,079 --> 00:17:08,880
+correctly. This is what we're doing in
+
+301
+00:17:08,880 --> 00:17:11,600
+the beginning for you as a student.
+
+302
+00:17:11,600 --> 00:17:14,160
+later on it won't be this way but for
+
+303
+00:17:14,160 --> 00:17:18,160
+now it is so that we can teach you how
+
+304
+00:17:18,160 --> 00:17:21,360
+to run Terraform. So all I can say is
+
+305
+00:17:21,360 --> 00:17:23,919
+please pay attention and follow this
+
+306
+00:17:23,919 --> 00:17:27,280
+methodology step by step.
+
+307
+00:17:27,280 --> 00:17:29,200
+All right
+
+308
+00:17:29,200 --> 00:17:32,799
+so the first file we're going to is zero
+
+309
+00:17:32,799 --> 00:17:36,080
+a zero authentication TF. What I'm going
+
+310
+00:17:36,080 --> 00:17:38,799
+to do here is okay, I want you to also
+
+311
+00:17:38,799 --> 00:17:42,080
+name your files exactly in the same way
+
+312
+00:17:42,080 --> 00:17:45,200
+that I'm naming my files. So I then I
+
+313
+00:17:45,200 --> 00:17:47,760
+know which file you're talking about.
+
+314
+00:17:47,760 --> 00:17:49,919
+Don't name it something else. You're
+
+315
+00:17:49,919 --> 00:17:52,320
+going to confuse me. Class will not be
+
+316
+00:17:52,320 --> 00:17:54,640
+fun. Okay.
+
+317
+00:17:54,640 --> 00:17:56,559
+So what I'm going to do here is going to
+
+318
+00:17:56,559 --> 00:17:58,640
+copy this. See how I'm doing this? I'm
+
+319
+00:17:58,640 --> 00:18:03,520
+just copying it. Copy. Going over here.
+
+320
+00:18:03,520 --> 00:18:05,520
+I have Terraform right here. This is my
+
+321
+00:18:05,520 --> 00:18:07,919
+Terraform 2 folder. See how this little
+
+322
+00:18:07,919 --> 00:18:10,240
+button right here says new file. Click
+
+323
+00:18:10,240 --> 00:18:13,360
+on it. It's going to give me the name of
+
+324
+00:18:13,360 --> 00:18:16,559
+it. It wants the name. And I paste that
+
+325
+00:18:16,559 --> 00:18:19,760
+in there. I press enter.
+
+326
+00:18:19,760 --> 00:18:22,000
+Now I have a new file named
+
+327
+00:18:22,000 --> 00:18:25,000
+0-authentication.tf.
+
+328
+00:18:25,520 --> 00:18:28,160
+And there's nothing inside of it, which
+
+329
+00:18:28,160 --> 00:18:30,240
+is fine. I don't want anything inside of
+
+330
+00:18:30,240 --> 00:18:32,080
+it right now. I just want to make sure
+
+331
+00:18:32,080 --> 00:18:35,360
+that I've gotten to this point. Okay.
+
+332
+00:18:35,360 --> 00:18:38,240
+So, everybody, please take a screenshot.
+
+333
+00:18:38,240 --> 00:18:39,520
+I'll make sure you guys are at this
+
+334
+00:18:39,520 --> 00:18:41,280
+point.
+
+335
+00:18:41,280 --> 00:18:44,720
+Please take a screenshot so I know that
+
+336
+00:18:44,720 --> 00:18:47,280
+you have the correct name and there's
+
+337
+00:18:47,280 --> 00:18:48,720
+nothing in there. I just want to make
+
+338
+00:18:48,720 --> 00:18:51,120
+sure. If you did this yesterday, you're
+
+339
+00:18:51,120 --> 00:18:53,039
+cool. This is mainly for the people who
+
+340
+00:18:53,039 --> 00:18:55,280
+are new or people who didn't get this
+
+341
+00:18:55,280 --> 00:19:01,080
+done yesterday. Okay. Good. Good. Kevin
+
+342
+00:19:03,440 --> 00:19:05,039
+Ernest,
+
+343
+00:19:05,039 --> 00:19:09,000
+good Ernest. Good.
+
+344
+00:19:20,000 --> 00:19:22,799
+Anybody else?
+
+345
+00:19:22,799 --> 00:19:24,960
+Nobody else? You guys all good?
+
+346
+00:19:24,960 --> 00:19:29,760
+Everybody else good on this cloud.
+
+347
+00:19:29,760 --> 00:19:31,919
+Okay, good.
+
+348
+00:19:31,919 --> 00:19:33,679
+Sean,
+
+349
+00:19:33,679 --> 00:19:38,679
+good. Okay, Vonyie.
+
+350
+00:19:39,360 --> 00:19:42,360
+Okay.
+
+351
+00:19:43,600 --> 00:19:49,360
+Okay, Sean. Good. Very good.
+
+352
+00:19:49,360 --> 00:19:51,760
+Okay.
+
+353
+00:19:51,760 --> 00:19:55,160
+Anybody else?
+
+354
+00:19:55,840 --> 00:19:58,240
+Hope the rest of you are good. All
+
+355
+00:19:58,240 --> 00:19:59,919
+right? Because I don't want you going
+
+356
+00:19:59,919 --> 00:20:01,280
+back to this and you're not going to get
+
+357
+00:20:01,280 --> 00:20:03,600
+a one-on-one instruction on this one and
+
+358
+00:20:03,600 --> 00:20:05,840
+I don't want you abusing my admins. If
+
+359
+00:20:05,840 --> 00:20:07,120
+you're having problems with this and
+
+360
+00:20:07,120 --> 00:20:08,720
+you're not speaking up, go to your class
+
+361
+00:20:08,720 --> 00:20:10,960
+leader. But if you are having a problem
+
+362
+00:20:10,960 --> 00:20:12,799
+with this, you need to say something
+
+363
+00:20:12,799 --> 00:20:14,480
+now.
+
+364
+00:20:14,480 --> 00:20:17,480
+All right.
+
+365
+00:20:18,880 --> 00:20:21,760
+Okay.
+
+366
+00:20:21,760 --> 00:20:23,440
+Okay. Good.
+
+367
+00:20:23,440 --> 00:20:27,440
+All right. Okay. What I want you to do
+
+368
+00:20:27,440 --> 00:20:32,000
+is go back over to the repo.
+
+369
+00:20:32,000 --> 00:20:33,520
+Okay. I'm in here. This is zero
+
+370
+00:20:33,520 --> 00:20:35,840
+authentication.tf.
+
+371
+00:20:35,840 --> 00:20:38,559
+What the heck? All right. And I'm going
+
+372
+00:20:38,559 --> 00:20:41,280
+to copy this. Going to copy it. Raw.
+
+373
+00:20:41,280 --> 00:20:46,520
+Copy. Going to paste it in here.
+
+374
+00:20:46,799 --> 00:20:51,440
+Where's my paste? There it is. Okay. and
+
+375
+00:20:51,440 --> 00:20:54,240
+then save it. Make sure you save it.
+
+376
+00:20:54,240 --> 00:20:56,480
+Now, in here, there's some important
+
+377
+00:20:56,480 --> 00:20:57,919
+information. I need you guys to
+
+378
+00:20:57,919 --> 00:21:01,960
+understand what's going on here.
+
+379
+00:21:05,120 --> 00:21:08,120
+Okay.
+
+380
+00:21:08,880 --> 00:21:13,960
+Wow. You had COVID. Wow.
+
+381
+00:21:16,480 --> 00:21:20,960
+What? What are you doing,
+
+382
+00:21:20,960 --> 00:21:24,720
+RJB19? What are you doing?
+
+383
+00:21:24,720 --> 00:21:26,799
+We're not We're not even dealing with
+
+384
+00:21:26,799 --> 00:21:29,039
+that. That's from yesterday.
+
+385
+00:21:29,039 --> 00:21:30,400
+We're not even dealing with anything
+
+386
+00:21:30,400 --> 00:21:32,799
+like that right now. Notice I only have
+
+387
+00:21:32,799 --> 00:21:35,120
+one file here.
+
+388
+00:21:35,120 --> 00:21:36,400
+So, if you're dealing with something
+
+389
+00:21:36,400 --> 00:21:37,840
+from yesterday, you're reviewing it,
+
+390
+00:21:37,840 --> 00:21:39,120
+that's okay. But I'm not talking about
+
+391
+00:21:39,120 --> 00:21:40,880
+what I did yesterday at this time.
+
+392
+00:21:40,880 --> 00:21:42,000
+>> Richie, we're not going to be able to
+
+393
+00:21:42,000 --> 00:21:44,640
+fix your mic in class. So you can figure
+
+394
+00:21:44,640 --> 00:21:46,480
+that out on your own or maybe ask your
+
+395
+00:21:46,480 --> 00:21:49,039
+group, but we're not going to be able to
+
+396
+00:21:49,039 --> 00:21:51,679
+work on it in class.
+
+397
+00:21:51,679 --> 00:21:53,360
+>> All right.
+
+398
+00:21:53,360 --> 00:21:53,760
+>> Okay.
+
+399
+00:21:53,760 --> 00:21:56,159
+>> So, so Rich, yeah, keep yourself muted
+
+400
+00:21:56,159 --> 00:21:59,600
+because there's a lot of feedback.
+
+401
+00:21:59,600 --> 00:22:01,840
+>> You notice here it says project. It has
+
+402
+00:22:01,840 --> 00:22:04,880
+Thailand right here. That's because last
+
+403
+00:22:04,880 --> 00:22:06,640
+time I taught this last year, last
+
+404
+00:22:06,640 --> 00:22:09,039
+class, I would had a project named
+
+405
+00:22:09,039 --> 00:22:12,400
+Thailand. So this year I have a
+
+406
+00:22:12,400 --> 00:22:15,919
+different project and it's called seir
+
+407
+00:22:15,919 --> 00:22:18,400
+one. So I already have the see nice I
+
+408
+00:22:18,400 --> 00:22:20,159
+already have my project here. I'm going
+
+409
+00:22:20,159 --> 00:22:23,360
+to go over here and copy it.
+
+410
+00:22:23,360 --> 00:22:25,440
+I'm going to go to my terraform. Now
+
+411
+00:22:25,440 --> 00:22:27,280
+this is important. See how we have the
+
+412
+00:22:27,280 --> 00:22:29,520
+parenthesis here.
+
+413
+00:22:29,520 --> 00:22:32,159
+Keep the parenthesis. Okay. Don't mess
+
+414
+00:22:32,159 --> 00:22:34,000
+with that.
+
+415
+00:22:34,000 --> 00:22:35,679
+So I'm going to erase the Thailand
+
+416
+00:22:35,679 --> 00:22:36,559
+section.
+
+417
+00:22:36,559 --> 00:22:39,120
+>> Close. I'm just going to
+
+418
+00:22:39,120 --> 00:22:43,520
+paste that in there. Okay.
+
+419
+00:22:43,520 --> 00:22:46,880
+And then I'm going to save it.
+
+420
+00:22:46,880 --> 00:22:50,720
+Should be pretty easy. Easy peasy.
+
+421
+00:22:50,720 --> 00:22:53,200
+Okay.
+
+422
+00:22:53,200 --> 00:22:55,200
+What do you got, Christopher?
+
+423
+00:22:55,200 --> 00:22:58,080
+Okay, good.
+
+424
+00:22:58,080 --> 00:23:01,080
+James.
+
+425
+00:23:03,039 --> 00:23:05,280
+Okay, good. Go ahead and change, guys.
+
+426
+00:23:05,280 --> 00:23:08,640
+Go ahead and change your project name.
+
+427
+00:23:08,640 --> 00:23:12,720
+Yep. Make sure that you have the
+
+428
+00:23:12,720 --> 00:23:14,480
+parentheses in there. There shouldn't be
+
+429
+00:23:14,480 --> 00:23:16,720
+any error messages. So, so for example,
+
+430
+00:23:16,720 --> 00:23:19,360
+if I erase a parenthesis,
+
+431
+00:23:19,360 --> 00:23:21,840
+sorry, quotation mark. Sorry. If I erase
+
+432
+00:23:21,840 --> 00:23:24,159
+a quotation mark, see how I got red in
+
+433
+00:23:24,159 --> 00:23:26,880
+there immediately.
+
+434
+00:23:26,880 --> 00:23:29,039
+So, I put the quotation mark in there.
+
+435
+00:23:29,039 --> 00:23:32,440
+It comes back.
+
+436
+00:23:32,559 --> 00:23:35,120
+Can I expand this? I don't know.
+
+437
+00:23:35,120 --> 00:23:37,760
+This is it. Okay. So, go ahead and save
+
+438
+00:23:37,760 --> 00:23:40,880
+it. Now, if I make sure you save it, for
+
+439
+00:23:40,880 --> 00:23:43,760
+example, if I say PPP right there, and
+
+440
+00:23:43,760 --> 00:23:47,679
+then I erase it, see how see how there's
+
+441
+00:23:47,679 --> 00:23:51,600
+a white circle at the top in the tab?
+
+442
+00:23:51,600 --> 00:23:53,760
+That means I haven't saved it. So, go
+
+443
+00:23:53,760 --> 00:23:57,200
+ahead and save it. Boom. I'm good.
+
+444
+00:23:57,200 --> 00:24:00,200
+Okay.
+
+445
+00:24:02,480 --> 00:24:04,159
+Hello.
+
+446
+00:24:04,159 --> 00:24:05,840
+Okay,
+
+447
+00:24:05,840 --> 00:24:08,480
+there you go. James Kent, you're
+
+448
+00:24:08,480 --> 00:24:10,080
+definitely cloud engineer. That's right.
+
+449
+00:24:10,080 --> 00:24:13,440
+You're all dusty. Okay.
+
+450
+00:24:13,440 --> 00:24:17,480
+Has everybody done this?
+
+451
+00:24:18,159 --> 00:24:20,320
+Has anybody having a problem with this?
+
+452
+00:24:20,320 --> 00:24:22,400
+Say it now. I need you to say something
+
+453
+00:24:22,400 --> 00:24:23,679
+in the chat if you're having a problem
+
+454
+00:24:23,679 --> 00:24:26,840
+with this.
+
+455
+00:24:27,520 --> 00:24:29,679
+Because if you guys are all if if none
+
+456
+00:24:29,679 --> 00:24:31,679
+of you are having a problem with this,
+
+457
+00:24:31,679 --> 00:24:35,440
+this is an unusually competent group.
+
+458
+00:24:35,440 --> 00:24:37,200
+So, this is I'm like, yo, something's
+
+459
+00:24:37,200 --> 00:24:39,840
+up. Usually, I don't get that this many
+
+460
+00:24:39,840 --> 00:24:45,480
+guys having no problems this time.
+
+461
+00:24:46,080 --> 00:24:50,480
+All right. Okay. So, go to the top. See
+
+462
+00:24:50,480 --> 00:24:53,600
+how it says terminal up here?
+
+463
+00:24:53,600 --> 00:24:57,440
+Uh uh save. Just go to on Microsoft you
+
+464
+00:24:57,440 --> 00:25:00,080
+save you say control S. It's always
+
+465
+00:25:00,080 --> 00:25:03,480
+control S.
+
+466
+00:25:04,240 --> 00:25:07,120
+Okay. Or go to file here and then say
+
+467
+00:25:07,120 --> 00:25:10,000
+save right here. But control S is best
+
+468
+00:25:10,000 --> 00:25:11,360
+way.
+
+469
+00:25:11,360 --> 00:25:13,600
+>> Which is a good reminder everyone if you
+
+470
+00:25:13,600 --> 00:25:15,600
+don't have autosave on you do need to
+
+471
+00:25:15,600 --> 00:25:18,600
+save.
+
+472
+00:25:22,240 --> 00:25:25,520
+>> Okay. So, at the top here, it says
+
+473
+00:25:25,520 --> 00:25:28,640
+terminal. Open terminal.
+
+474
+00:25:28,640 --> 00:25:31,360
+Say new terminal. Make sure you're in
+
+475
+00:25:31,360 --> 00:25:34,480
+bash right here.
+
+476
+00:25:34,480 --> 00:25:36,240
+Now, I need to do make sure that you're
+
+477
+00:25:36,240 --> 00:25:38,240
+in the correct folder, but it's already
+
+478
+00:25:38,240 --> 00:25:40,240
+telling me I'm in the correct folder.
+
+479
+00:25:40,240 --> 00:25:42,799
+Documents, Terraform, Seir 1, Terraform
+
+480
+00:25:42,799 --> 00:25:45,039
+2. I already know I'm in there. Now, I'm
+
+481
+00:25:45,039 --> 00:25:48,080
+going to do an ls
+
+482
+00:25:48,080 --> 00:25:50,159
+to make sure that I have a Terraform
+
+483
+00:25:50,159 --> 00:25:54,799
+file. If you don't have a Terraform file
+
+484
+00:25:54,799 --> 00:25:58,320
+in your folder, Terraform will not
+
+485
+00:25:58,320 --> 00:26:00,640
+initialize.
+
+486
+00:26:00,640 --> 00:26:02,720
+Okay, I'm going to say this again. If
+
+487
+00:26:02,720 --> 00:26:06,880
+you don't have a Terraform F file in
+
+488
+00:26:06,880 --> 00:26:09,679
+your folder, then Terraform will not
+
+489
+00:26:09,679 --> 00:26:11,520
+initialize.
+
+490
+00:26:11,520 --> 00:26:14,080
+Okay,
+
+491
+00:26:14,080 --> 00:26:17,440
+this doesn't work.
+
+492
+00:26:17,440 --> 00:26:19,760
+Kind of like no. Well, I'm not going to
+
+493
+00:26:19,760 --> 00:26:21,679
+say that. Nope. Be good, Theo. Good. Be
+
+494
+00:26:21,679 --> 00:26:24,640
+good. Okay, now we need to do Terraform
+
+495
+00:26:24,640 --> 00:26:28,080
+and it first command for I have these
+
+496
+00:26:28,080 --> 00:26:32,240
+commands just so you know. Go back over
+
+497
+00:26:32,240 --> 00:26:35,559
+to here.
+
+498
+00:26:36,960 --> 00:26:38,480
+Again, this goes back to Terraform
+
+499
+00:26:38,480 --> 00:26:42,080
+basics. I have all the commands here.
+
+500
+00:26:42,080 --> 00:26:44,880
+Okay, so you can look at them if you
+
+501
+00:26:44,880 --> 00:26:47,279
+want to one by one. I'm going to go
+
+502
+00:26:47,279 --> 00:26:51,080
+ahead and copy this one.
+
+503
+00:26:51,200 --> 00:26:54,400
+Go and paste it here. Okay. Terraform in
+
+504
+00:26:54,400 --> 00:26:58,039
+it. Enter.
+
+505
+00:26:59,279 --> 00:27:01,520
+And yes, it initialized correctly.
+
+506
+00:27:01,520 --> 00:27:03,360
+Woohoo.
+
+507
+00:27:03,360 --> 00:27:06,480
+Yay. This means Terraform is installed.
+
+508
+00:27:06,480 --> 00:27:08,880
+I have a Terraform folder and it's
+
+509
+00:27:08,880 --> 00:27:10,559
+recognizing that I want to use
+
+510
+00:27:10,559 --> 00:27:13,200
+Terraform. So, this is good. Yay. Yay.
+
+511
+00:27:13,200 --> 00:27:18,799
+Yay. Yay. Yay. Yay. Okay. Next one.
+
+512
+00:27:18,799 --> 00:27:20,799
+Go over here.
+
+513
+00:27:20,799 --> 00:27:24,720
+Terraform validate. Copy it.
+
+514
+00:27:24,720 --> 00:27:28,320
+Go over here. Paste it in there.
+
+515
+00:27:28,320 --> 00:27:32,520
+Whoop. Didn't copy it, didn't I?
+
+516
+00:27:32,799 --> 00:27:36,000
+There you go.
+
+517
+00:27:36,000 --> 00:27:38,240
+Validate. It says the configuration is
+
+518
+00:27:38,240 --> 00:27:41,240
+correct.
+
+519
+00:27:44,720 --> 00:27:49,279
+All right. Next one. Terraform plan.
+
+520
+00:27:49,279 --> 00:27:52,240
+Copy.
+
+521
+00:27:52,240 --> 00:27:56,480
+There it is. Terraform plan. Enter.
+
+522
+00:27:56,480 --> 00:27:59,880
+There you go.
+
+523
+00:27:59,919 --> 00:28:03,840
+And then Terraform. Apply.
+
+524
+00:28:03,840 --> 00:28:06,840
+Copy.
+
+525
+00:28:07,279 --> 00:28:11,039
+Paste. Enter.
+
+526
+00:28:11,039 --> 00:28:14,000
+There it is. So, nothing was applied
+
+527
+00:28:14,000 --> 00:28:15,840
+because there wasn't anything to apply.
+
+528
+00:28:15,840 --> 00:28:17,600
+All I did here is check that it can
+
+529
+00:28:17,600 --> 00:28:20,000
+authenticate. That's it. That's the only
+
+530
+00:28:20,000 --> 00:28:23,120
+job. Can it authenticate to your G-Cloud
+
+531
+00:28:23,120 --> 00:28:25,520
+account? And it did authenticate. That's
+
+532
+00:28:25,520 --> 00:28:28,880
+all I wanted to do. Now, when it did
+
+533
+00:28:28,880 --> 00:28:32,640
+this, you notice that it created
+
+534
+00:28:32,640 --> 00:28:34,960
+something called a Terraform.tf
+
+535
+00:28:34,960 --> 00:28:40,919
+file and also created a terraform.lock.h
+
+536
+00:28:40,960 --> 00:28:46,000
+DH HDL file. And over here it also
+
+537
+00:28:46,000 --> 00:28:48,320
+created a secret folder. This is a
+
+538
+00:28:48,320 --> 00:28:51,840
+terapform folder with a license.ext
+
+539
+00:28:51,840 --> 00:28:54,640
+and this other provider information.
+
+540
+00:28:54,640 --> 00:28:59,520
+Okay. These files you do not touch.
+
+541
+00:28:59,520 --> 00:29:02,559
+Make this easy. These files you do not
+
+542
+00:29:02,559 --> 00:29:04,159
+touch.
+
+543
+00:29:04,159 --> 00:29:06,000
+All right?
+
+544
+00:29:06,000 --> 00:29:08,880
+I don't want to hear you saying, "Oh, I
+
+545
+00:29:08,880 --> 00:29:12,799
+touched it or I erased it." Any reason
+
+546
+00:29:12,799 --> 00:29:14,799
+that you have to erase these files,
+
+547
+00:29:14,799 --> 00:29:16,640
+you're wrong.
+
+548
+00:29:16,640 --> 00:29:19,360
+I'm not going to accept any reason. For
+
+549
+00:29:19,360 --> 00:29:21,600
+the purposes of the class, you need to
+
+550
+00:29:21,600 --> 00:29:23,520
+keep these.
+
+551
+00:29:23,520 --> 00:29:26,559
+In the office, you do not erase these
+
+552
+00:29:26,559 --> 00:29:28,880
+files whatsoever.
+
+553
+00:29:28,880 --> 00:29:32,559
+You do not. If you erase these files and
+
+554
+00:29:32,559 --> 00:29:34,880
+your manager finds out, consider
+
+555
+00:29:34,880 --> 00:29:37,360
+yourself fired.
+
+556
+00:29:37,360 --> 00:29:39,360
+You'll probably get a call from HR
+
+557
+00:29:39,360 --> 00:29:41,919
+within one hour and you'll be fired. you
+
+558
+00:29:41,919 --> 00:29:43,279
+what your action will be is an
+
+559
+00:29:43,279 --> 00:29:46,080
+endangerment to the company.
+
+560
+00:29:46,080 --> 00:29:48,320
+Okay? So, you're going to be gone. You
+
+561
+00:29:48,320 --> 00:29:50,880
+do not erase these. You take these very
+
+562
+00:29:50,880 --> 00:29:54,000
+seriously. And as Carlton says, there's
+
+563
+00:29:54,000 --> 00:29:56,320
+always one person every class on every
+
+564
+00:29:56,320 --> 00:29:57,760
+single class I've ever I've always had
+
+565
+00:29:57,760 --> 00:30:00,480
+this guy. Some person decides to erase
+
+566
+00:30:00,480 --> 00:30:03,440
+the file and I do not accept their
+
+567
+00:30:03,440 --> 00:30:06,559
+reason for erasing it. You're wrong.
+
+568
+00:30:06,559 --> 00:30:08,320
+There isn't, oh, well, I did it or I
+
+569
+00:30:08,320 --> 00:30:10,640
+accept. Nope. There's you're wrong.
+
+570
+00:30:10,640 --> 00:30:13,120
+Don't do that again. That's the wrong
+
+571
+00:30:13,120 --> 00:30:16,000
+course of action. Do not erase these.
+
+572
+00:30:16,000 --> 00:30:17,600
+Okay?
+
+573
+00:30:17,600 --> 00:30:19,200
+Don't even look at them. I don't want
+
+574
+00:30:19,200 --> 00:30:21,520
+you to do anything with them.
+
+575
+00:30:21,520 --> 00:30:25,440
+All right? Now, it has this apply as
+
+576
+00:30:25,440 --> 00:30:27,600
+complete right here. I want you to take
+
+577
+00:30:27,600 --> 00:30:30,880
+a screenshot of this
+
+578
+00:30:30,880 --> 00:30:34,240
+and put it into the chat so I know that
+
+579
+00:30:34,240 --> 00:30:37,640
+you did this.
+
+580
+00:30:38,000 --> 00:30:41,000
+Okay.
+
+581
+00:30:44,640 --> 00:30:46,559
+Are we happy?
+
+582
+00:30:46,559 --> 00:30:48,159
+Everybody show me that you're show me
+
+583
+00:30:48,159 --> 00:30:51,399
+your work.
+
+584
+00:30:53,520 --> 00:30:56,520
+Okay,
+
+585
+00:30:56,960 --> 00:30:59,440
+Kevin. Good.
+
+586
+00:30:59,440 --> 00:31:03,399
+John, good.
+
+587
+00:31:09,440 --> 00:31:11,760
+Martz.
+
+588
+00:31:11,760 --> 00:31:13,360
+Good.
+
+589
+00:31:13,360 --> 00:31:15,360
+Claude, wait. What? Too much
+
+590
+00:31:15,360 --> 00:31:18,399
+information, Claude. Okay, good. Guys,
+
+591
+00:31:18,399 --> 00:31:20,000
+just give me the Don't Don't do the
+
+592
+00:31:20,000 --> 00:31:22,000
+whole screen. For heaven's sakes, just
+
+593
+00:31:22,000 --> 00:31:24,880
+do one section. I If it gives me the
+
+594
+00:31:24,880 --> 00:31:26,240
+output at the bottom, I know you did the
+
+595
+00:31:26,240 --> 00:31:29,640
+rest of it correct,
+
+596
+00:31:30,000 --> 00:31:33,559
+James. Good.
+
+597
+00:31:36,000 --> 00:31:39,000
+Okay.
+
+598
+00:31:42,080 --> 00:31:45,080
+Sean
+
+599
+00:31:54,000 --> 00:31:56,799
+and
+
+600
+00:31:56,799 --> 00:32:00,760
+good Lynn.
+
+601
+00:32:01,840 --> 00:32:08,000
+Good Charles. Good, Earnest. Good. Okay.
+
+602
+00:32:08,000 --> 00:32:11,039
+All right. Uh, kind of not so many
+
+603
+00:32:11,039 --> 00:32:14,960
+people. Where are the rest of you?
+
+604
+00:32:14,960 --> 00:32:18,559
+Um, is is everybody doing this? Cuz I
+
+605
+00:32:18,559 --> 00:32:20,159
+got
+
+606
+00:32:20,159 --> 00:32:22,640
+47 people. I know I've got some class
+
+607
+00:32:22,640 --> 00:32:25,840
+admins in here, but I I I I thought I'd
+
+608
+00:32:25,840 --> 00:32:28,559
+get more screenshots and I'm not getting
+
+609
+00:32:28,559 --> 00:32:30,799
+uh the degree of screenshots I thought
+
+610
+00:32:30,799 --> 00:32:33,120
+I'd be getting. Tiqs doesn't have to do
+
+611
+00:32:33,120 --> 00:32:34,559
+this. Bash doesn't have to do this.
+
+612
+00:32:34,559 --> 00:32:36,159
+Carlton doesn't have to. I know they can
+
+613
+00:32:36,159 --> 00:32:39,200
+do this. Right.
+
+614
+00:32:39,200 --> 00:32:41,440
+All right. But the a lot of you in here,
+
+615
+00:32:41,440 --> 00:32:43,760
+I don't know if you can do this or not.
+
+616
+00:32:43,760 --> 00:32:45,760
+And you you're not doing this. This is
+
+617
+00:32:45,760 --> 00:32:47,519
+like a death sentence. If you're not if
+
+618
+00:32:47,519 --> 00:32:51,600
+you want to particip get that job,
+
+619
+00:32:51,600 --> 00:32:53,840
+I'll catch Oh, yata. What do you mean
+
+620
+00:32:53,840 --> 00:32:56,399
+yata? You're lost. If you're lost, why
+
+621
+00:32:56,399 --> 00:33:00,120
+aren't you saying something?
+
+622
+00:33:00,880 --> 00:33:03,440
+Okay. So, where you're lost at, yata,
+
+623
+00:33:03,440 --> 00:33:04,720
+you'll catch it on the replay. That
+
+624
+00:33:04,720 --> 00:33:05,840
+means you're going to drop out of the
+
+625
+00:33:05,840 --> 00:33:08,159
+class and make sure and make sure you
+
+626
+00:33:08,159 --> 00:33:08,799
+understand this.
+
+627
+00:33:08,799 --> 00:33:12,320
+>> I'm lost at uh I'm lost right after
+
+628
+00:33:12,320 --> 00:33:14,799
+authentication TF.
+
+629
+00:33:14,799 --> 00:33:16,640
+>> Okay. So, did you put the Did you save
+
+630
+00:33:16,640 --> 00:33:20,320
+the authentication TF in your folder?
+
+631
+00:33:20,320 --> 00:33:22,799
+>> Uh I'm on Mac. Uh
+
+632
+00:33:22,799 --> 00:33:24,240
+>> it doesn't matter. It's the same thing.
+
+633
+00:33:24,240 --> 00:33:26,799
+>> Don't see
+
+634
+00:33:26,799 --> 00:33:29,279
+what is it. Command save. Command S.
+
+635
+00:33:29,279 --> 00:33:31,760
+>> No, no, no. On your computer, you should
+
+636
+00:33:31,760 --> 00:33:35,559
+know how to save a file.
+
+637
+00:33:36,880 --> 00:33:39,279
+>> Do you Well, well, hold on. You have to
+
+638
+00:33:39,279 --> 00:33:41,039
+ask a question.
+
+639
+00:33:41,039 --> 00:33:43,200
+>> Do you know how to save a f a file on
+
+640
+00:33:43,200 --> 00:33:44,240
+your computer?
+
+641
+00:33:44,240 --> 00:33:47,120
+>> I see it.
+
+642
+00:33:47,120 --> 00:33:49,600
+>> Yeah, I figured out. Shift command S. I
+
+643
+00:33:49,600 --> 00:33:50,240
+just saved it.
+
+644
+00:33:50,240 --> 00:33:51,760
+>> I think it's just command S, but you
+
+645
+00:33:51,760 --> 00:33:52,960
+could also just go
+
+646
+00:33:52,960 --> 00:33:56,679
+>> shift command S.
+
+647
+00:33:57,279 --> 00:34:00,960
+>> Uh, okay. Command X. Shift command X
+
+648
+00:34:00,960 --> 00:34:03,600
+works for you. Where where are you lost
+
+649
+00:34:03,600 --> 00:34:06,080
+to now?
+
+650
+00:34:06,080 --> 00:34:09,359
+>> Uh what's the next step? Uh
+
+651
+00:34:09,359 --> 00:34:10,240
+>> okay.
+
+652
+00:34:10,240 --> 00:34:12,480
+>> Before Terraform Terraform validate
+
+653
+00:34:12,480 --> 00:34:14,240
+Terraform plan.
+
+654
+00:34:14,240 --> 00:34:15,599
+>> I need you to open your terraform. I
+
+655
+00:34:15,599 --> 00:34:18,720
+need you to open up your terminal.
+
+656
+00:34:18,720 --> 00:34:20,240
+>> Terminal.
+
+657
+00:34:20,240 --> 00:34:23,359
+>> See look look at my screen. Look see on
+
+658
+00:34:23,359 --> 00:34:24,960
+Visual Studio Code you got terminal at
+
+659
+00:34:24,960 --> 00:34:25,760
+the top.
+
+660
+00:34:25,760 --> 00:34:28,240
+>> Open your terminal.
+
+661
+00:34:28,240 --> 00:34:29,839
+Okay,
+
+662
+00:34:29,839 --> 00:34:31,760
+new terminal.
+
+663
+00:34:31,760 --> 00:34:32,159
+>> Okay,
+
+664
+00:34:32,159 --> 00:34:32,960
+>> I see it now.
+
+665
+00:34:32,960 --> 00:34:34,960
+>> Then then I need you to type in
+
+666
+00:34:34,960 --> 00:34:37,679
+Terraform init.
+
+667
+00:34:37,679 --> 00:34:40,240
+>> Oh, okay. Gotcha. That's where I missed
+
+668
+00:34:40,240 --> 00:34:43,280
+that. In it.
+
+669
+00:34:43,280 --> 00:34:44,320
+>> Okay.
+
+670
+00:34:44,320 --> 00:34:46,240
+>> Initialize. You want me to just
+
+671
+00:34:46,240 --> 00:34:48,240
+screenshot these, right?
+
+672
+00:34:48,240 --> 00:34:50,240
+>> Yes.
+
+673
+00:34:50,240 --> 00:34:54,399
+>> No problem. Okay.
+
+674
+00:34:54,399 --> 00:34:56,159
+Let me see. Terform in it. Terraform
+
+675
+00:34:56,159 --> 00:34:58,879
+validate.
+
+676
+00:35:02,079 --> 00:35:05,079
+screenshot.
+
+677
+00:35:24,800 --> 00:35:26,560
+Okay. Terraform and it it says
+
+678
+00:35:26,560 --> 00:35:29,560
+validating.
+
+679
+00:35:30,079 --> 00:35:31,359
+>> Okay. Yeah. Do the next one.
+
+680
+00:35:31,359 --> 00:35:33,680
+>> I mean initializing backing.
+
+681
+00:35:33,680 --> 00:35:36,240
+>> All right. Yeah. Great.
+
+682
+00:35:36,240 --> 00:35:40,760
+>> Terraform in it. Terraform validate.
+
+683
+00:35:53,920 --> 00:35:58,839
+Close that new terminal
+
+684
+00:36:00,880 --> 00:36:03,880
+form.
+
+685
+00:36:09,680 --> 00:36:13,400
+Got an error.
+
+686
+00:36:42,640 --> 00:36:44,560
+This configuration requires provide
+
+687
+00:36:44,560 --> 00:36:47,560
+registry
+
+688
+00:36:49,839 --> 00:36:53,960
+automatically by running. Okay.
+
+689
+00:36:55,599 --> 00:36:59,920
+Initialize back end. Okay.
+
+690
+00:37:01,520 --> 00:37:05,560
+Now run terraform plan.
+
+691
+00:37:08,560 --> 00:37:13,000
+This one terraform apply.
+
+692
+00:37:13,040 --> 00:37:16,040
+Okay.
+
+693
+00:37:19,359 --> 00:37:22,359
+Awesome.
+
+694
+00:37:47,280 --> 00:37:51,520
+Real African stars, you didn't run the
+
+695
+00:37:51,520 --> 00:37:54,880
+commands I gave in the chat. So, you
+
+696
+00:37:54,880 --> 00:37:57,599
+must have did this yesterday and you're
+
+697
+00:37:57,599 --> 00:38:01,680
+using the same configuration files. So,
+
+698
+00:38:01,680 --> 00:38:05,200
+uh you already have an existing backend.
+
+699
+00:38:05,200 --> 00:38:06,400
+So the commands are going to be
+
+700
+00:38:06,400 --> 00:38:09,800
+different for you.
+
+701
+00:38:20,880 --> 00:38:21,920
+>> Okay. Okay.
+
+702
+00:38:21,920 --> 00:38:23,440
+>> Sorry, Rob. What What would be the
+
+703
+00:38:23,440 --> 00:38:25,280
+solution for that? Uh did you post that
+
+704
+00:38:25,280 --> 00:38:27,440
+in the chat?
+
+705
+00:38:27,440 --> 00:38:30,560
+>> It's Aaron and No, just run uh Sorry
+
+706
+00:38:30,560 --> 00:38:32,880
+about that.
+
+707
+00:38:32,880 --> 00:38:36,320
+Yeah. Uh, real. We're only doing one
+
+708
+00:38:36,320 --> 00:38:38,560
+file right now.
+
+709
+00:38:38,560 --> 00:38:43,680
+>> Well, he I I'm inferring he's using the
+
+710
+00:38:43,680 --> 00:38:45,680
+files from yesterday. So, yeah,
+
+711
+00:38:45,680 --> 00:38:49,680
+>> you just need to run the commands and uh
+
+712
+00:38:49,680 --> 00:38:53,920
+or or or delete everything that's there
+
+713
+00:38:53,920 --> 00:38:57,839
+>> or start start up in a new folder. that.
+
+714
+00:38:57,839 --> 00:38:59,839
+Yeah, I mean like that's what my the
+
+715
+00:38:59,839 --> 00:39:02,000
+commands I posted would get you a new
+
+716
+00:39:02,000 --> 00:39:09,599
+folder. Uh or so I let me go find them.
+
+717
+00:39:09,599 --> 00:39:12,960
+>> Thank you, sir.
+
+718
+00:39:12,960 --> 00:39:13,440
+>> Right, guys.
+
+719
+00:39:13,440 --> 00:39:14,880
+>> But also, you could scroll up in the
+
+720
+00:39:14,880 --> 00:39:17,760
+chat, too. I've
+
+721
+00:39:17,760 --> 00:39:20,079
+>> Yeah, scroll up in the chat. Get Get it
+
+722
+00:39:20,079 --> 00:39:22,160
+from there. You have to You really do
+
+723
+00:39:22,160 --> 00:39:24,720
+need to start this up in a new folder.
+
+724
+00:39:24,720 --> 00:39:26,640
+>> Okay.
+
+725
+00:39:26,640 --> 00:39:28,560
+If you're following along, you can do
+
+726
+00:39:28,560 --> 00:39:31,359
+what you're doing yesterday, but yeah.
+
+727
+00:39:31,359 --> 00:39:33,280
+>> So, I'm putting it in the chat right
+
+728
+00:39:33,280 --> 00:39:38,079
+now. So, you need to run that. It'll
+
+729
+00:39:38,079 --> 00:39:40,720
+open another instance of VS Code and
+
+730
+00:39:40,720 --> 00:39:42,320
+then you're going to have to make uh the
+
+731
+00:39:42,320 --> 00:39:46,240
+authentication file again and then, you
+
+732
+00:39:46,240 --> 00:39:47,760
+know, put the code in the authentication
+
+733
+00:39:47,760 --> 00:39:50,240
+file.
+
+734
+00:39:50,240 --> 00:39:53,880
+>> All right. Thank you.
+
+735
+00:39:56,160 --> 00:39:59,520
+Okay. All right.
+
+736
+00:39:59,520 --> 00:40:02,320
+Okay, guys. Pretty good. Now, we're
+
+737
+00:40:02,320 --> 00:40:04,480
+going to have another folder, another
+
+738
+00:40:04,480 --> 00:40:08,000
+file, right? So, this state file right
+
+739
+00:40:08,000 --> 00:40:11,359
+here, I don't want it to be here to be
+
+740
+00:40:11,359 --> 00:40:14,000
+honest or like I don't want to do all my
+
+741
+00:40:14,000 --> 00:40:16,240
+updated work on my computer. I actually
+
+742
+00:40:16,240 --> 00:40:19,200
+want to be in the cloud. The reason is
+
+743
+00:40:19,200 --> 00:40:22,320
+because these files, the state file
+
+744
+00:40:22,320 --> 00:40:26,640
+lock, all this stuff is very important,
+
+745
+00:40:26,640 --> 00:40:28,800
+contains secrets, and I don't
+
+746
+00:40:28,800 --> 00:40:30,400
+necessarily want it on my computer. I
+
+747
+00:40:30,400 --> 00:40:33,359
+prefer it to be in the cloud. So, what
+
+748
+00:40:33,359 --> 00:40:35,920
+I'm going to do is I'm going to get a
+
+749
+00:40:35,920 --> 00:40:39,839
+file to do that. Okay, I'm going to do
+
+750
+00:40:39,839 --> 00:40:42,560
+the backend configuration. So, I'm going
+
+751
+00:40:42,560 --> 00:40:46,160
+to go back over to here to my repo.
+
+752
+00:40:46,160 --> 00:40:50,400
+the top says Terraform. This one says
+
+753
+00:40:50,400 --> 00:40:52,640
+one-backend.tf.
+
+754
+00:40:52,640 --> 00:40:54,960
+Going to click on that.
+
+755
+00:40:54,960 --> 00:40:58,319
+This file name, I'm going to copy it.
+
+756
+00:40:58,319 --> 00:41:01,280
+Copy the name. Then I'm going to go back
+
+757
+00:41:01,280 --> 00:41:03,599
+over to here.
+
+758
+00:41:03,599 --> 00:41:06,560
+All right. Make sure
+
+759
+00:41:06,560 --> 00:41:08,880
+Terraform 2. It has new folder. New
+
+760
+00:41:08,880 --> 00:41:12,560
+file. Click on new file. Paste it in
+
+761
+00:41:12,560 --> 00:41:15,119
+there. Enter.
+
+762
+00:41:15,119 --> 00:41:18,480
+Now I have another file name. It's
+
+763
+00:41:18,480 --> 00:41:21,480
+one-backend.tf.
+
+764
+00:41:22,240 --> 00:41:24,160
+I'm going to go back over to here to the
+
+765
+00:41:24,160 --> 00:41:25,760
+repo.
+
+766
+00:41:25,760 --> 00:41:30,319
+And now I'm going to copy it.
+
+767
+00:41:30,319 --> 00:41:33,680
+Go ahead and paste it in here.
+
+768
+00:41:33,680 --> 00:41:35,359
+Okay.
+
+769
+00:41:35,359 --> 00:41:38,160
+So now
+
+770
+00:41:38,160 --> 00:41:42,720
+I have another file in here and it says
+
+771
+00:41:42,720 --> 00:41:46,160
+Terraform backend and it has talk about
+
+772
+00:41:46,160 --> 00:41:47,760
+compute disc. Let's be for later. We're
+
+773
+00:41:47,760 --> 00:41:49,920
+going to get to it though. All right.
+
+774
+00:41:49,920 --> 00:41:51,760
+Now right here it says there's a bucket
+
+775
+00:41:51,760 --> 00:41:56,400
+named Leo love TF. Do we want to use
+
+776
+00:41:56,400 --> 00:41:58,480
+that folder name? Do we want to use that
+
+777
+00:41:58,480 --> 00:42:01,280
+bucket name?
+
+778
+00:42:01,280 --> 00:42:03,599
+No, we don't because that's not the
+
+779
+00:42:03,599 --> 00:42:05,760
+bucket name that you have. So, I want
+
+780
+00:42:05,760 --> 00:42:08,560
+you to go back into your notepad and
+
+781
+00:42:08,560 --> 00:42:12,400
+copy. Well, did I do this again?
+
+782
+00:42:12,400 --> 00:42:15,800
+This is irritating.
+
+783
+00:42:16,079 --> 00:42:18,160
+Okay,
+
+784
+00:42:18,160 --> 00:42:21,359
+I want you to go to your notepad and
+
+785
+00:42:21,359 --> 00:42:26,079
+copy uh hold on. Where is I really I
+
+786
+00:42:26,079 --> 00:42:29,119
+hate Windows. Okay. Um, I want you to
+
+787
+00:42:29,119 --> 00:42:30,560
+copy the name of the bucket that you
+
+788
+00:42:30,560 --> 00:42:32,800
+made in G-Cloud before class started,
+
+789
+00:42:32,800 --> 00:42:35,040
+right before I did this Terraform. So,
+
+790
+00:42:35,040 --> 00:42:40,079
+mine is Ali TF. I'm going to copy that.
+
+791
+00:42:40,079 --> 00:42:42,000
+Don't worry, Alex. I erased the booty
+
+792
+00:42:42,000 --> 00:42:44,640
+level one. I'll get rid of that. I don't
+
+793
+00:42:44,640 --> 00:42:47,440
+feel like being so snarky today. All
+
+794
+00:42:47,440 --> 00:42:49,040
+right.
+
+795
+00:42:49,040 --> 00:42:51,280
+Go over here
+
+796
+00:42:51,280 --> 00:42:53,359
+and see the bucket name right here.
+
+797
+00:42:53,359 --> 00:42:55,599
+There's a line number seven. Going to
+
+798
+00:42:55,599 --> 00:42:59,040
+erase this. And remember the quotations
+
+799
+00:42:59,040 --> 00:43:01,200
+are there. The quotations are not
+
+800
+00:43:01,200 --> 00:43:02,720
+erased. See how the quotations are
+
+801
+00:43:02,720 --> 00:43:05,119
+there? See the quotations are there?
+
+802
+00:43:05,119 --> 00:43:07,520
+Going to paste that in there. And now
+
+803
+00:43:07,520 --> 00:43:13,280
+I'm going to save it. There I go. Okay.
+
+804
+00:43:13,280 --> 00:43:14,800
+All right.
+
+805
+00:43:14,800 --> 00:43:16,800
+We happy
+
+806
+00:43:16,800 --> 00:43:20,319
+everybody do this. You should have two
+
+807
+00:43:20,319 --> 00:43:25,359
+files. Zero authentication.tf tf and one
+
+808
+00:43:25,359 --> 00:43:27,680
+backend.tf.
+
+809
+00:43:27,680 --> 00:43:30,880
+If I go to my terminal, I go ls on my
+
+810
+00:43:30,880 --> 00:43:32,560
+terminal.
+
+811
+00:43:32,560 --> 00:43:35,200
+It says I have two files.
+
+812
+00:43:35,200 --> 00:43:37,920
+I have the zero.tf
+
+813
+00:43:37,920 --> 00:43:40,880
+and 1.tf. Don't even pay attention to
+
+814
+00:43:40,880 --> 00:43:43,520
+Terraform stake. Do not pay attention to
+
+815
+00:43:43,520 --> 00:43:45,520
+it. Don't do anything with it. Don't
+
+816
+00:43:45,520 --> 00:43:47,280
+touch it.
+
+817
+00:43:47,280 --> 00:43:50,240
+Treat it like kesha when you make a lot
+
+818
+00:43:50,240 --> 00:43:53,200
+of money. All right?
+
+819
+00:43:53,200 --> 00:43:55,920
+Don't touch it.
+
+820
+00:43:55,920 --> 00:43:58,480
+Right now, what I want you to do is take
+
+821
+00:43:58,480 --> 00:44:01,040
+a screenshot of this to make sure that
+
+822
+00:44:01,040 --> 00:44:05,119
+you're in the right position.
+
+823
+00:44:05,119 --> 00:44:08,480
+I need to make sure
+
+824
+00:44:08,480 --> 00:44:11,680
+that you're you're doing this right. I
+
+825
+00:44:11,680 --> 00:44:13,359
+saved it. How do I know I saved it?
+
+826
+00:44:13,359 --> 00:44:15,200
+There's no white circle up here in the
+
+827
+00:44:15,200 --> 00:44:18,079
+tab. Okay,
+
+828
+00:44:18,079 --> 00:44:20,000
+this shows me I've got two files here
+
+829
+00:44:20,000 --> 00:44:22,160
+and I got two files here. This is
+
+830
+00:44:22,160 --> 00:44:24,000
+important.
+
+831
+00:44:24,000 --> 00:44:28,599
+How do I create the cloud file again?
+
+832
+00:44:30,000 --> 00:44:32,079
+Yata, what do you mean by the cloud
+
+833
+00:44:32,079 --> 00:44:35,079
+file?
+
+834
+00:44:38,480 --> 00:44:41,359
+>> Excuse me. Um, you said
+
+835
+00:44:41,359 --> 00:44:44,800
+you would wanted the state file to go
+
+836
+00:44:44,800 --> 00:44:45,599
+onto the cloud.
+
+837
+00:44:45,599 --> 00:44:48,400
+>> Not do anything. No, do don't even talk
+
+838
+00:44:48,400 --> 00:44:49,599
+about that.
+
+839
+00:44:49,599 --> 00:44:52,079
+>> I haven't done anything. No, no. Okay.
+
+840
+00:44:52,079 --> 00:44:56,520
+Did you create this one backendtf?
+
+841
+00:44:58,000 --> 00:45:00,720
+>> Oh, okay. No, I did not
+
+842
+00:45:00,720 --> 00:45:03,599
+>> do that.
+
+843
+00:45:03,599 --> 00:45:06,920
+>> Yes, sir.
+
+844
+00:45:07,599 --> 00:45:10,400
+>> In the same
+
+845
+00:45:10,400 --> 00:45:12,240
+in the same uh
+
+846
+00:45:12,240 --> 00:45:14,000
+>> see how everything's same here. Okay.
+
+847
+00:45:14,000 --> 00:45:17,280
+Don't touch anything else. Okay.
+
+848
+00:45:17,280 --> 00:45:21,440
+Now, go over here. Copy the name.
+
+849
+00:45:21,440 --> 00:45:25,200
+Then I want you to go over to here,
+
+850
+00:45:25,200 --> 00:45:26,960
+say new file.
+
+851
+00:45:26,960 --> 00:45:28,400
+>> Ah, okay.
+
+852
+00:45:28,400 --> 00:45:32,280
+>> Then paste it in there.
+
+853
+00:45:33,760 --> 00:45:37,319
+Copy the name
+
+854
+00:45:37,680 --> 00:45:39,599
+here.
+
+855
+00:45:39,599 --> 00:45:43,480
+file. He say
+
+856
+00:45:54,480 --> 00:45:57,480
+okay
+
+857
+00:46:03,359 --> 00:46:06,359
+there.
+
+858
+00:46:06,960 --> 00:46:09,960
+Oh.
+
+859
+00:46:11,359 --> 00:46:13,680
+Okay,
+
+860
+00:46:13,680 --> 00:46:16,680
+beautiful.
+
+861
+00:46:18,319 --> 00:46:21,319
+Save.
+
+862
+00:46:23,119 --> 00:46:25,040
+So,
+
+863
+00:46:25,040 --> 00:46:28,119
+all right.
+
+864
+00:46:30,240 --> 00:46:33,200
+How do you get the state file? Am I
+
+865
+00:46:33,200 --> 00:46:35,040
+tripping? Never mind. I already have.
+
+866
+00:46:35,040 --> 00:46:37,040
+>> It's automatically created. Do not
+
+867
+00:46:37,040 --> 00:46:38,640
+touch.
+
+868
+00:46:38,640 --> 00:46:40,720
+>> Don't do anything with it.
+
+869
+00:46:40,720 --> 00:46:41,119
+>> Okay.
+
+870
+00:46:41,119 --> 00:46:43,440
+>> Don't look at it.
+
+871
+00:46:43,440 --> 00:46:46,440
+>> Okay.
+
+872
+00:46:55,680 --> 00:46:57,440
+Okay.
+
+873
+00:46:57,440 --> 00:47:01,720
+All right. How about the rest of y'all?
+
+874
+00:47:02,400 --> 00:47:05,640
+We good?
+
+875
+00:47:08,000 --> 00:47:11,119
+Anybody have any questions?
+
+876
+00:47:11,119 --> 00:47:13,040
+Are you alive?
+
+877
+00:47:13,040 --> 00:47:15,119
+Are you doing this?
+
+878
+00:47:15,119 --> 00:47:18,079
+>> Well, if they if everyone's silent, then
+
+879
+00:47:18,079 --> 00:47:19,920
+uh seems that they're
+
+880
+00:47:19,920 --> 00:47:21,520
+>> they've mastered it.
+
+881
+00:47:21,520 --> 00:47:23,520
+>> Yep. They've mastered it and you will
+
+882
+00:47:23,520 --> 00:47:25,599
+not have any
+
+883
+00:47:25,599 --> 00:47:28,160
+you will have to circle the block 40
+
+884
+00:47:28,160 --> 00:47:29,359
+minutes later.
+
+885
+00:47:29,359 --> 00:47:31,200
+>> Well, Rob, he doesn't circle.
+
+886
+00:47:31,200 --> 00:47:32,880
+>> Um
+
+887
+00:47:32,880 --> 00:47:34,960
+Before
+
+888
+00:47:34,960 --> 00:47:37,839
+we move on, was there another step after
+
+889
+00:47:37,839 --> 00:47:41,359
+getting the the back end up
+
+890
+00:47:41,359 --> 00:47:44,599
+the backend.tf?
+
+891
+00:47:49,760 --> 00:47:50,880
+>> Interesting.
+
+892
+00:47:50,880 --> 00:47:52,640
+>> What
+
+893
+00:47:52,640 --> 00:47:54,240
+was there another step after getting the
+
+894
+00:47:54,240 --> 00:47:57,359
+backend TF into VS?
+
+895
+00:47:57,359 --> 00:48:00,400
+>> Okay. Did you copy the the code inside
+
+896
+00:48:00,400 --> 00:48:03,280
+the file? Yes, sir.
+
+897
+00:48:03,280 --> 00:48:04,880
+>> That's it.
+
+898
+00:48:04,880 --> 00:48:05,760
+>> Okay.
+
+899
+00:48:05,760 --> 00:48:07,280
+>> We did. So, you know, look, you're
+
+900
+00:48:07,280 --> 00:48:08,560
+looking into everything here. I didn't
+
+901
+00:48:08,560 --> 00:48:10,800
+do anything else. This is all I did.
+
+902
+00:48:10,800 --> 00:48:13,599
+>> That's a bit deceptive.
+
+903
+00:48:13,599 --> 00:48:15,920
+>> Yeah. Once once it's done, it seems
+
+904
+00:48:15,920 --> 00:48:17,599
+manageable. But before it sounds like
+
+905
+00:48:17,599 --> 00:48:20,800
+you're speaking a different language.
+
+906
+00:48:20,800 --> 00:48:21,599
+>> All I'm doing,
+
+907
+00:48:21,599 --> 00:48:23,359
+>> it is a different language.
+
+908
+00:48:23,359 --> 00:48:25,920
+>> All I'm doing is making a file and
+
+909
+00:48:25,920 --> 00:48:29,839
+naming it and copying something into it.
+
+910
+00:48:29,839 --> 00:48:32,240
+>> That's it. Watch this.
+
+911
+00:48:32,240 --> 00:48:35,440
+>> Your name is Yata. Watch.
+
+912
+00:48:35,440 --> 00:48:40,119
+New file. Yata
+
+913
+00:48:40,160 --> 00:48:42,800
+loves
+
+914
+00:48:42,800 --> 00:48:45,599
+leiso.
+
+915
+00:48:45,599 --> 00:48:48,240
+py. Enter.
+
+916
+00:48:48,240 --> 00:48:52,000
+I just made a Python file.
+
+917
+00:48:52,000 --> 00:48:56,880
+I can go in here and say yata married
+
+918
+00:48:56,880 --> 00:49:00,000
+Leiso last year.
+
+919
+00:49:00,000 --> 00:49:03,200
+then control S.
+
+920
+00:49:03,200 --> 00:49:06,079
+It's not a different language. It's copy
+
+921
+00:49:06,079 --> 00:49:07,920
+and paste.
+
+922
+00:49:07,920 --> 00:49:09,839
+That's all we're doing right now is
+
+923
+00:49:09,839 --> 00:49:12,160
+copying and pasting
+
+924
+00:49:12,160 --> 00:49:14,079
+and typing.
+
+925
+00:49:14,079 --> 00:49:16,880
+This is fourth grade level. No more than
+
+926
+00:49:16,880 --> 00:49:19,920
+that. Okay?
+
+927
+00:49:19,920 --> 00:49:22,319
+This is all we're doing. I'm not making
+
+928
+00:49:22,319 --> 00:49:26,240
+you code. The code is already provided.
+
+929
+00:49:26,240 --> 00:49:28,160
+All right?
+
+930
+00:49:28,160 --> 00:49:29,760
+Making sure you pay attention to this. I
+
+931
+00:49:29,760 --> 00:49:32,800
+understand this is what's going on.
+
+932
+00:49:32,800 --> 00:49:35,880
+All right.
+
+933
+00:49:37,680 --> 00:49:40,960
+All right. Good. Next.
+
+934
+00:49:40,960 --> 00:49:43,119
+Okay.
+
+935
+00:49:43,119 --> 00:49:46,000
+So, I'm going to go over here. I'm going
+
+936
+00:49:46,000 --> 00:49:50,200
+to do terraform it again.
+
+937
+00:49:51,280 --> 00:49:55,040
+That's right. Provider
+
+938
+00:49:55,040 --> 00:49:59,640
+back in. Yeah. Okay. Okay. Terraform
+
+939
+00:50:00,400 --> 00:50:01,920
+that's because I need to initialize the
+
+940
+00:50:01,920 --> 00:50:03,599
+back end.
+
+941
+00:50:03,599 --> 00:50:08,240
+Okay. And then do Terraform
+
+942
+00:50:08,240 --> 00:50:11,240
+validate.
+
+943
+00:50:11,520 --> 00:50:13,680
+Terraform
+
+944
+00:50:13,680 --> 00:50:16,680
+plan.
+
+945
+00:50:17,839 --> 00:50:21,520
+And it says here add one. And now
+
+946
+00:50:21,520 --> 00:50:25,720
+Terraform apply.
+
+947
+00:50:29,280 --> 00:50:32,400
+Okay. And it says yes. Want to add? Say
+
+948
+00:50:32,400 --> 00:50:35,400
+yes.
+
+949
+00:50:39,359 --> 00:50:42,880
+Wait a minute. Tio.
+
+950
+00:50:42,880 --> 00:50:43,520
+>> What?
+
+951
+00:50:43,520 --> 00:50:47,359
+>> I've got uh plan add four. You've got to
+
+952
+00:50:47,359 --> 00:50:50,559
+add one.
+
+953
+00:50:50,559 --> 00:50:51,040
+Can you
+
+954
+00:50:51,040 --> 00:50:53,359
+>> That means you're adding more.
+
+955
+00:50:53,359 --> 00:50:56,559
+>> Yep. is having.
+
+956
+00:50:56,559 --> 00:50:58,559
+>> It's okay if you're if you're running
+
+957
+00:50:58,559 --> 00:51:00,160
+more files and you're there's more
+
+958
+00:51:00,160 --> 00:51:02,079
+objects in there, but right now I only
+
+959
+00:51:02,079 --> 00:51:04,640
+have one object.
+
+960
+00:51:04,640 --> 00:51:06,720
+>> Okay.
+
+961
+00:51:06,720 --> 00:51:09,680
+Okay.
+
+962
+00:51:09,680 --> 00:51:11,920
+>> Yeah, we only have one resource right
+
+963
+00:51:11,920 --> 00:51:12,960
+now.
+
+964
+00:51:12,960 --> 00:51:16,640
+>> Yeah, it's um he's planning to add
+
+965
+00:51:16,640 --> 00:51:19,040
+graphana disc.
+
+966
+00:51:19,040 --> 00:51:21,760
+>> Uh the network may Oh, okay. Okay. Okay.
+
+967
+00:51:21,760 --> 00:51:22,400
+It's because I
+
+968
+00:51:22,400 --> 00:51:24,960
+>> It's just the persistent disc right now.
+
+969
+00:51:24,960 --> 00:51:27,599
+>> Yeah, I I know why. Because I I followed
+
+970
+00:51:27,599 --> 00:51:30,079
+the file and so I I did the VPC one.
+
+971
+00:51:30,079 --> 00:51:32,800
+That's why I've got more. Okay.
+
+972
+00:51:32,800 --> 00:51:34,400
+>> We're not the VPC.
+
+973
+00:51:34,400 --> 00:51:35,920
+>> Yeah, it's my fault. So you
+
+974
+00:51:35,920 --> 00:51:37,920
+>> Oh, he he's in a different time zone, so
+
+975
+00:51:37,920 --> 00:51:39,920
+he's ahead.
+
+976
+00:51:39,920 --> 00:51:41,839
+>> Oh,
+
+977
+00:51:41,839 --> 00:51:43,520
+yes.
+
+978
+00:51:43,520 --> 00:51:44,319
+>> Yes. Yes.
+
+979
+00:51:44,319 --> 00:51:45,119
+>> Okay,
+
+980
+00:51:45,119 --> 00:51:47,680
+>> that was good. Okay, that was good. All
+
+981
+00:51:47,680 --> 00:51:50,319
+right. All right. That's right. All
+
+982
+00:51:50,319 --> 00:51:52,960
+right.
+
+983
+00:51:54,319 --> 00:51:55,839
+I'm sorry. Could you repeat the last
+
+984
+00:51:55,839 --> 00:51:57,520
+step again?
+
+985
+00:51:57,520 --> 00:51:59,280
+>> All you're doing is these commands
+
+986
+00:51:59,280 --> 00:52:01,119
+again.
+
+987
+00:52:01,119 --> 00:52:03,440
+Type them in.
+
+988
+00:52:03,440 --> 00:52:06,559
+>> That's all you're doing. Paste.
+
+989
+00:52:06,559 --> 00:52:10,280
+Type them into your trouble.
+
+990
+00:52:12,559 --> 00:52:16,000
+>> Okay. Try. All right. Now, what I want
+
+991
+00:52:16,000 --> 00:52:20,319
+you to do is go to your bucket.
+
+992
+00:52:20,319 --> 00:52:23,920
+um to your to your bucket in
+
+993
+00:52:23,920 --> 00:52:26,559
+your in G-Cloud.
+
+994
+00:52:26,559 --> 00:52:28,240
+So, I'm going to go here. You know, I
+
+995
+00:52:28,240 --> 00:52:30,400
+see I have my Aligni.tf. Sorry, my
+
+996
+00:52:30,400 --> 00:52:33,040
+sorry, my align it, right? I click on
+
+997
+00:52:33,040 --> 00:52:36,000
+it. And now there's a new folder in here
+
+998
+00:52:36,000 --> 00:52:38,400
+called Terraform. And inside the
+
+999
+00:52:38,400 --> 00:52:41,359
+Terraform, there's a state. And inside
+
+1000
+00:52:41,359 --> 00:52:43,040
+the state, there's something called
+
+1001
+00:52:43,040 --> 00:52:45,760
+default.tf.
+
+1002
+00:52:45,760 --> 00:52:48,160
+Don't play with this, but it's
+
+1003
+00:52:48,160 --> 00:52:50,960
+successful. Internet Correct. Claude,
+
+1004
+00:52:50,960 --> 00:52:52,000
+what's up?
+
+1005
+00:52:52,000 --> 00:52:55,680
+>> You didn't run the ADC command.
+
+1006
+00:52:55,680 --> 00:53:00,079
+>> I'm getting um errors. Um it says um
+
+1007
+00:53:00,079 --> 00:53:01,760
+initialize in the back end and it says
+
+1008
+00:53:01,760 --> 00:53:03,440
+>> in the beginning of the class, he gave
+
+1009
+00:53:03,440 --> 00:53:06,960
+you a G-Cloud command. It says like off
+
+1010
+00:53:06,960 --> 00:53:09,599
+uh default credential login, something
+
+1011
+00:53:09,599 --> 00:53:11,839
+like that.
+
+1012
+00:53:11,839 --> 00:53:13,280
+>> I see. Okay.
+
+1013
+00:53:13,280 --> 00:53:14,800
+>> Got to run that,
+
+1014
+00:53:14,800 --> 00:53:17,280
+>> right? All right.
+
+1015
+00:53:17,280 --> 00:53:20,319
+Hold on. Let me
+
+1016
+00:53:20,319 --> 00:53:21,599
+let me get to you.
+
+1017
+00:53:21,599 --> 00:53:23,599
+>> Oh, it's right there.
+
+1018
+00:53:23,599 --> 00:53:26,079
+>> Oh, okay. You got it. All right.
+
+1019
+00:53:26,079 --> 00:53:27,680
+>> No, no, no. I It's No, I meant I I
+
+1020
+00:53:27,680 --> 00:53:29,599
+didn't see it on your screen. I wasn't
+
+1021
+00:53:29,599 --> 00:53:31,119
+uh
+
+1022
+00:53:31,119 --> 00:53:33,680
+It's not in the chat. I'll put it.
+
+1023
+00:53:33,680 --> 00:53:36,559
+>> Okay. I got it.
+
+1024
+00:53:36,559 --> 00:53:39,559
+>> No.
+
+1025
+00:53:56,960 --> 00:53:59,040
+John, you're not authenticated to your
+
+1026
+00:53:59,040 --> 00:54:02,200
+uh account.
+
+1027
+00:54:02,640 --> 00:54:05,599
+>> John might have a different issue. I I
+
+1028
+00:54:05,599 --> 00:54:08,800
+want to see the error in context. Let's
+
+1029
+00:54:08,800 --> 00:54:11,280
+see a screenshot.
+
+1030
+00:54:11,280 --> 00:54:12,880
+>> Yeah. Okay.
+
+1031
+00:54:12,880 --> 00:54:16,720
+>> And is that the Gmail you use for your
+
+1032
+00:54:16,720 --> 00:54:21,480
+GCP account? John,
+
+1033
+00:54:22,079 --> 00:54:25,760
+also run G-Cloud O list and show us a
+
+1034
+00:54:25,760 --> 00:54:28,319
+screenshot of what comes out of that. Or
+
+1035
+00:54:28,319 --> 00:54:31,280
+here, I guess I'll put
+
+1036
+00:54:31,280 --> 00:54:32,960
+G-Cloud
+
+1037
+00:54:32,960 --> 00:54:35,960
+list.
+
+1038
+00:54:48,960 --> 00:54:52,839
+Which John is this?
+
+1039
+00:54:53,839 --> 00:54:55,760
+John Williams.
+
+1040
+00:54:55,760 --> 00:54:58,760
+>> Okay.
+
+1041
+00:55:07,680 --> 00:55:09,680
+Okay. And show me a screenshot of the
+
+1042
+00:55:09,680 --> 00:55:15,480
+command I put child. Did you Is that the
+
+1043
+00:55:17,119 --> 00:55:21,079
+>> No, that's not. So
+
+1044
+00:55:22,000 --> 00:55:23,839
+>> Oh,
+
+1045
+00:55:23,839 --> 00:55:28,040
+did you get the bucket name wrong?
+
+1046
+00:55:29,680 --> 00:55:32,000
+you know, I I created the bucket and I
+
+1047
+00:55:32,000 --> 00:55:34,480
+put it in the
+
+1048
+00:55:34,480 --> 00:55:36,640
+in the uh backend.tf.
+
+1049
+00:55:36,640 --> 00:55:38,640
+>> Show me a screenshot of your back
+
+1050
+00:55:38,640 --> 00:55:42,000
+backend code block. So, like where you
+
+1051
+00:55:42,000 --> 00:55:44,240
+have your where it says backend and it
+
+1052
+00:55:44,240 --> 00:55:46,319
+has the curly braces and then all of the
+
+1053
+00:55:46,319 --> 00:55:50,920
+arguments. Show me a screenshot of that.
+
+1054
+00:56:05,200 --> 00:56:08,400
+Yeah, that's right.
+
+1055
+00:56:08,400 --> 00:56:10,720
+>> Well, it's not that I don't think it's
+
+1056
+00:56:10,720 --> 00:56:13,280
+right because there wasn't a syntax
+
+1057
+00:56:13,280 --> 00:56:18,640
+error. This is an API error. So, it's a
+
+1058
+00:56:18,640 --> 00:56:19,599
+>> is that bucket
+
+1059
+00:56:19,599 --> 00:56:20,400
+>> odd
+
+1060
+00:56:20,400 --> 00:56:24,720
+>> the bucket name is it right? So uh you
+
+1061
+00:56:24,720 --> 00:56:26,799
+assuming G-Cloud works for you, can you
+
+1062
+00:56:26,799 --> 00:56:31,640
+run G-Cloud storage buckets list
+
+1063
+00:56:37,200 --> 00:56:38,880
+this
+
+1064
+00:56:38,880 --> 00:56:41,599
+I'll put it in the chat
+
+1065
+00:56:41,599 --> 00:56:45,720
+or you could go to your console
+
+1066
+00:56:51,760 --> 00:56:53,520
+Because if the resource doesn't exist,
+
+1067
+00:56:53,520 --> 00:56:55,440
+then you'll get a permissions error,
+
+1068
+00:56:55,440 --> 00:56:58,440
+too.
+
+1069
+00:57:00,880 --> 00:57:03,200
+>> Yeah, I got a I got an error. Let me uh
+
+1070
+00:57:03,200 --> 00:57:04,799
+send you the uh screenshot.
+
+1071
+00:57:04,799 --> 00:57:08,880
+>> No, no, that command should work
+
+1072
+00:57:08,880 --> 00:57:13,160
+regardless. It should work.
+
+1073
+00:57:15,359 --> 00:57:16,720
+You guys are going to have to work on
+
+1074
+00:57:16,720 --> 00:57:18,400
+getting G-Cloud to work. You have to
+
+1075
+00:57:18,400 --> 00:57:21,520
+have it working for class.
+
+1076
+00:57:21,520 --> 00:57:27,160
+Yeah, it's mission critical.
+
+1077
+00:57:32,720 --> 00:57:37,640
+I like this too. I want this.
+
+1078
+00:57:39,200 --> 00:57:42,680
+>> Yeah, let's see.
+
+1079
+00:57:43,680 --> 00:57:46,319
+>> So, run G-Cloud off login like it tells
+
+1080
+00:57:46,319 --> 00:57:49,559
+you to.
+
+1081
+00:58:09,520 --> 00:58:11,359
+Yeah, it's sending me to uh I have a
+
+1082
+00:58:11,359 --> 00:58:14,240
+couple of emails. Maybe I authenticate
+
+1083
+00:58:14,240 --> 00:58:16,079
+with the wrong email. Let me try the uh
+
+1084
+00:58:16,079 --> 00:58:17,920
+>> Oh, you said that was the one you were
+
+1085
+00:58:17,920 --> 00:58:20,960
+using. So, I I you're going to be the
+
+1086
+00:58:20,960 --> 00:58:23,200
+only one who knows that.
+
+1087
+00:58:23,200 --> 00:58:26,200
+>> Okay.
+
+1088
+00:58:27,839 --> 00:58:31,880
+Okay, let me
+
+1089
+00:58:44,240 --> 00:58:48,000
+yeah, I went and ran uh
+
+1090
+00:58:48,000 --> 00:58:49,920
+the uh G-Cloud storage buckets list
+
+1091
+00:58:49,920 --> 00:58:52,880
+again and it's it's the same error. I
+
+1092
+00:58:52,880 --> 00:58:57,359
+did it with a different email and uh
+
+1093
+00:58:57,359 --> 00:59:00,240
+same same issue.
+
+1094
+00:59:00,240 --> 00:59:02,160
+>> Well, it should you you shouldn't be
+
+1095
+00:59:02,160 --> 00:59:05,559
+changing emails.
+
+1096
+00:59:07,280 --> 00:59:11,400
+>> Me, let me run this again.
+
+1097
+00:59:15,040 --> 00:59:17,440
+You need to go to your console, figure
+
+1098
+00:59:17,440 --> 00:59:20,079
+out what Gmail you're using to use G
+
+1099
+00:59:20,079 --> 00:59:23,079
+GCP.
+
+1100
+00:59:24,640 --> 00:59:27,599
+No, no. This This is a This looks like
+
+1101
+00:59:27,599 --> 00:59:30,079
+he's either not logged in properly to
+
+1102
+00:59:30,079 --> 00:59:32,079
+G-Cloud or something, but at this point,
+
+1103
+00:59:32,079 --> 00:59:33,599
+it seems like he doesn't know what Gmail
+
+1104
+00:59:33,599 --> 00:59:36,839
+he uses.
+
+1105
+00:59:39,200 --> 00:59:40,880
+>> Okay, I see which which I see which
+
+1106
+00:59:40,880 --> 00:59:43,760
+email I'm logged in with. A and that use
+
+1107
+00:59:43,760 --> 00:59:50,240
+that email to go to cloud storage and
+
+1108
+00:59:50,240 --> 00:59:52,640
+um click on create a bucket and and see
+
+1109
+00:59:52,640 --> 00:59:55,440
+if it lets you get into that menu or
+
+1110
+00:59:55,440 --> 00:59:57,920
+actually it should if it lets you see
+
+1111
+00:59:57,920 --> 00:59:59,599
+your buckets that means that you at
+
+1112
+00:59:59,599 --> 01:00:02,799
+least have uh the list permission. So
+
+1113
+01:00:02,799 --> 01:00:04,079
+that that would mean it's the right
+
+1114
+01:00:04,079 --> 01:00:05,040
+account. So I
+
+1115
+01:00:05,040 --> 01:00:07,680
+>> I have one bucket that I created. I'm
+
+1116
+01:00:07,680 --> 01:00:09,119
+going to create a new bucket and see
+
+1117
+01:00:09,119 --> 01:00:11,119
+what no
+
+1118
+01:00:11,119 --> 01:00:12,160
+>> Okay.
+
+1119
+01:00:12,160 --> 01:00:14,720
+>> What is the email
+
+1120
+01:00:14,720 --> 01:00:17,200
+that you're using right now in the
+
+1121
+01:00:17,200 --> 01:00:19,440
+console?
+
+1122
+01:00:19,440 --> 01:00:25,079
+>> Uh yeah, John Con uh Gmail.
+
+1123
+01:00:25,680 --> 01:00:28,680
+>> John,
+
+1124
+01:00:29,359 --> 01:00:33,559
+let me hold on. Let me
+
+1125
+01:00:37,359 --> 01:00:41,079
+I'll just uh
+
+1126
+01:00:42,799 --> 01:00:47,640
+up this. No, that didn't let me put it.
+
+1127
+01:00:51,359 --> 01:00:53,440
+>> Yeah. So, that doesn't match the email
+
+1128
+01:00:53,440 --> 01:00:57,280
+that you had initialized
+
+1129
+01:00:57,280 --> 01:01:00,280
+with.
+
+1130
+01:01:01,920 --> 01:01:05,040
+Yeah, that doesn't match the email.
+
+1131
+01:01:05,040 --> 01:01:05,839
+>> Okay.
+
+1132
+01:01:05,839 --> 01:01:08,160
+>> No, because the initial error you gave
+
+1133
+01:01:08,160 --> 01:01:09,440
+us.
+
+1134
+01:01:09,440 --> 01:01:11,280
+>> Yeah.
+
+1135
+01:01:11,280 --> 01:01:16,640
+>> At uh four 7 minutes ago, it says error
+
+1136
+01:01:16,640 --> 01:01:20,559
+403. Uh wrath
+
+1137
+01:01:20,559 --> 01:01:22,559
+uvjgmail.com
+
+1138
+01:01:22,559 --> 01:01:24,880
+does not have storage.objects.list
+
+1139
+01:01:24,880 --> 01:01:26,559
+access, which is true because that's not
+
+1140
+01:01:26,559 --> 01:01:29,599
+the Gmail you use for your GCP account.
+
+1141
+01:01:29,599 --> 01:01:30,880
+Uh-huh.
+
+1142
+01:01:30,880 --> 01:01:32,799
+>> So, the error totally makes sense
+
+1143
+01:01:32,799 --> 01:01:35,760
+because you've logged into G-Cloud with
+
+1144
+01:01:35,760 --> 01:01:38,799
+a Gmail that's not what you use. So, you
+
+1145
+01:01:38,799 --> 01:01:41,440
+need to reinitialize G-Cloud with and
+
+1146
+01:01:41,440 --> 01:01:44,000
+then once you're once the SSO happens
+
+1147
+01:01:44,000 --> 01:01:45,839
+and it takes you to the web browser, you
+
+1148
+01:01:45,839 --> 01:01:50,359
+need to choose the right Gmail account.
+
+1149
+01:01:51,599 --> 01:01:55,040
+So, run G-Cloud and
+
+1150
+01:01:55,040 --> 01:01:57,359
+do the whole process again.
+
+1151
+01:01:57,359 --> 01:02:01,559
+>> Hold on. Go ahead. share your screen.
+
+1152
+01:02:03,760 --> 01:02:07,400
+>> Yeah, give me
+
+1153
+01:02:10,319 --> 01:02:12,480
+and if ever anyone else while he pulls
+
+1154
+01:02:12,480 --> 01:02:14,640
+this up wants to follow along. So, seven
+
+1155
+01:02:14,640 --> 01:02:17,040
+minutes ago he gave us an error. This is
+
+1156
+01:02:17,040 --> 01:02:19,119
+this type of error from Terraform. It
+
+1157
+01:02:19,119 --> 01:02:21,200
+it's not coming from Terraform itself.
+
+1158
+01:02:21,200 --> 01:02:23,599
+This is coming from the what requests
+
+1159
+01:02:23,599 --> 01:02:26,400
+Terraform sends to GCP. It's an API
+
+1160
+01:02:26,400 --> 01:02:28,960
+error in it. It's saying he doesn't have
+
+1161
+01:02:28,960 --> 01:02:31,599
+permission to do things and it says that
+
+1162
+01:02:31,599 --> 01:02:34,880
+he's signed in as a certain Gmail and
+
+1163
+01:02:34,880 --> 01:02:36,960
+that he doesn't have permissions to
+
+1164
+01:02:36,960 --> 01:02:40,559
+access his bucket. So if we look and
+
+1165
+01:02:40,559 --> 01:02:42,559
+then I had him run G-Cloud off list,
+
+1166
+01:02:42,559 --> 01:02:44,400
+that's going to show which Gmails he's
+
+1167
+01:02:44,400 --> 01:02:47,280
+signed into G-Cloud with. Chose that
+
+1168
+01:02:47,280 --> 01:02:49,680
+same G-Cloud, but then when he goes to
+
+1169
+01:02:49,680 --> 01:02:52,160
+the GCP console, he sees it's using a
+
+1170
+01:02:52,160 --> 01:02:54,799
+different Gmail. So we have to get them
+
+1171
+01:02:54,799 --> 01:02:58,040
+to match.
+
+1172
+01:03:00,559 --> 01:03:03,599
+So open up uh so make get bash a little
+
+1173
+01:03:03,599 --> 01:03:08,200
+bigger. I I can't really read it.
+
+1174
+01:03:11,440 --> 01:03:16,440
+No. Can Can you just increase the font?
+
+1175
+01:03:17,839 --> 01:03:20,079
+I don't know how to do that since
+
+1176
+01:03:20,079 --> 01:03:23,039
+I've never done it.
+
+1177
+01:03:23,039 --> 01:03:26,039
+Just
+
+1178
+01:03:26,160 --> 01:03:28,799
+let me see if control plus works here.
+
+1179
+01:03:28,799 --> 01:03:30,799
+Hold on.
+
+1180
+01:03:30,799 --> 01:03:32,160
+>> Yeah, control plus works.
+
+1181
+01:03:32,160 --> 01:03:33,599
+>> Control scroll.
+
+1182
+01:03:33,599 --> 01:03:34,160
+>> Control plus.
+
+1183
+01:03:34,160 --> 01:03:36,160
+>> Just go to the terminal and just use
+
+1184
+01:03:36,160 --> 01:03:39,440
+your fingers and expand it.
+
+1185
+01:03:39,440 --> 01:03:41,760
+>> There we go.
+
+1186
+01:03:41,760 --> 01:03:47,000
+>> Okay. So, run G-Cloud and it
+
+1187
+01:03:55,359 --> 01:03:59,119
+All right. So you go to two for we need
+
+1188
+01:03:59,119 --> 01:04:02,839
+to create a new configuration.
+
+1189
+01:04:05,760 --> 01:04:10,839
+So just name it whatever you want.
+
+1190
+01:04:19,359 --> 01:04:24,039
+Okay. So, press one.
+
+1191
+01:04:26,400 --> 01:04:31,559
+Okay. Choose the project ID you use
+
+1192
+01:04:32,000 --> 01:04:35,000
+J.
+
+1193
+01:04:41,839 --> 01:04:44,240
+You can set a default region and zone or
+
+1194
+01:04:44,240 --> 01:04:46,960
+not. It's up to you.
+
+1195
+01:04:46,960 --> 01:04:50,319
+>> Uh, that's what
+
+1196
+01:04:50,319 --> 01:04:52,799
+>> No, no, no. That's not what it's asking.
+
+1197
+01:04:52,799 --> 01:04:55,760
+Says yes or no. Y or in.
+
+1198
+01:04:55,760 --> 01:05:00,119
+>> Do you want to set one or not?
+
+1199
+01:05:04,079 --> 01:05:07,079
+>> Okay.
+
+1200
+01:05:11,440 --> 01:05:13,599
+Okay. So, you didn't set one because you
+
+1201
+01:05:13,599 --> 01:05:16,559
+didn't choose a number, but
+
+1202
+01:05:16,559 --> 01:05:18,480
+>> I chose eight,
+
+1203
+01:05:18,480 --> 01:05:19,440
+>> did you?
+
+1204
+01:05:19,440 --> 01:05:19,760
+>> Yeah.
+
+1205
+01:05:19,760 --> 01:05:21,760
+>> Yeah.
+
+1206
+01:05:21,760 --> 01:05:22,400
+>> You don't.
+
+1207
+01:05:22,400 --> 01:05:27,319
+>> Perfect. So now run G-Cloud off list.
+
+1208
+01:05:44,640 --> 01:05:46,559
+>> I have I have two emails in there. I I
+
+1209
+01:05:46,559 --> 01:05:49,039
+guess I need to get rid of one.
+
+1210
+01:05:49,039 --> 01:05:53,280
+>> We We're going to do uh
+
+1211
+01:05:53,280 --> 01:05:54,880
+G-Cloud
+
+1212
+01:05:54,880 --> 01:05:57,880
+config
+
+1213
+01:06:00,000 --> 01:06:03,000
+set
+
+1214
+01:06:03,680 --> 01:06:06,680
+account
+
+1215
+01:06:09,599 --> 01:06:12,720
+then a space and then the email you
+
+1216
+01:06:12,720 --> 01:06:15,720
+want.
+
+1217
+01:06:23,839 --> 01:06:27,160
+and enter.
+
+1218
+01:06:27,599 --> 01:06:29,200
+>> Okay. Wait. So, if that's the one you
+
+1219
+01:06:29,200 --> 01:06:31,920
+want, we're okay. Hit control C. That
+
+1220
+01:06:31,920 --> 01:06:35,160
+one's active.
+
+1221
+01:06:35,520 --> 01:06:37,359
+All right. Run G-Cloud info. Let's make
+
+1222
+01:06:37,359 --> 01:06:41,319
+sure it's all set up right.
+
+1223
+01:06:53,680 --> 01:06:57,359
+That's the right project ID and email.
+
+1224
+01:06:57,359 --> 01:06:58,160
+>> Yes.
+
+1225
+01:06:58,160 --> 01:07:00,640
+>> All right. So now you need to reset your
+
+1226
+01:07:00,640 --> 01:07:04,559
+ADCs. So the command that Theo gave you,
+
+1227
+01:07:04,559 --> 01:07:08,000
+do you have that? Um,
+
+1228
+01:07:08,000 --> 01:07:11,440
+the G-Cloud off default credentials
+
+1229
+01:07:11,440 --> 01:07:13,359
+login one.
+
+1230
+01:07:13,359 --> 01:07:15,359
+>> G-Cloud default.
+
+1231
+01:07:15,359 --> 01:07:18,880
+>> Oh, Was it in the uh
+
+1232
+01:07:18,880 --> 01:07:21,760
+in the repository you sent?
+
+1233
+01:07:21,760 --> 01:07:22,160
+>> Yeah.
+
+1234
+01:07:22,160 --> 01:07:25,839
+>> Was it in in here?
+
+1235
+01:07:25,839 --> 01:07:29,760
+>> Yeah, it's it's in the notes
+
+1236
+01:07:29,760 --> 01:07:32,160
+in the repo. I think it's under
+
+1237
+01:07:32,160 --> 01:07:36,520
+Terraform basics or something.
+
+1238
+01:07:37,520 --> 01:07:40,520
+Okay.
+
+1239
+01:08:04,640 --> 01:08:08,160
+Okay. And
+
+1240
+01:08:08,160 --> 01:08:11,039
+now just to make sure G-Cloud works,
+
+1241
+01:08:11,039 --> 01:08:16,039
+it's authenticated, go to Git Bash,
+
+1242
+01:08:20,799 --> 01:08:22,000
+>> okay,
+
+1243
+01:08:22,000 --> 01:08:26,480
+>> and run G-Cloud storage buckets list.
+
+1244
+01:08:26,480 --> 01:08:30,279
+Let's see if this works.
+
+1245
+01:08:39,600 --> 01:08:43,120
+Okay. So, disabled access your account.
+
+1246
+01:08:43,120 --> 01:08:48,440
+Uh, cool. So, go to VS Code.
+
+1247
+01:08:51,040 --> 01:08:52,960
+Um,
+
+1248
+01:08:52,960 --> 01:08:55,040
+run which Terraform command were you
+
+1249
+01:08:55,040 --> 01:08:57,520
+trying to run? Anit probably.
+
+1250
+01:08:57,520 --> 01:09:01,960
+>> Uh, yeah. Okay,
+
+1251
+01:09:06,400 --> 01:09:10,920
+there you go. Okay.
+
+1252
+01:09:33,759 --> 01:09:37,120
+Is it apply now or
+
+1253
+01:09:37,120 --> 01:09:37,839
+which one? Uh
+
+1254
+01:09:37,839 --> 01:09:40,080
+>> yeah, I don't know if they got it they
+
+1255
+01:09:40,080 --> 01:09:43,199
+got to that step. Uh I mean it won't
+
+1256
+01:09:43,199 --> 01:09:47,159
+hurt to do it right now.
+
+1257
+01:10:13,920 --> 01:10:16,400
+Okay.
+
+1258
+01:10:16,400 --> 01:10:17,840
+>> Looks like it's working.
+
+1259
+01:10:17,840 --> 01:10:20,320
+>> It is working. You knew it was working
+
+1260
+01:10:20,320 --> 01:10:22,800
+after Terraform and it because at that
+
+1261
+01:10:22,800 --> 01:10:27,480
+point it has to authenticate to GCP.
+
+1262
+01:10:27,520 --> 01:10:29,199
+>> Cool. Hey, thank thanks for helping me,
+
+1263
+01:10:29,199 --> 01:10:29,920
+man.
+
+1264
+01:10:29,920 --> 01:10:33,239
+>> No problem.
+
+1265
+01:10:37,199 --> 01:10:40,080
+Okay.
+
+1266
+01:10:44,000 --> 01:10:48,760
+All right, Sean, what you got?
+
+1267
+01:10:49,280 --> 01:10:52,800
+>> Hello. Uh, I don't have the uh files in
+
+1268
+01:10:52,800 --> 01:10:53,679
+my new button.
+
+1269
+01:10:53,679 --> 01:10:55,679
+>> You did a different bucket name or
+
+1270
+01:10:55,679 --> 01:10:58,560
+something like that. But if you do the
+
+1271
+01:10:58,560 --> 01:11:01,120
+correct bucket, it will go up there.
+
+1272
+01:11:01,120 --> 01:11:03,920
+It's the way Terraform is designed.
+
+1273
+01:11:03,920 --> 01:11:05,760
+So, if you didn't get any error messages
+
+1274
+01:11:05,760 --> 01:11:07,840
+or something like that, then either you
+
+1275
+01:11:07,840 --> 01:11:09,679
+didn't do a refresh or you're not
+
+1276
+01:11:09,679 --> 01:11:11,600
+looking at it correctly, something like
+
+1277
+01:11:11,600 --> 01:11:14,600
+that.
+
+1278
+01:11:20,880 --> 01:11:23,520
+So,
+
+1279
+01:11:23,520 --> 01:11:28,840
+Sean, did it create the persistent disc?
+
+1280
+01:11:28,880 --> 01:11:32,400
+>> The persistent disc. Uh where would I be
+
+1281
+01:11:32,400 --> 01:11:35,880
+able to find that?
+
+1282
+01:11:36,960 --> 01:11:39,440
+>> Uh under compute engine in the console.
+
+1283
+01:11:39,440 --> 01:11:42,000
+Uh more
+
+1284
+01:11:42,000 --> 01:11:45,640
+engine console.
+
+1285
+01:11:46,960 --> 01:11:50,120
+>> Hold on.
+
+1286
+01:11:54,080 --> 01:11:56,320
+>> Actually I could I could just start
+
+1287
+01:11:56,320 --> 01:11:58,400
+giving commands for everyone so we don't
+
+1288
+01:11:58,400 --> 01:12:01,760
+have to go to the console.
+
+1289
+01:12:04,320 --> 01:12:05,600
+There it is.
+
+1290
+01:12:05,600 --> 01:12:07,360
+>> You could run that command as well,
+
+1291
+01:12:07,360 --> 01:12:13,360
+assuming you you can use G-Cloud, but uh
+
+1292
+01:12:13,360 --> 01:12:15,920
+I I forget GCP's global with their
+
+1293
+01:12:15,920 --> 01:12:18,719
+commands or most things.
+
+1294
+01:12:18,719 --> 01:12:21,719
+>> Yeah.
+
+1295
+01:12:24,000 --> 01:12:27,400
+Yeah. So,
+
+1296
+01:12:27,600 --> 01:12:29,600
+we'll try that.
+
+1297
+01:12:29,600 --> 01:12:31,920
+and then show us a screenshot of what it
+
+1298
+01:12:31,920 --> 01:12:34,480
+gives you.
+
+1299
+01:12:34,480 --> 01:12:37,760
+>> My desk is there.
+
+1300
+01:12:37,760 --> 01:12:41,880
+>> Yay. Good job, Theo.
+
+1301
+01:12:42,800 --> 01:12:44,800
+>> I'm just I'm showing the classes. It
+
+1302
+01:12:44,800 --> 01:12:48,440
+should look like that's all.
+
+1303
+01:12:57,600 --> 01:13:01,239
+Oh, wait a second.
+
+1304
+01:13:06,080 --> 01:13:10,159
+Now, which of the uh
+
+1305
+01:13:10,159 --> 01:13:12,640
+console should it be in?
+
+1306
+01:13:12,640 --> 01:13:15,440
+>> Under compute engine and then under
+
+1307
+01:13:15,440 --> 01:13:17,520
+disks.
+
+1308
+01:13:17,520 --> 01:13:21,120
+>> Compute engine under disk.
+
+1309
+01:13:21,120 --> 01:13:26,040
+And that's from the uh let's see.
+
+1310
+01:13:32,480 --> 01:13:37,239
+Oh, wait a second. This
+
+1311
+01:14:09,679 --> 01:14:11,520
+listing more commands I need to put in
+
+1312
+01:14:11,520 --> 01:14:14,520
+there.
+
+1313
+01:14:15,360 --> 01:14:18,360
+Yo,
+
+1314
+01:14:20,320 --> 01:14:24,080
+so I'm just going to put that in
+
+1315
+01:14:24,080 --> 01:14:25,520
+the check. I'm just going to in the
+
+1316
+01:14:25,520 --> 01:14:27,040
+terraform. I'm just going to put that in
+
+1317
+01:14:27,040 --> 01:14:28,640
+there.
+
+1318
+01:14:28,640 --> 01:14:30,880
+um to remind people that they can always
+
+1319
+01:14:30,880 --> 01:14:34,480
+do it. I I I have the list of at the
+
+1320
+01:14:34,480 --> 01:14:36,159
+AWS. I have the commands, but I didn't
+
+1321
+01:14:36,159 --> 01:14:37,920
+do it in GCP. So, I'll make sure I get
+
+1322
+01:14:37,920 --> 01:14:41,640
+this done for next week.
+
+1323
+01:14:47,760 --> 01:14:50,320
+>> I'm still just waiting on my computer to
+
+1324
+01:14:50,320 --> 01:14:53,040
+catch up.
+
+1325
+01:14:53,040 --> 01:14:56,080
+>> Are you not on a computer?
+
+1326
+01:14:56,080 --> 01:14:58,480
+I am but uh for whatever reason it's
+
+1327
+01:14:58,480 --> 01:14:59,840
+taking a while to get to the computer
+
+1328
+01:14:59,840 --> 01:15:03,280
+engine the disc like you were asking
+
+1329
+01:15:03,280 --> 01:15:03,679
+it
+
+1330
+01:15:03,679 --> 01:15:05,920
+>> okay so I just made this
+
+1331
+01:15:05,920 --> 01:15:08,800
+>> the the the CLI command should be
+
+1332
+01:15:08,800 --> 01:15:11,600
+instantaneous
+
+1333
+01:15:11,600 --> 01:15:13,040
+for that
+
+1334
+01:15:13,040 --> 01:15:15,120
+>> really basic
+
+1335
+01:15:15,120 --> 01:15:20,679
+Chewbacca how you doing how you doing
+
+1336
+01:15:24,560 --> 01:15:26,080
+Okay,
+
+1337
+01:15:26,080 --> 01:15:29,080
+good.
+
+1338
+01:15:38,000 --> 01:15:41,760
+>> He mentioned that I had zero items from
+
+1339
+01:15:41,760 --> 01:15:45,040
+the uh command line, the G-Cloud compute
+
+1340
+01:15:45,040 --> 01:15:48,360
+disc list.
+
+1341
+01:15:50,560 --> 01:15:51,920
+>> All right. Can you share your screen
+
+1342
+01:15:51,920 --> 01:15:53,360
+real quick?
+
+1343
+01:15:53,360 --> 01:15:55,440
+Yep.
+
+1344
+01:15:55,440 --> 01:15:59,000
+>> Okay. Hold on.
+
+1345
+01:16:22,560 --> 01:16:24,640
+Can you all see my screen?
+
+1346
+01:16:24,640 --> 01:16:26,000
+>> Yep.
+
+1347
+01:16:26,000 --> 01:16:26,640
+>> Okay.
+
+1348
+01:16:26,640 --> 01:16:29,520
+>> Well, you're right there. So, you don't
+
+1349
+01:16:29,520 --> 01:16:32,920
+have any discs.
+
+1350
+01:16:33,360 --> 01:16:37,880
+>> See, it says no rows to display.
+
+1351
+01:16:39,280 --> 01:16:41,840
+>> No rows.
+
+1352
+01:16:41,840 --> 01:16:46,520
+>> So, open VS Code.
+
+1353
+01:16:52,719 --> 01:16:54,239
+If I need to make it bigger, uh, just
+
+1354
+01:16:54,239 --> 01:16:55,040
+let me know.
+
+1355
+01:16:55,040 --> 01:16:57,280
+>> I already So, I already see the problem.
+
+1356
+01:16:57,280 --> 01:17:00,719
+Uh, clo close the restart update in the
+
+1357
+01:17:00,719 --> 01:17:04,640
+corner of VS Code and maximize VS Code.
+
+1358
+01:17:04,640 --> 01:17:08,679
+>> Yeah, you're not in the right folder.
+
+1359
+01:17:10,000 --> 01:17:14,120
+So run the command ls
+
+1360
+01:17:19,840 --> 01:17:22,159
+he is in the right folder but for some
+
+1361
+01:17:22,159 --> 01:17:24,320
+reason but this seems to be happening
+
+1362
+01:17:24,320 --> 01:17:27,120
+with for people I don't know why they're
+
+1363
+01:17:27,120 --> 01:17:30,560
+making files inside the terraform folder
+
+1364
+01:17:30,560 --> 01:17:31,280
+but
+
+1365
+01:17:31,280 --> 01:17:34,400
+>> you explicitly told them not to open it
+
+1366
+01:17:34,400 --> 01:17:38,719
+but so what you need to do is
+
+1367
+01:17:38,719 --> 01:17:44,480
+up here in the uh VS Code uh explorer.
+
+1368
+01:17:44,480 --> 01:17:48,480
+You need to grab that file and then drag
+
+1369
+01:17:48,480 --> 01:17:52,199
+it down here.
+
+1370
+01:18:00,800 --> 01:18:03,040
+Okay. Now, if you run ls again, you'll
+
+1371
+01:18:03,040 --> 01:18:06,440
+see the difference.
+
+1372
+01:18:08,640 --> 01:18:13,480
+So now it sees that file.
+
+1373
+01:18:31,360 --> 01:18:33,600
+Let's see. So let me go. Should I
+
+1374
+01:18:33,600 --> 01:18:36,480
+refresh my uh G-Cloud?
+
+1375
+01:18:36,480 --> 01:18:38,159
+>> No, you have to run the Terraform
+
+1376
+01:18:38,159 --> 01:18:39,760
+commands.
+
+1377
+01:18:39,760 --> 01:18:42,760
+>> Okay.
+
+1378
+01:18:50,960 --> 01:18:55,360
+So, you see before it didn't say this.
+
+1379
+01:18:55,360 --> 01:18:59,480
+It wouldn't have said this.
+
+1380
+01:19:01,360 --> 01:19:07,000
+So now move to the next command.
+
+1381
+01:19:24,000 --> 01:19:26,640
+And then now see this is a difference
+
+1382
+01:19:26,640 --> 01:19:29,600
+from last time. Do you see where it says
+
+1383
+01:19:29,600 --> 01:19:32,000
+it's going to add something?
+
+1384
+01:19:32,000 --> 01:19:33,600
+>> Yes.
+
+1385
+01:19:33,600 --> 01:19:34,880
+>> Last time it wouldn't have said that
+
+1386
+01:19:34,880 --> 01:19:36,719
+either. So now we know it's actually
+
+1387
+01:19:36,719 --> 01:19:38,800
+going to make something for us, which is
+
+1388
+01:19:38,800 --> 01:19:41,440
+the persistent disc.
+
+1389
+01:19:41,440 --> 01:19:45,159
+>> Okay, that makes sense.
+
+1390
+01:20:19,360 --> 01:20:21,920
+All right.
+
+1391
+01:20:21,920 --> 01:20:23,440
+Go ahead and go to the console and
+
+1392
+01:20:23,440 --> 01:20:26,640
+refresh it.
+
+1393
+01:20:26,640 --> 01:20:31,080
+There's a refresh button in the console.
+
+1394
+01:20:56,000 --> 01:20:58,560
+There it is.
+
+1395
+01:20:58,560 --> 01:21:00,640
+Okay. Thank you.
+
+1396
+01:21:00,640 --> 01:21:03,640
+>> Mhm.
+
+1397
+01:21:36,560 --> 01:21:38,560
+All
+
+1398
+01:21:50,960 --> 01:21:54,360
+right, guys.
+
+1399
+01:21:59,520 --> 01:22:04,320
+All right. All the Rudy clicks.
+
+1400
+01:22:04,320 --> 01:22:07,199
+I like that. All right, guys. Let's go
+
+1401
+01:22:07,199 --> 01:22:10,560
+to the next one. All right, everybody
+
+1402
+01:22:10,560 --> 01:22:13,679
+get this dish to work. We good here?
+
+1403
+01:22:13,679 --> 01:22:17,480
+Anybody have any questions?
+
+1404
+01:22:17,679 --> 01:22:19,760
+We got enough time to do VPC. Let's do
+
+1405
+01:22:19,760 --> 01:22:24,000
+one more. Okay, we want to do one more.
+
+1406
+01:22:24,000 --> 01:22:27,360
+Yes. No. Put a one in the chat if we
+
+1407
+01:22:27,360 --> 01:22:30,800
+want to do one more Terraform file.
+
+1408
+01:22:30,800 --> 01:22:33,120
+>> Let's do it.
+
+1409
+01:22:33,120 --> 01:22:35,280
+>> Put a two in the chat. give up and you
+
+1410
+01:22:35,280 --> 01:22:37,679
+just want to do cometia and live with
+
+1411
+01:22:37,679 --> 01:22:39,840
+Kesha for the rest of your life. Come
+
+1412
+01:22:39,840 --> 01:22:42,800
+on. Kha needs some loving.
+
+1413
+01:22:42,800 --> 01:22:46,239
+Come on. I want to I don't see no too.
+
+1414
+01:22:46,239 --> 01:22:47,679
+How many of you guys want to pay child
+
+1415
+01:22:47,679 --> 01:22:50,320
+support for Kha?
+
+1416
+01:22:50,320 --> 01:22:52,560
+No, you guys don't want to pay no child
+
+1417
+01:22:52,560 --> 01:22:55,960
+support for Kishha.
+
+1418
+01:22:56,800 --> 01:22:59,679
+She do need some loving.
+
+1419
+01:22:59,679 --> 01:23:02,960
+That's what the bear is for.
+
+1420
+01:23:02,960 --> 01:23:05,280
+Oh, holding that to you. Oh, I ain't
+
+1421
+01:23:05,280 --> 01:23:08,880
+loving no Kishha. Oh, screw that. I can
+
+1422
+01:23:08,880 --> 01:23:12,480
+snuggle up with my dogs. Okay.
+
+1423
+01:23:12,480 --> 01:23:15,920
+Okay. So, going to do VPC next. We're
+
+1424
+01:23:15,920 --> 01:23:18,960
+going going back over to here. Remember
+
+1425
+01:23:18,960 --> 01:23:20,719
+in the repo? You guys can see my screen,
+
+1426
+01:23:20,719 --> 01:23:24,159
+right? We good? Okay. So, I'm going to
+
+1427
+01:23:24,159 --> 01:23:26,400
+VPC
+
+1428
+01:23:26,400 --> 01:23:29,679
+and I'm copying this name. Let me copy
+
+1429
+01:23:29,679 --> 01:23:31,920
+it.
+
+1430
+01:23:31,920 --> 01:23:34,320
+And now I'm going to go over to here.
+
+1431
+01:23:34,320 --> 01:23:36,960
+Make sure you're in the correct folder
+
+1432
+01:23:36,960 --> 01:23:40,239
+again. I'm at Terraform here. Terraform
+
+1433
+01:23:40,239 --> 01:23:42,719
+2.
+
+1434
+01:23:42,719 --> 01:23:47,440
+New file. And paste that in there.
+
+1435
+01:23:47,440 --> 01:23:52,080
+And I now have a file named 2-vp.tf.
+
+1436
+01:23:52,080 --> 01:23:54,239
+All right.
+
+1437
+01:23:54,239 --> 01:23:58,320
+Next, go over here. I'm going to copy.
+
+1438
+01:23:58,320 --> 01:24:01,440
+I'm going do a raw file copy
+
+1439
+01:24:01,440 --> 01:24:06,840
+and go and paste this in there. Okay.
+
+1440
+01:24:07,360 --> 01:24:11,679
+All right. So now we have a VPC and the
+
+1441
+01:24:11,679 --> 01:24:14,719
+name of this VPC is going to be main.
+
+1442
+01:24:14,719 --> 01:24:20,440
+All right. Now, if I go over to
+
+1443
+01:24:21,199 --> 01:24:23,520
+go over to compute real quick and type
+
+1444
+01:24:23,520 --> 01:24:26,880
+in the type over here, type in VPC
+
+1445
+01:24:26,880 --> 01:24:29,880
+networks.
+
+1446
+01:24:31,199 --> 01:24:33,920
+I have my the name of my
+
+1447
+01:24:33,920 --> 01:24:37,360
+VPCs right now are birthday VPC,
+
+1448
+01:24:37,360 --> 01:24:42,320
+default, and elite. And inside of Elite,
+
+1449
+01:24:42,320 --> 01:24:44,880
+I have subnets.
+
+1450
+01:24:44,880 --> 01:24:48,800
+Remember this Netherlands, Sao Paulo,
+
+1451
+01:24:48,800 --> 01:24:51,440
+Vincent Leiso Booty, and Vincent Leiso
+
+1452
+01:24:51,440 --> 01:24:53,760
+honeymoon. I remember that. That was
+
+1453
+01:24:53,760 --> 01:24:56,719
+fun. Remember when we did this subnets?
+
+1454
+01:24:56,719 --> 01:25:00,560
+Vincent was so fun. Okay. Anyway, I hate
+
+1455
+01:25:00,560 --> 01:25:03,520
+you, Theo.
+
+1456
+01:25:03,520 --> 01:25:06,080
+So, now we're going to make a VPC named
+
+1457
+01:25:06,080 --> 01:25:12,080
+Mate. Okay. Let's have some fun. So, put
+
+1458
+01:25:12,080 --> 01:25:14,560
+this in here. I'm going to put See, hold
+
+1459
+01:25:14,560 --> 01:25:16,320
+on.
+
+1460
+01:25:16,320 --> 01:25:17,600
+Let's go ahead make this a little
+
+1461
+01:25:17,600 --> 01:25:20,600
+bigger.
+
+1462
+01:25:21,360 --> 01:25:23,440
+Okay,
+
+1463
+01:25:23,440 --> 01:25:24,880
+I need to save it. See how they have
+
+1464
+01:25:24,880 --> 01:25:26,960
+that white the white circle there? I
+
+1465
+01:25:26,960 --> 01:25:28,960
+need to save it. I'll go ahead and save
+
+1466
+01:25:28,960 --> 01:25:32,159
+that. And now we'll just go right down
+
+1467
+01:25:32,159 --> 01:25:35,040
+here. I'm just going to go ahead and say
+
+1468
+01:25:35,040 --> 01:25:38,199
+uh Terraform
+
+1469
+01:25:38,719 --> 01:25:41,719
+validate
+
+1470
+01:25:48,239 --> 01:25:51,719
+and then Terraform
+
+1471
+01:25:51,840 --> 01:25:54,840
+plan
+
+1472
+01:25:55,280 --> 01:25:58,400
+and has three to add. Good.
+
+1473
+01:25:58,400 --> 01:26:02,280
+Now, what do I do next?
+
+1474
+01:26:03,920 --> 01:26:07,239
+What's next?
+
+1475
+01:26:07,679 --> 01:26:09,520
+Terraform apply.
+
+1476
+01:26:09,520 --> 01:26:12,520
+>> Good.
+
+1477
+01:26:16,560 --> 01:26:19,800
+Say yes.
+
+1478
+01:26:20,000 --> 01:26:23,360
+Oh, I forgotten.
+
+1479
+01:26:23,360 --> 01:26:28,520
+Actually, I have to say yes. Yep.
+
+1480
+01:26:28,560 --> 01:26:30,960
+I do that so many times.
+
+1481
+01:26:30,960 --> 01:26:32,639
+Now
+
+1482
+01:26:32,639 --> 01:26:34,560
+you notice what did you notice about my
+
+1483
+01:26:34,560 --> 01:26:37,199
+methodology?
+
+1484
+01:26:37,199 --> 01:26:40,080
+Did I just do three Terraform files at
+
+1485
+01:26:40,080 --> 01:26:43,239
+one time?
+
+1486
+01:26:45,600 --> 01:26:49,360
+No, I did one file at a time. I did
+
+1487
+01:26:49,360 --> 01:26:52,560
+zero, made sure it worked. I did zero
+
+1488
+01:26:52,560 --> 01:26:55,520
+and one, made sure it worked. I did zero
+
+1489
+01:26:55,520 --> 01:26:59,360
+and two, made sure it worked. Okay,
+
+1490
+01:26:59,360 --> 01:27:02,320
+that's how I did it step by step.
+
+1491
+01:27:02,320 --> 01:27:04,080
+When you're doing Terraform, you need to
+
+1492
+01:27:04,080 --> 01:27:05,600
+do this step by step, particularly in
+
+1493
+01:27:05,600 --> 01:27:09,199
+the beginning. If you do all of these
+
+1494
+01:27:09,199 --> 01:27:11,440
+files at one time, you're probably going
+
+1495
+01:27:11,440 --> 01:27:12,800
+to get you're going to probably screw
+
+1496
+01:27:12,800 --> 01:27:15,920
+up. Then we have issues and you're going
+
+1497
+01:27:15,920 --> 01:27:17,280
+to get discouraged. You're probably
+
+1498
+01:27:17,280 --> 01:27:19,520
+going to drop out of the class. I've
+
+1499
+01:27:19,520 --> 01:27:21,040
+seen this happen I don't know how many
+
+1500
+01:27:21,040 --> 01:27:22,560
+times.
+
+1501
+01:27:22,560 --> 01:27:25,600
+So, this is on you. You need to do these
+
+1502
+01:27:25,600 --> 01:27:28,960
+step by step. This is how I learned
+
+1503
+01:27:28,960 --> 01:27:30,800
+Terraform personally. When I was
+
+1504
+01:27:30,800 --> 01:27:32,320
+originally doing it,
+
+1505
+01:27:32,320 --> 01:27:34,560
+>> I made I just did one object at a time,
+
+1506
+01:27:34,560 --> 01:27:37,360
+one resource at a time, and I just put
+
+1507
+01:27:37,360 --> 01:27:39,360
+it through in the office. This is very
+
+1508
+01:27:39,360 --> 01:27:44,360
+much how we do it. Okay.
+
+1509
+01:27:44,960 --> 01:27:47,960
+So
+
+1510
+01:27:49,600 --> 01:27:51,199
+yeah, you did something something's up
+
+1511
+01:27:51,199 --> 01:27:53,360
+with you did. Uh yeah, I'll I'll have
+
+1512
+01:27:53,360 --> 01:27:57,040
+somebody else stick with you. Okay, so I
+
+1513
+01:27:57,040 --> 01:28:00,400
+have this I ran through. Sorry, did
+
+1514
+01:28:00,400 --> 01:28:04,560
+that. Now remember, look at this. I have
+
+1515
+01:28:04,560 --> 01:28:07,440
+three VPCs. I have birthday VPC, default
+
+1516
+01:28:07,440 --> 01:28:10,080
+VPC, and elite VPC. I'm going to
+
+1517
+01:28:10,080 --> 01:28:13,080
+refresh.
+
+1518
+01:28:14,960 --> 01:28:17,600
+And I have something called main. I have
+
+1519
+01:28:17,600 --> 01:28:20,960
+main VPC. Wow.
+
+1520
+01:28:20,960 --> 01:28:22,560
+I didn't have to go through and make a
+
+1521
+01:28:22,560 --> 01:28:26,639
+VPC on my own. It made a VPC for me.
+
+1522
+01:28:26,639 --> 01:28:29,280
+Isn't that nice?
+
+1523
+01:28:29,280 --> 01:28:34,280
+Is that fun? We like that.
+
+1524
+01:28:34,880 --> 01:28:37,440
+Oh, there you go.
+
+1525
+01:28:37,440 --> 01:28:42,360
+Yay. Isn't that great?
+
+1526
+01:28:44,159 --> 01:28:47,280
+So, do you want to do it this way or
+
+1527
+01:28:47,280 --> 01:28:50,880
+do you just want to do click ops or kha?
+
+1528
+01:28:50,880 --> 01:28:54,080
+Kisha, you could do ka ops. You guys
+
+1529
+01:28:54,080 --> 01:28:55,920
+want to do key shops? I I I like key
+
+1530
+01:28:55,920 --> 01:28:58,400
+ops. I
+
+1531
+01:28:58,400 --> 01:29:01,199
+It does resource transfer for 18 years.
+
+1532
+01:29:01,199 --> 01:29:03,520
+>> Yeah, just just close the computer, shut
+
+1533
+01:29:03,520 --> 01:29:06,800
+the meeting down, and uh head outside.
+
+1534
+01:29:06,800 --> 01:29:08,320
+You'll be fine.
+
+1535
+01:29:08,320 --> 01:29:12,159
+>> We can just work at Waffle House.
+
+1536
+01:29:12,560 --> 01:29:15,520
+That's That's advanced.
+
+1537
+01:29:15,520 --> 01:29:18,000
+>> That's advanced Kha.
+
+1538
+01:29:18,000 --> 01:29:19,920
+That's advanced. You got to start with
+
+1539
+01:29:19,920 --> 01:29:22,880
+Chuck-E-Cheese where her where her uh
+
+1540
+01:29:22,880 --> 01:29:25,760
+her her young king is having a birthday
+
+1541
+01:29:25,760 --> 01:29:28,560
+party. So, make sure to go pay extra for
+
+1542
+01:29:28,560 --> 01:29:32,000
+the pizzas over there.
+
+1543
+01:29:32,000 --> 01:29:34,639
+Give her young king the the father he
+
+1544
+01:29:34,639 --> 01:29:37,639
+deserves.
+
+1545
+01:29:40,880 --> 01:29:46,080
+Okay. All right. So, everybody get this
+
+1546
+01:29:46,080 --> 01:29:49,080
+now.
+
+1547
+01:29:49,920 --> 01:29:52,159
+Okay. If you guys I want you to take a
+
+1548
+01:29:52,159 --> 01:29:56,159
+screenshot of your subnet of your VPC
+
+1549
+01:29:56,159 --> 01:29:58,719
+and put into the chat. So, take see how
+
+1550
+01:29:58,719 --> 01:30:02,080
+here VPC networks. Going to put that in
+
+1551
+01:30:02,080 --> 01:30:04,239
+there. Capture
+
+1552
+01:30:04,239 --> 01:30:06,000
+and put in there. Please take a
+
+1553
+01:30:06,000 --> 01:30:10,199
+screenshot so I know you did it.
+
+1554
+01:30:13,120 --> 01:30:16,880
+Kevin. Oh, Kevin, good job.
+
+1555
+01:30:16,880 --> 01:30:19,600
+William, good job.
+
+1556
+01:30:19,600 --> 01:30:21,199
+Sean,
+
+1557
+01:30:21,199 --> 01:30:24,440
+good job.
+
+1558
+01:30:25,120 --> 01:30:26,800
+Martz,
+
+1559
+01:30:26,800 --> 01:30:29,679
+good job,
+
+1560
+01:30:29,679 --> 01:30:34,679
+Mr. Alex. Good. Jack
+
+1561
+01:30:35,120 --> 01:30:40,560
+Rob Bob. There you go.
+
+1562
+01:30:40,560 --> 01:30:42,800
+Verest. Very good. Look, look at all
+
+1563
+01:30:42,800 --> 01:30:44,719
+these people who want cloud jobs. I want
+
+1564
+01:30:44,719 --> 01:30:47,040
+cloud job, please.
+
+1565
+01:30:47,040 --> 01:30:50,800
+I want cloud job. Cloud. Go to dark
+
+1566
+01:30:50,800 --> 01:30:52,480
+mode.
+
+1567
+01:30:52,480 --> 01:30:55,440
+Jazz. Tres. Trey.
+
+1568
+01:30:55,440 --> 01:30:59,760
+Trey. RW. Good job, James.
+
+1569
+01:30:59,760 --> 01:31:02,560
+James already has a subnet. James, did
+
+1570
+01:31:02,560 --> 01:31:06,159
+you do a subnet already?
+
+1571
+01:31:06,159 --> 01:31:07,760
+Did you go to the next file and already
+
+1572
+01:31:07,760 --> 01:31:09,760
+apply it? Because you shouldn't have a
+
+1573
+01:31:09,760 --> 01:31:13,320
+subnet in there,
+
+1574
+01:31:14,480 --> 01:31:16,800
+right?
+
+1575
+01:31:16,800 --> 01:31:18,159
+Okay, you can do that though. I don't
+
+1576
+01:31:18,159 --> 01:31:22,199
+care. John, good job.
+
+1577
+01:31:42,880 --> 01:31:45,600
+I like being a shock trooper. All right,
+
+1578
+01:31:45,600 --> 01:31:48,320
+guys. How is everybody?
+
+1579
+01:31:48,320 --> 01:31:51,360
+Okay, so this is as far as we're going
+
+1580
+01:31:51,360 --> 01:31:54,080
+today in class. Next week, we'll
+
+1581
+01:31:54,080 --> 01:31:55,679
+continue
+
+1582
+01:31:55,679 --> 01:31:58,679
+Uh
+
+1583
+01:32:00,400 --> 01:32:02,000
+yeah, yata. I don't know what's going
+
+1584
+01:32:02,000 --> 01:32:04,880
+on. You I I don't know what you're doing
+
+1585
+01:32:04,880 --> 01:32:06,480
+there.
+
+1586
+01:32:06,480 --> 01:32:08,719
+You're you're going off into another
+
+1587
+01:32:08,719 --> 01:32:11,280
+world. I don't know what you're doing.
+
+1588
+01:32:11,280 --> 01:32:13,920
+It you you were things were running with
+
+1589
+01:32:13,920 --> 01:32:16,480
+you and then suddenly you just
+
+1590
+01:32:16,480 --> 01:32:19,520
+you went off someplace else. Um Yata, I
+
+1591
+01:32:19,520 --> 01:32:21,120
+want you to stay on and talk to the
+
+1592
+01:32:21,120 --> 01:32:25,040
+admins and and clear that up. All right.
+
+1593
+01:32:25,040 --> 01:32:28,000
+because you're if if you continue on
+
+1594
+01:32:28,000 --> 01:32:28,960
+that you're not going to be able to
+
+1595
+01:32:28,960 --> 01:32:30,639
+terraform
+
+1596
+01:32:30,639 --> 01:32:32,159
+that cloud job is not going to happen.
+
+1597
+01:32:32,159 --> 01:32:33,760
+Okay.
+
+1598
+01:32:33,760 --> 01:32:35,600
+All right.
+
+1599
+01:32:35,600 --> 01:32:39,040
+So in order to do a tear down all you do
+
+1600
+01:32:39,040 --> 01:32:42,520
+is do terraform
+
+1601
+01:32:44,800 --> 01:32:47,800
+destroy.
+
+1602
+01:32:59,120 --> 01:33:02,440
+say yes.
+
+1603
+01:33:04,080 --> 01:33:06,400
+>> Do we remove the bucket we created for
+
+1604
+01:33:06,400 --> 01:33:07,520
+the class also?
+
+1605
+01:33:07,520 --> 01:33:10,520
+>> No.
+
+1606
+01:33:17,520 --> 01:33:21,000
+Do not touch.
+
+1607
+01:33:26,480 --> 01:33:30,560
+Okay. So, we have four
+
+1608
+01:33:30,560 --> 01:33:33,920
+objects. Okay. Now, notice this. See my
+
+1609
+01:33:33,920 --> 01:33:37,719
+VPC. Going to refresh.
+
+1610
+01:33:39,440 --> 01:33:44,880
+Main VPC disappeared. Oh no.
+
+1611
+01:33:44,880 --> 01:33:47,280
+>> What do I need to do if I want to
+
+1612
+01:33:47,280 --> 01:33:51,800
+redeploy main VPC?
+
+1613
+01:33:55,920 --> 01:33:57,679
+>> Yeah, if I'm apply
+
+1614
+01:33:57,679 --> 01:34:00,320
+>> Yeah. Don't we just um go back on VS
+
+1615
+01:34:00,320 --> 01:34:03,920
+Code and initialize and apply everything
+
+1616
+01:34:03,920 --> 01:34:04,480
+again?
+
+1617
+01:34:04,480 --> 01:34:05,360
+>> Well, you don't you don't have to
+
+1618
+01:34:05,360 --> 01:34:07,360
+initialize. Just apply. Watch.
+
+1619
+01:34:07,360 --> 01:34:08,800
+>> Okay.
+
+1620
+01:34:08,800 --> 01:34:11,679
+>> Terrible. Apply. I only have to run
+
+1621
+01:34:11,679 --> 01:34:13,920
+initialize when you change the provider
+
+1622
+01:34:13,920 --> 01:34:17,600
+or terraform code blocks.
+
+1623
+01:34:17,600 --> 01:34:20,600
+>> Gotcha.
+
+1624
+01:34:21,440 --> 01:34:25,239
+>> Yeah, it's really beginning.
+
+1625
+01:34:27,199 --> 01:34:28,880
+>> See,
+
+1626
+01:34:28,880 --> 01:34:30,639
+it redeployed.
+
+1627
+01:34:30,639 --> 01:34:34,600
+I'm going to go back over to here.
+
+1628
+01:34:37,040 --> 01:34:42,080
+Wow, main VPC is back. Oh,
+
+1629
+01:34:42,080 --> 01:34:46,600
+what if I want to destroy? What do I do?
+
+1630
+01:34:48,719 --> 01:34:50,800
+Terraform destroy.
+
+1631
+01:34:50,800 --> 01:34:53,199
+>> There you go. So, I go ahead and just
+
+1632
+01:34:53,199 --> 01:34:55,040
+All I do is do up arrow twice. Up,
+
+1633
+01:34:55,040 --> 01:34:59,639
+terapform, destroy. Boom.
+
+1634
+01:35:02,800 --> 01:35:06,800
+Yes. See how easy that is, guys?
+
+1635
+01:35:06,800 --> 01:35:08,639
+Isn't that fun?
+
+1636
+01:35:08,639 --> 01:35:10,719
+Also, you might show them running
+
+1637
+01:35:10,719 --> 01:35:13,520
+Terraform apply twice in a row won't
+
+1638
+01:35:13,520 --> 01:35:15,840
+change anything.
+
+1639
+01:35:15,840 --> 01:35:17,120
+>> Well, true. True.
+
+1640
+01:35:17,120 --> 01:35:23,320
+>> To demonstrate the idio potency of it.
+
+1641
+01:35:27,520 --> 01:35:31,000
+>> Okay, I'll do that.
+
+1642
+01:35:34,239 --> 01:35:37,679
+Yeah, we love our uh we love our Waffle
+
+1643
+01:35:37,679 --> 01:35:39,920
+House. I should walk there. No, I'm not
+
+1644
+01:35:39,920 --> 01:35:42,480
+going to walk there. Well, it it is
+
+1645
+01:35:42,480 --> 01:35:45,840
+between my house and uh my gym. I can go
+
+1646
+01:35:45,840 --> 01:35:48,800
+there. I might do leg day today. Um
+
+1647
+01:35:48,800 --> 01:35:50,800
+destroy complete. Resources for
+
+1648
+01:35:50,800 --> 01:35:53,199
+destroyed. Very good. Now, what I want
+
+1649
+01:35:53,199 --> 01:35:56,000
+to do is um
+
+1650
+01:35:56,000 --> 01:35:58,719
+let's do apply again.
+
+1651
+01:35:58,719 --> 01:36:02,000
+So if I do apply
+
+1652
+01:36:02,000 --> 01:36:05,320
+say yes.
+
+1653
+01:36:19,600 --> 01:36:23,199
+Okay. Now I'm going to do apply again.
+
+1654
+01:36:23,199 --> 01:36:26,199
+Okay.
+
+1655
+01:36:29,440 --> 01:36:34,440
+see no changes, nothing happens.
+
+1656
+01:36:35,440 --> 01:36:38,440
+Okay.
+
+1657
+01:36:38,480 --> 01:36:40,480
+All right.
+
+1658
+01:36:40,480 --> 01:36:44,000
+Now, one little thing I'm going to teach
+
+1659
+01:36:44,000 --> 01:36:45,520
+you guys real quick. See, Bane is right
+
+1660
+01:36:45,520 --> 01:36:48,159
+there.
+
+1661
+01:36:48,159 --> 01:36:50,320
+What do you do
+
+1662
+01:36:50,320 --> 01:36:52,159
+if you want to change the name of
+
+1663
+01:36:52,159 --> 01:36:55,159
+something?
+
+1664
+01:36:55,199 --> 01:36:58,080
+So, let's say I have Maine right here,
+
+1665
+01:36:58,080 --> 01:37:00,239
+right?
+
+1666
+01:37:00,239 --> 01:37:04,560
+I want to change this to Waffle House.
+
+1667
+01:37:04,560 --> 01:37:07,760
+What do you do? Okay, a lot of you guys
+
+1668
+01:37:07,760 --> 01:37:09,600
+would do destroy, terraform, destroy.
+
+1669
+01:37:09,600 --> 01:37:11,600
+You shouldn't do that. This is what you
+
+1670
+01:37:11,600 --> 01:37:15,280
+just do. Just come over to here and say
+
+1671
+01:37:15,280 --> 01:37:18,679
+Waffle House.
+
+1672
+01:37:18,800 --> 01:37:24,400
+>> Well, that that's not the VPC name.
+
+1673
+01:37:24,400 --> 01:37:26,320
+computer network.
+
+1674
+01:37:26,320 --> 01:37:30,000
+>> You changed the label, the local label.
+
+1675
+01:37:30,000 --> 01:37:33,199
+>> I just do it all one time.
+
+1676
+01:37:33,199 --> 01:37:37,080
+I I don't want have to think.
+
+1677
+01:37:37,520 --> 01:37:40,080
+Let's keep it together. Okay. Want to
+
+1678
+01:37:40,080 --> 01:37:43,520
+see here? I haven't saved it. Right.
+
+1679
+01:37:43,520 --> 01:37:46,320
+Save.
+
+1680
+01:37:46,320 --> 01:37:48,080
+Okay.
+
+1681
+01:37:48,080 --> 01:37:50,159
+So
+
+1682
+01:37:50,159 --> 01:37:52,320
+now what I'm going to do is I'm going to
+
+1683
+01:37:52,320 --> 01:37:55,639
+go to plan
+
+1684
+01:38:09,520 --> 01:38:11,440
+opt out.
+
+1685
+01:38:11,440 --> 01:38:14,400
+So see here it has one to add and one to
+
+1686
+01:38:14,400 --> 01:38:15,920
+destroy.
+
+1687
+01:38:15,920 --> 01:38:20,080
+So currently there's a VPC named main.
+
+1688
+01:38:20,080 --> 01:38:22,080
+The VPC named Maine needs to be
+
+1689
+01:38:22,080 --> 01:38:24,719
+destroyed and then a new one is going to
+
+1690
+01:38:24,719 --> 01:38:27,920
+be created named Waffle House.
+
+1691
+01:38:27,920 --> 01:38:30,480
+But all I did was change the name here.
+
+1692
+01:38:30,480 --> 01:38:32,800
+That's it.
+
+1693
+01:38:32,800 --> 01:38:36,840
+So I'm going to go ahead and do apply.
+
+1694
+01:38:42,000 --> 01:38:45,000
+Yes.
+
+1695
+01:38:46,960 --> 01:38:49,119
+No, you're correct, Aaron. The reason
+
+1696
+01:38:49,119 --> 01:38:51,440
+why I do it both is because I'll get
+
+1697
+01:38:51,440 --> 01:38:55,040
+confused over time. I'll get tired. And
+
+1698
+01:38:55,040 --> 01:38:58,960
+if I don't see this twice,
+
+1699
+01:38:58,960 --> 01:39:00,960
+the likelihood of me making an error is
+
+1700
+01:39:00,960 --> 01:39:03,199
+massive. So, I just put it on there
+
+1701
+01:39:03,199 --> 01:39:04,800
+twice.
+
+1702
+01:39:04,800 --> 01:39:07,040
+But you don't have to. You're right.
+
+1703
+01:39:07,040 --> 01:39:10,400
+>> Yeah. If it but if it were a a mutable
+
+1704
+01:39:10,400 --> 01:39:12,960
+attribute for the resource, renaming the
+
+1705
+01:39:12,960 --> 01:39:15,520
+local label would nec necessitate it
+
+1706
+01:39:15,520 --> 01:39:17,760
+getting recreated entirely, even though
+
+1707
+01:39:17,760 --> 01:39:19,600
+it didn't have to be.
+
+1708
+01:39:19,600 --> 01:39:22,400
+>> Right. Right. Right.
+
+1709
+01:39:22,400 --> 01:39:24,480
+>> But I don't think you can rename a VPC.
+
+1710
+01:39:24,480 --> 01:39:27,600
+So in this case, it's immutable.
+
+1711
+01:39:27,600 --> 01:39:29,760
+So it makes sense for it to re recreate
+
+1712
+01:39:29,760 --> 01:39:30,960
+it entirely.
+
+1713
+01:39:30,960 --> 01:39:34,159
+>> Yeah. Just do it. Just recreate it. Make
+
+1714
+01:39:34,159 --> 01:39:36,880
+life easy.
+
+1715
+01:39:36,880 --> 01:39:38,400
+Okay.
+
+1716
+01:39:38,400 --> 01:39:40,239
+All right.
+
+1717
+01:39:40,239 --> 01:39:42,480
+So, see how that worked? Wasn't that
+
+1718
+01:39:42,480 --> 01:39:45,480
+cool?
+
+1719
+01:39:54,159 --> 01:39:57,119
+All right. So, let's go over here real
+
+1720
+01:39:57,119 --> 01:40:03,320
+quick to over here. Let's go to refresh.
+
+1721
+01:40:04,560 --> 01:40:08,239
+And I now have a VPC and a Waffle House.
+
+1722
+01:40:08,239 --> 01:40:10,719
+Are we happy?
+
+1723
+01:40:10,719 --> 01:40:13,199
+Yeah, we do. Good job. Yay. Waffle
+
+1724
+01:40:13,199 --> 01:40:16,400
+House. We have a reason. Yay. Okay,
+
+1725
+01:40:16,400 --> 01:40:19,840
+good. All right.
+
+1726
+01:40:19,840 --> 01:40:22,560
+Okay, guys. That's it for today. Make
+
+1727
+01:40:22,560 --> 01:40:24,080
+sure you do a terraform destroy at the
+
+1728
+01:40:24,080 --> 01:40:27,520
+end. Let's do this real quick. There it
+
+1729
+01:40:27,520 --> 01:40:30,840
+is. Destroy.
+
+1730
+01:40:35,920 --> 01:40:38,920
+Okay,
+
+1731
+01:40:45,920 --> 01:40:49,520
+that's it. You're done for today.
+
+1732
+01:40:49,520 --> 01:40:52,560
+We'll see you guys next week, guys. Um,
+
+1733
+01:40:52,560 --> 01:40:55,600
+very few of you submitted your UDMI
+
+1734
+01:40:55,600 --> 01:40:57,199
+homework from last time. You guys need
+
+1735
+01:40:57,199 --> 01:40:59,760
+to do this. So,
+
+1736
+01:40:59,760 --> 01:41:01,360
+I need to be rather strict on your
+
+1737
+01:41:01,360 --> 01:41:03,119
+homeworks. So, I do want to have that
+
+1738
+01:41:03,119 --> 01:41:05,199
+for next week. Okay. You want to put
+
+1739
+01:41:05,199 --> 01:41:06,560
+that back into the group? Make sure you
+
+1740
+01:41:06,560 --> 01:41:08,880
+guys do that.
+
+1741
+01:41:08,880 --> 01:41:10,480
+>> Wait, you demi homeworks? Are we
+
+1742
+01:41:10,480 --> 01:41:12,080
+supposed to send an image of the
+
+1743
+01:41:12,080 --> 01:41:14,159
+completed uh section?
+
+1744
+01:41:14,159 --> 01:41:16,239
+>> Yeah. Yeah. Send it to me
+
+1745
+01:41:16,239 --> 01:41:19,360
+>> in GitHub or just just the image.
+
+1746
+01:41:19,360 --> 01:41:20,719
+>> They should probably put it in GitHub
+
+1747
+01:41:20,719 --> 01:41:22,480
+and then send it to me. GitHub. They
+
+1748
+01:41:22,480 --> 01:41:24,560
+don't well mo the new students won't
+
+1749
+01:41:24,560 --> 01:41:25,600
+know get
+
+1750
+01:41:25,600 --> 01:41:28,400
+>> but they can also submit it to their
+
+1751
+01:41:28,400 --> 01:41:29,920
+group leaders and their group leaders
+
+1752
+01:41:29,920 --> 01:41:32,159
+can just give you a summary too unless
+
+1753
+01:41:32,159 --> 01:41:34,320
+you want to review it yourself.
+
+1754
+01:41:34,320 --> 01:41:36,880
+>> Oh is group leader or to me either one.
+
+1755
+01:41:36,880 --> 01:41:38,400
+I actually I prefer you send it to group
+
+1756
+01:41:38,400 --> 01:41:39,520
+leaders.
+
+1757
+01:41:39,520 --> 01:41:40,880
+>> As long as they're saying you guys are
+
+1758
+01:41:40,880 --> 01:41:42,480
+doing it I can check with them. Um but
+
+1759
+01:41:42,480 --> 01:41:43,760
+as long as you guys are saying you guys
+
+1760
+01:41:43,760 --> 01:41:47,719
+are doing it we're good.
+
+1761
+01:41:48,159 --> 01:41:50,239
+>> All right.
+
+1762
+01:41:50,239 --> 01:41:53,040
+And remember, ju just like a building
+
+1763
+01:41:53,040 --> 01:41:56,080
+code, Theo's homework is the bare
+
+1764
+01:41:56,080 --> 01:41:58,800
+minimum.
+
+1765
+01:41:58,800 --> 01:42:00,719
+Your groups should hopefully be
+
+1766
+01:42:00,719 --> 01:42:03,360
+progressing through the Udemy faster or
+
+1767
+01:42:03,360 --> 01:42:06,520
+you independently
+
+1768
+01:42:20,480 --> 01:42:23,520
+Okay guys, thank you. Thank you all.
+
+1769
+01:42:23,520 --> 01:42:26,159
+Bonui.
+
+1770
+01:42:26,159 --> 01:42:28,239
+>> Yeah. Enjoy. Hey.
+
+1771
+01:42:28,239 --> 01:42:28,960
+>> Yep.
+
+1772
+01:42:28,960 --> 01:42:31,960
+>> And
+
+1773
+01:42:34,320 --> 01:42:36,080
+uh I'm going to give
+
+1774
+01:42:36,080 --> 01:42:39,520
+>> Have a gonna make Aaron host.
+
+1775
+01:42:39,520 --> 01:42:42,400
+>> All right. Have a good night.
+
+1776
+01:42:42,400 --> 01:42:45,119
+>> Yep. I'm going to drop. Go ahead and
+
+1777
+01:42:45,119 --> 01:42:46,560
+work a little bit more with Aaron if you
+
+1778
+01:42:46,560 --> 01:42:50,920
+want to and I will see you guys later.
+
+1779
+01:42:57,920 --> 01:42:59,679
+>> All right. Raise your hands if you have
+
+1780
+01:42:59,679 --> 01:43:02,840
+an issue.
+
+1781
+01:43:12,400 --> 01:43:15,400
+Carlton.
+
+1782
+01:43:16,800 --> 01:43:19,600
+>> Yeah, we have those issue with the U.
+
+1783
+01:43:19,600 --> 01:43:20,080
+>> Yeah.
+
+1784
+01:43:20,080 --> 01:43:25,239
+>> No JSON authentication stuff.
+
+1785
+01:43:25,600 --> 01:43:27,119
+>> Yep.
+
+1786
+01:43:27,119 --> 01:43:27,920
+>> Yeah. So,
+
+1787
+01:43:27,920 --> 01:43:30,000
+>> let's uh take a look.
+
+1788
+01:43:30,000 --> 01:43:31,840
+>> Give me one second.
+
+1789
+01:43:31,840 --> 01:43:34,239
+Yeah, Brandon, when uh I don't think
+
+1790
+01:43:34,239 --> 01:43:36,480
+Jules is recording today, but Bash is
+
+1791
+01:43:36,480 --> 01:43:40,080
+here. So, yeah, they'll as long as Bash
+
+1792
+01:43:40,080 --> 01:43:42,159
+or Jules is here, they'll end up on one
+
+1793
+01:43:42,159 --> 01:43:45,480
+of the playlists.
+
+1794
+01:43:55,119 --> 01:43:58,000
+All right. Should I do just my um bash
+
+1795
+01:43:58,000 --> 01:44:02,119
+terminal or my SDK?
+
+1796
+01:44:03,280 --> 01:44:04,880
+Uh,
+
+1797
+01:44:04,880 --> 01:44:06,960
+I mean G-Cloud works in Git Bash for
+
+1798
+01:44:06,960 --> 01:44:08,400
+you, right?
+
+1799
+01:44:08,400 --> 01:44:11,520
+>> Yeah, I can do G-Cloud and get
+
+1800
+01:44:11,520 --> 01:44:13,679
+>> Yeah, let's just use just get bash for
+
+1801
+01:44:13,679 --> 01:44:15,119
+now.
+
+1802
+01:44:15,119 --> 01:44:18,119
+>> Okay.
+
+1803
+01:44:22,080 --> 01:44:25,280
+To share your screen
+
+1804
+01:44:25,280 --> 01:44:28,280
+now.
+
+1805
+01:44:35,520 --> 01:44:38,320
+You see my screen to be terminal.
+
+1806
+01:44:38,320 --> 01:44:41,440
+>> I see the I see get bash. So
+
+1807
+01:44:41,440 --> 01:44:41,760
+>> okay.
+
+1808
+01:44:41,760 --> 01:44:44,400
+>> Uh can you Yeah. Incre increase the font
+
+1809
+01:44:44,400 --> 01:44:48,440
+like one or two times.
+
+1810
+01:44:50,800 --> 01:44:53,040
+There you go. That's perfect. Uh all
+
+1811
+01:44:53,040 --> 01:44:54,800
+right.
+
+1812
+01:44:54,800 --> 01:45:00,440
+So let's reproduce the original error.
+
+1813
+01:45:01,040 --> 01:45:04,600
+That was the the
+
+1814
+01:45:05,199 --> 01:45:07,920
+command line
+
+1815
+01:45:07,920 --> 01:45:10,920
+argument
+
+1816
+01:45:11,440 --> 01:45:13,119
+G-Cloud
+
+1817
+01:45:13,119 --> 01:45:16,119
+off
+
+1818
+01:45:19,199 --> 01:45:26,199
+uh let's say application hyphen default
+
+1819
+01:45:27,040 --> 01:45:31,320
+base login
+
+1820
+01:45:36,639 --> 01:45:39,760
+and then enter.
+
+1821
+01:45:39,760 --> 01:45:41,119
+>> I did.
+
+1822
+01:45:41,119 --> 01:45:44,480
+>> Okay. Yeah. Yeah. So,
+
+1823
+01:45:44,480 --> 01:45:47,560
+all right.
+
+1824
+01:45:50,880 --> 01:45:53,920
+My other page brings up my Gmail
+
+1825
+01:45:53,920 --> 01:45:55,840
+accounts.
+
+1826
+01:45:55,840 --> 01:45:57,520
+Log into.
+
+1827
+01:45:57,520 --> 01:46:02,360
+>> Yeah. Can you Can we see that?
+
+1828
+01:46:07,520 --> 01:46:09,360
+>> Can you see this?
+
+1829
+01:46:09,360 --> 01:46:13,119
+>> I only see Git Bash.
+
+1830
+01:46:13,119 --> 01:46:14,320
+>> Doesn't look like you're sharing the
+
+1831
+01:46:14,320 --> 01:46:17,320
+screen.
+
+1832
+01:46:23,920 --> 01:46:27,239
+One second.
+
+1833
+01:46:27,280 --> 01:46:31,000
+I do full stand.
+
+1834
+01:46:44,000 --> 01:46:45,920
+>> I'll just have to back and forth with
+
+1835
+01:46:45,920 --> 01:46:47,360
+this.
+
+1836
+01:46:47,360 --> 01:46:50,000
+>> Can you see it?
+
+1837
+01:46:50,000 --> 01:46:54,320
+>> Uh, I can see the web browser now. and
+
+1838
+01:46:54,320 --> 01:46:55,920
+uh
+
+1839
+01:46:55,920 --> 01:47:00,639
+>> ch and so yeah the is it the doc.cloud
+
+1840
+01:47:00,639 --> 01:47:01,679
+Cloud Ops one.
+
+1841
+01:47:01,679 --> 01:47:02,639
+>> Yeah.
+
+1842
+01:47:02,639 --> 01:47:04,400
+>> Then that's definitely what you're using
+
+1843
+01:47:04,400 --> 01:47:06,080
+in the console.
+
+1844
+01:47:06,080 --> 01:47:07,040
+>> Yeah.
+
+1845
+01:47:07,040 --> 01:47:11,080
+>> Okay. Click on it.
+
+1846
+01:47:14,639 --> 01:47:16,719
+Select all.
+
+1847
+01:47:16,719 --> 01:47:20,159
+No, no, no, no. Select all.
+
+1848
+01:47:20,159 --> 01:47:23,159
+Continue.
+
+1849
+01:47:26,480 --> 01:47:30,119
+Forgot this before.
+
+1850
+01:47:31,840 --> 01:47:35,880
+And what does Gipash say?
+
+1851
+01:47:49,840 --> 01:47:53,000
+Get back.
+
+1852
+01:47:54,239 --> 01:47:57,880
+>> All right. So
+
+1853
+01:48:00,080 --> 01:48:02,159
+I'm going to give you another command.
+
+1854
+01:48:02,159 --> 01:48:05,159
+Uh
+
+1855
+01:48:05,360 --> 01:48:08,520
+one sec.
+
+1856
+01:48:26,159 --> 01:48:30,920
+All right, it's in the chat.
+
+1857
+01:49:00,880 --> 01:49:03,199
+Yeah. Okay. Looks like you have the
+
+1858
+01:49:03,199 --> 01:49:05,280
+token now.
+
+1859
+01:49:05,280 --> 01:49:07,760
+>> Okay. So then I'm good, right?
+
+1860
+01:49:07,760 --> 01:49:09,040
+>> Yep.
+
+1861
+01:49:09,040 --> 01:49:09,360
+>> Okay.
+
+1862
+01:49:09,360 --> 01:49:12,719
+>> I mean, you could give it a test run in
+
+1863
+01:49:12,719 --> 01:49:14,639
+terraform.
+
+1864
+01:49:14,639 --> 01:49:18,320
+>> I'll need to undo my JSON key.
+
+1865
+01:49:18,320 --> 01:49:20,400
+>> Yeah, you can. Yeah, just remove the
+
+1866
+01:49:20,400 --> 01:49:22,400
+credentials argument.
+
+1867
+01:49:22,400 --> 01:49:24,000
+Do you want me to stop sharing while I
+
+1868
+01:49:24,000 --> 01:49:24,880
+do this?
+
+1869
+01:49:24,880 --> 01:49:26,239
+>> Yeah.
+
+1870
+01:49:26,239 --> 01:49:29,239
+>> Okay.
+
+1871
+01:49:33,360 --> 01:49:36,440
+All right.
+
+1872
+01:49:36,719 --> 01:49:38,880
+>> This one of those tickets where you'd
+
+1873
+01:49:38,880 --> 01:49:40,400
+get it sent back and they'd be like
+
+1874
+01:49:40,400 --> 01:49:44,600
+unable to reproduce error.
+
+1875
+01:49:51,360 --> 01:49:54,760
+Who's next?
+
+1876
+01:50:03,920 --> 01:50:07,440
+>> Um, I'm working with Bash Cloud. Um, he
+
+1877
+01:50:07,440 --> 01:50:11,520
+just he just stepped out, but I know not
+
+1878
+01:50:11,520 --> 01:50:13,520
+everybody here
+
+1879
+01:50:13,520 --> 01:50:17,159
+got what they needed.
+
+1880
+01:50:21,119 --> 01:50:24,440
+Let's see.
+
+1881
+01:50:34,320 --> 01:50:36,000
+Yeah, Richie, you're probably going to
+
+1882
+01:50:36,000 --> 01:50:38,800
+want to work on your mic like before
+
+1883
+01:50:38,800 --> 01:50:41,800
+class.
+
+1884
+01:51:13,920 --> 01:51:16,560
+Mr. Pierre, just share your screen since
+
+1885
+01:51:16,560 --> 01:51:18,400
+nobody
+
+1886
+01:51:18,400 --> 01:51:22,679
+seems like they need help.
+
+1887
+01:51:29,520 --> 01:51:31,679
+Dude. Okay,
+
+1888
+01:51:31,679 --> 01:51:34,159
+>> Bash, you can keep you can keep helping
+
+1889
+01:51:34,159 --> 01:51:38,159
+it helping him. He's sharing his screen.
+
+1890
+01:51:38,159 --> 01:51:39,920
+>> He had to use the bathroom.
+
+1891
+01:51:39,920 --> 01:51:42,800
+>> I just I'm back. I'm back.
+
+1892
+01:51:42,800 --> 01:51:44,239
+>> You guys hear me?
+
+1893
+01:51:44,239 --> 01:51:45,760
+>> Yes, sir.
+
+1894
+01:51:45,760 --> 01:51:47,760
+>> All right. All right. Cool. Uh yeah, I
+
+1895
+01:51:47,760 --> 01:51:51,280
+just want you to run the ply.
+
+1896
+01:51:51,280 --> 01:51:54,000
+Actually, you run the previous commands,
+
+1897
+01:51:54,000 --> 01:51:54,880
+right?
+
+1898
+01:51:54,880 --> 01:51:57,040
+>> LS, right? Right.
+
+1899
+01:51:57,040 --> 01:51:58,880
+uh LSD was just to make sure that you're
+
+1900
+01:51:58,880 --> 01:52:02,480
+in the correct uh folder um which you
+
+1901
+01:52:02,480 --> 01:52:06,000
+seem to be. So just run uh just run and
+
+1902
+01:52:06,000 --> 01:52:09,520
+apply or run a plan
+
+1903
+01:52:09,520 --> 01:52:12,320
+Terraform plan. Actually you don't even
+
+1904
+01:52:12,320 --> 01:52:13,760
+need to need to do that. I think I've
+
+1905
+01:52:13,760 --> 01:52:15,520
+already got you up to this stage. Just
+
+1906
+01:52:15,520 --> 01:52:21,280
+run terraform apply. Terraform apply.
+
+1907
+01:52:21,280 --> 01:52:24,520
+Just right.
+
+1908
+01:52:31,040 --> 01:52:33,199
+Yes. Just type in yes or lower case.
+
+1909
+01:52:33,199 --> 01:52:36,840
+Nothing else will do.
+
+1910
+01:52:48,239 --> 01:52:52,040
+this for
+
+1911
+01:53:00,239 --> 01:53:04,599
+this project services Thailand.
+
+1912
+01:53:05,280 --> 01:53:10,199
+All right. So, which region did you
+
+1913
+01:53:10,239 --> 01:53:12,159
+have you set your default region or
+
+1914
+01:53:12,159 --> 01:53:13,280
+anything like that? Have you set any of
+
+1915
+01:53:13,280 --> 01:53:15,679
+your
+
+1916
+01:53:15,679 --> 01:53:17,840
+uh I don't know what you mean.
+
+1917
+01:53:17,840 --> 01:53:20,880
+>> Um, all right. Just type in G-Cloud info
+
+1918
+01:53:20,880 --> 01:53:22,480
+in
+
+1919
+01:53:22,480 --> 01:53:25,880
+any term.
+
+1920
+01:53:35,199 --> 01:53:38,159
+>> All right. Is that Is that email does
+
+1921
+01:53:38,159 --> 01:53:40,000
+that ring a bell?
+
+1922
+01:53:40,000 --> 01:53:40,320
+>> Yep.
+
+1923
+01:53:40,320 --> 01:53:42,080
+>> Is that correct? Is that the only one
+
+1924
+01:53:42,080 --> 01:53:43,520
+that you have set up?
+
+1925
+01:53:43,520 --> 01:53:44,480
+>> Yes, sir.
+
+1926
+01:53:44,480 --> 01:53:46,239
+>> Your G-Clo. Yeah.
+
+1927
+01:53:46,239 --> 01:53:48,719
+>> Yes, sir. go up to the arrow again.
+
+1928
+01:53:48,719 --> 01:53:50,080
+Didn't see the arrow. I need to read the
+
+1929
+01:53:50,080 --> 01:53:51,920
+arrow
+
+1930
+01:53:51,920 --> 01:53:55,040
+that Okay. You want to see that part?
+
+1931
+01:53:55,040 --> 01:53:57,920
+>> Yeah. If you could also just um just
+
+1932
+01:53:57,920 --> 01:53:59,520
+maximize your
+
+1933
+01:53:59,520 --> 01:54:03,199
+>> Oh, yes. Let me just close this section.
+
+1934
+01:54:03,199 --> 01:54:07,760
+How do Let's do this. Is that better?
+
+1935
+01:54:07,760 --> 01:54:10,400
+>> Yeah, much better.
+
+1936
+01:54:10,400 --> 01:54:13,840
+>> Platform. The error was up here, right?
+
+1937
+01:54:13,840 --> 01:54:16,080
+And then we did Yes.
+
+1938
+01:54:16,080 --> 01:54:21,159
+>> Yeah. Just just leave it.
+
+1939
+01:54:22,159 --> 01:54:25,639
+>> Permission denied.
+
+1940
+01:54:27,920 --> 01:54:30,000
+>> 43
+
+1941
+01:54:30,000 --> 01:54:34,440
+mission denied. Access.
+
+1942
+01:54:43,040 --> 01:54:45,280
+You might have
+
+1943
+01:54:45,280 --> 01:54:46,960
+>> might be some sort of IM error, I'm
+
+1944
+01:54:46,960 --> 01:54:49,960
+guessing.
+
+1945
+01:54:50,639 --> 01:54:53,520
+>> H what error?
+
+1946
+01:54:53,520 --> 01:54:54,400
+>> No,
+
+1947
+01:54:54,400 --> 01:54:56,320
+>> he didn't he didn't configure his
+
+1948
+01:54:56,320 --> 01:54:59,119
+provider block correctly.
+
+1949
+01:54:59,119 --> 01:55:01,679
+>> Oh, okay. All right. Uh go back to uh
+
+1950
+01:55:01,679 --> 01:55:04,560
+zero authentication.tf.
+
+1951
+01:55:04,560 --> 01:55:08,280
+>> This one. Okay.
+
+1952
+01:55:09,199 --> 01:55:11,040
+Was I supposed to change this t project
+
+1953
+01:55:11,040 --> 01:55:14,639
+Thailand? Yeah.
+
+1954
+01:55:14,639 --> 01:55:15,920
+>> What am I supposed to do with this?
+
+1955
+01:55:15,920 --> 01:55:17,920
+>> Is that your Is that your project? Is
+
+1956
+01:55:17,920 --> 01:55:19,679
+that the correct project?
+
+1957
+01:55:19,679 --> 01:55:24,320
+>> Oh, the project. Let me Yeah, it's over
+
+1958
+01:55:24,320 --> 01:55:27,920
+here. Sorry, I can't share both screens.
+
+1959
+01:55:27,920 --> 01:55:30,320
+This is the
+
+1960
+01:55:30,320 --> 01:55:32,480
+No, the project name is supposed to be
+
+1961
+01:55:32,480 --> 01:55:35,440
+Oh, I remember now. Okay.
+
+1962
+01:55:35,440 --> 01:55:37,840
+Keep the quotations.
+
+1963
+01:55:37,840 --> 01:55:41,599
+Uh the the quotations are just to they
+
+1964
+01:55:41,599 --> 01:55:44,320
+just indicate it's a string. Um as I'm
+
+1965
+01:55:44,320 --> 01:55:47,199
+aware, you just want the bit in between
+
+1966
+01:55:47,199 --> 01:55:50,159
+the quotations deleted. Keep the
+
+1967
+01:55:50,159 --> 01:55:53,159
+quotations
+
+1968
+01:55:59,119 --> 01:56:00,239
+>> like that.
+
+1969
+01:56:00,239 --> 01:56:04,480
+>> Yeah, that's correct. Yeah. And then
+
+1970
+01:56:04,480 --> 01:56:07,719
+save it.
+
+1971
+01:56:12,719 --> 01:56:13,440
+Okay,
+
+1972
+01:56:13,440 --> 01:56:16,320
+>> this will do. Um, another thing is I've
+
+1973
+01:56:16,320 --> 01:56:18,400
+noticed that your backend.tf is not
+
+1974
+01:56:18,400 --> 01:56:21,040
+saved as well. So, just make sure that's
+
+1975
+01:56:21,040 --> 01:56:24,000
+saved too. Is that saved or I'm not
+
+1976
+01:56:24,000 --> 01:56:28,000
+looking at Yeah, save that.
+
+1977
+01:56:28,000 --> 01:56:33,560
+>> Yeah, it's saved. Um, I guess for play
+
+1978
+01:56:33,760 --> 01:56:35,760
+time. I think you could just control.
+
+1979
+01:56:35,760 --> 01:56:37,199
+>> What are you pressing
+
+1980
+01:56:37,199 --> 01:56:39,040
+>> when you're saving?
+
+1981
+01:56:39,040 --> 01:56:42,159
+>> Command shift S.
+
+1982
+01:56:42,159 --> 01:56:45,599
+>> It's weird. It doesn't do that for me.
+
+1983
+01:56:45,599 --> 01:56:48,400
+>> It's He's doing save as.
+
+1984
+01:56:48,400 --> 01:56:50,239
+>> Okay. All right.
+
+1985
+01:56:50,239 --> 01:56:52,080
+>> Oh, for some reason it doesn't work when
+
+1986
+01:56:52,080 --> 01:56:54,800
+I just do command S. Um, so but do I
+
+1987
+01:56:54,800 --> 01:56:56,159
+change the bucket name to my bucket
+
+1988
+01:56:56,159 --> 01:56:57,520
+name?
+
+1989
+01:56:57,520 --> 01:57:01,440
+>> Yes. Oh, here. Let's do this. Go to file
+
+1990
+01:57:01,440 --> 01:57:05,320
+at the top of your screen.
+
+1991
+01:57:06,000 --> 01:57:10,080
+>> Okay. File up here.
+
+1992
+01:57:10,080 --> 01:57:12,159
+>> And then you see where it says save. You
+
+1993
+01:57:12,159 --> 01:57:16,159
+can see the shortcut. It says command S.
+
+1994
+01:57:16,159 --> 01:57:18,719
+>> Yes.
+
+1995
+01:57:18,719 --> 01:57:20,159
+>> Yeah. I think you were using command
+
+1996
+01:57:20,159 --> 01:57:22,320
+shift S. Is that what you said?
+
+1997
+01:57:22,320 --> 01:57:23,119
+>> Yes.
+
+1998
+01:57:23,119 --> 01:57:25,440
+>> Yeah. Just use command S. Um.
+
+1999
+01:57:25,440 --> 01:57:26,320
+>> Okay.
+
+2000
+01:57:26,320 --> 01:57:28,480
+>> Yeah. All right. You've done that.
+
+2001
+01:57:28,480 --> 01:57:30,800
+Great. Saved. Right. You need to init
+
+2002
+01:57:30,800 --> 01:57:32,239
+this again. You need to initialize it
+
+2003
+01:57:32,239 --> 01:57:36,239
+again. So you need to run a Terraform
+
+2004
+01:57:36,239 --> 01:57:38,000
+init.
+
+2005
+01:57:38,000 --> 01:57:40,159
+Should I start a new terminal?
+
+2006
+01:57:40,159 --> 01:57:42,560
+>> No. This is probably part of the reason
+
+2007
+01:57:42,560 --> 01:57:43,920
+why you're having all these issues is
+
+2008
+01:57:43,920 --> 01:57:46,000
+that you've got like 51 terminals open
+
+2009
+01:57:46,000 --> 01:57:48,080
+there. Uh and you're getting confused.
+
+2010
+01:57:48,080 --> 01:57:50,800
+You previously did um just use the same
+
+2011
+01:57:50,800 --> 01:57:52,159
+terminal. I would say
+
+2012
+01:57:52,159 --> 01:57:54,320
+>> yeah, you can close all of these
+
+2013
+01:57:54,320 --> 01:57:57,960
+terminal instances.
+
+2014
+01:57:59,040 --> 01:58:01,520
+Okay. What do you mean like close like
+
+2015
+01:58:01,520 --> 01:58:02,000
+hit the trash?
+
+2016
+01:58:02,000 --> 01:58:06,280
+>> You see the trash can? Yeah.
+
+2017
+01:58:06,480 --> 01:58:07,679
+>> Okay.
+
+2018
+01:58:07,679 --> 01:58:10,560
+>> Yeah, that's it.
+
+2019
+01:58:10,560 --> 01:58:13,199
+>> Yeah,
+
+2020
+01:58:13,199 --> 01:58:17,800
+all right. Run. Uh,
+
+2021
+01:58:18,800 --> 01:58:20,400
+but this bucket doesn't Are you sure
+
+2022
+01:58:20,400 --> 01:58:22,960
+this bucket exists? The bucket you have
+
+2023
+01:58:22,960 --> 01:58:26,360
+defined there?
+
+2024
+01:58:27,840 --> 01:58:29,920
+There are commands that you can run for
+
+2025
+01:58:29,920 --> 01:58:34,040
+this second.
+
+2026
+01:58:34,239 --> 01:58:36,000
+>> Sorry.
+
+2027
+01:58:36,000 --> 01:58:39,000
+>> Okay.
+
+2028
+01:58:39,679 --> 01:58:42,159
+>> Did you hear me or what?
+
+2029
+01:58:42,159 --> 01:58:43,760
+>> You said there are commands that you can
+
+2030
+01:58:43,760 --> 01:58:44,960
+run for this.
+
+2031
+01:58:44,960 --> 01:58:46,880
+>> I meant in the uh in the terminal, but
+
+2032
+01:58:46,880 --> 01:58:48,400
+you can actually check it in the console
+
+2033
+01:58:48,400 --> 01:58:50,480
+as well. while I was searching for the
+
+2034
+01:58:50,480 --> 01:58:52,159
+command
+
+2035
+01:58:52,159 --> 01:58:54,719
+>> G-Cloud storage buckets list.
+
+2036
+01:58:54,719 --> 01:58:56,159
+>> Yeah, that's the one I was looking for.
+
+2037
+01:58:56,159 --> 01:58:58,560
+Yeah.
+
+2038
+01:58:58,560 --> 01:59:01,760
+>> But yeah, just uh it's not called uh
+
+2039
+01:59:01,760 --> 01:59:04,719
+yeah um just go to Google Cloud Storage.
+
+2040
+01:59:04,719 --> 01:59:06,560
+Just type in Google Cloud Storage at the
+
+2041
+01:59:06,560 --> 01:59:09,560
+top
+
+2042
+01:59:14,320 --> 01:59:17,520
+>> in the uh terminal.
+
+2043
+01:59:17,520 --> 01:59:19,520
+>> Yeah. in in the cloud in the console.
+
+2044
+01:59:19,520 --> 01:59:19,840
+Yeah.
+
+2045
+01:59:19,840 --> 01:59:21,440
+>> Hello.
+
+2046
+01:59:21,440 --> 01:59:21,840
+Yeah.
+
+2047
+01:59:21,840 --> 01:59:24,840
+>> Yeah.
+
+2048
+01:59:27,920 --> 01:59:29,440
+>> Google, I'm sorry. It's Google Cloud.
+
+2049
+01:59:29,440 --> 01:59:31,520
+What? What am I running?
+
+2050
+01:59:31,520 --> 01:59:35,960
+>> Uh within the Google Cloud Console.
+
+2051
+01:59:40,560 --> 01:59:42,880
+>> Wow, I'm getting crazy lag spikes. This
+
+2052
+01:59:42,880 --> 01:59:46,040
+is ridiculous.
+
+2053
+01:59:49,520 --> 01:59:52,880
+Yeah, I'm getting a bit of lag as well.
+
+2054
+01:59:52,880 --> 01:59:55,599
+Is the lag me or is it
+
+2055
+01:59:55,599 --> 01:59:56,080
+>> I don't know.
+
+2056
+01:59:56,080 --> 01:59:57,920
+>> Uh,
+
+2057
+01:59:57,920 --> 02:00:02,400
+I'm lagging so I think it's me.
+
+2058
+02:00:02,400 --> 02:00:05,840
+>> Um, yeah. All right. You know,
+
+2059
+02:00:05,840 --> 02:00:07,679
+>> me. Do you mean is screen share is
+
+2060
+02:00:07,679 --> 02:00:10,000
+lagging? Cuz it does
+
+2061
+02:00:10,000 --> 02:00:10,639
+>> Yes.
+
+2062
+02:00:10,639 --> 02:00:12,080
+>> seem blocky.
+
+2063
+02:00:12,080 --> 02:00:15,440
+>> Yeah, it's like it's like dark blocks.
+
+2064
+02:00:15,440 --> 02:00:16,400
+Yep.
+
+2065
+02:00:16,400 --> 02:00:19,599
+>> On the screen. So, I mean, uh
+
+2066
+02:00:19,599 --> 02:00:21,760
+>> yeah, my my computer's not even working
+
+2067
+02:00:21,760 --> 02:00:23,280
+right now,
+
+2068
+02:00:23,280 --> 02:00:23,679
+>> right?
+
+2069
+02:00:23,679 --> 02:00:25,199
+>> It's ridiculous.
+
+2070
+02:00:25,199 --> 02:00:27,760
+>> That's probably the reason why. But I
+
+2071
+02:00:27,760 --> 02:00:30,560
+would say you can run this. You can go
+
+2072
+02:00:30,560 --> 02:00:32,400
+within the console. If you go to the GCP
+
+2073
+02:00:32,400 --> 02:00:34,960
+console, you can do that or G-Cloud
+
+2074
+02:00:34,960 --> 02:00:37,679
+storage buckets list. You can complete
+
+2075
+02:00:37,679 --> 02:00:39,760
+whichever you prefer. I just want to
+
+2076
+02:00:39,760 --> 02:00:42,159
+see.
+
+2077
+02:00:42,159 --> 02:00:44,080
+>> Oh, yeah. Check storage. Okay. I
+
+2078
+02:00:44,080 --> 02:00:47,400
+remember now.
+
+2079
+02:00:47,920 --> 02:00:49,760
+Gosh, man. I can't even see my
+
+2080
+02:00:49,760 --> 02:00:52,000
+screen.
+
+2081
+02:00:52,000 --> 02:00:54,159
+is bro. What the I
+
+2082
+02:00:54,159 --> 02:00:56,320
+hate Mac, bro. I don't get it. I don't
+
+2083
+02:00:56,320 --> 02:00:57,360
+get the craze.
+
+2084
+02:00:57,360 --> 02:01:00,440
+>> All right.
+
+2085
+02:01:03,920 --> 02:01:05,280
+>> It's fine. We're having technical
+
+2086
+02:01:05,280 --> 02:01:06,080
+issues.
+
+2087
+02:01:06,080 --> 02:01:06,639
+>> Holy
+
+2088
+02:01:06,639 --> 02:01:07,599
+>> Just remain calm.
+
+2089
+02:01:07,599 --> 02:01:09,840
+just crashed.
+
+2090
+02:01:09,840 --> 02:01:12,000
+>> All right. Uh, I mean
+
+2091
+02:01:12,000 --> 02:01:12,880
+>> this is
+
+2092
+02:01:12,880 --> 02:01:14,719
+>> just do that what I just told you to do
+
+2093
+02:01:14,719 --> 02:01:17,119
+in it when when you can. Uh, I'm just
+
+2094
+02:01:17,119 --> 02:01:19,199
+going to paste in the chat.
+
+2095
+02:01:19,199 --> 02:01:20,560
+>> Can you say it one more time? What do
+
+2096
+02:01:20,560 --> 02:01:21,520
+you want me to do?
+
+2097
+02:01:21,520 --> 02:01:24,080
+>> Uh, G-Cloud storage buckets list. Just
+
+2098
+02:01:24,080 --> 02:01:27,360
+type that in the uh in your terminal in
+
+2099
+02:01:27,360 --> 02:01:29,599
+VS Code.
+
+2100
+02:01:29,599 --> 02:01:33,040
+>> Okay. Storage
+
+2101
+02:01:33,040 --> 02:01:36,000
+storage.
+
+2102
+02:01:36,000 --> 02:01:40,639
+Hey, Richie. Bucket list.
+
+2103
+02:01:40,639 --> 02:01:43,639
+Okay.
+
+2104
+02:01:44,000 --> 02:01:47,440
+What the Hold up. Storage.
+
+2105
+02:01:47,440 --> 02:01:51,480
+Pull up a couple different things.
+
+2106
+02:01:54,320 --> 02:01:56,880
+Created bucket. Yeah. Oh, it's Gracie
+
+2107
+02:01:56,880 --> 02:02:01,080
+underscorebucket. That's what
+
+2108
+02:02:05,840 --> 02:02:06,719
+Okay.
+
+2109
+02:02:06,719 --> 02:02:08,080
+>> Yeah. I can't see what's coming up on
+
+2110
+02:02:08,080 --> 02:02:10,000
+your screen there.
+
+2111
+02:02:10,000 --> 02:02:12,639
+>> Yeah. Um
+
+2112
+02:02:12,639 --> 02:02:17,000
+I trust that you seem to be okay.
+
+2113
+02:02:22,480 --> 02:02:24,639
+pull over the the Google Chrome window
+
+2114
+02:02:24,639 --> 02:02:28,800
+that I have GCP up on, but it just
+
+2115
+02:02:28,800 --> 02:02:31,760
+started lagging like crazy.
+
+2116
+02:02:31,760 --> 02:02:33,280
+>> Uh, do the best.
+
+2117
+02:02:33,280 --> 02:02:36,639
+>> But my bucket name was wrong.
+
+2118
+02:02:36,639 --> 02:02:38,480
+>> Your bucket name was wrong. All right,
+
+2119
+02:02:38,480 --> 02:02:41,960
+save that out.
+
+2120
+02:02:43,360 --> 02:02:45,360
+>> Okay.
+
+2121
+02:02:45,360 --> 02:02:48,719
+What the
+
+2122
+02:02:49,040 --> 02:02:51,760
+Bro, what?
+
+2123
+02:02:51,760 --> 02:02:55,199
+All right, we're over. Command S.
+
+2124
+02:02:55,199 --> 02:02:57,840
+>> Yeah, command S. And then run that last
+
+2125
+02:02:57,840 --> 02:03:01,920
+command again. The init.
+
+2126
+02:03:01,920 --> 02:03:02,560
+>> Okay.
+
+2127
+02:03:02,560 --> 02:03:06,599
+>> Terraform in it.
+
+2128
+02:03:11,119 --> 02:03:15,239
+>> Oh, this start makes sense.
+
+2129
+02:03:16,320 --> 02:03:18,639
+this thing
+
+2130
+02:03:18,639 --> 02:03:21,119
+state was found in the newly configured
+
+2131
+02:03:21,119 --> 02:03:22,239
+GCS.
+
+2132
+02:03:22,239 --> 02:03:24,400
+>> All right. You've got um you've got a
+
+2133
+02:03:24,400 --> 02:03:25,760
+local state, so I'm guessing you need to
+
+2134
+02:03:25,760 --> 02:03:31,719
+migrate it. Um let's see find
+
+2135
+02:03:36,560 --> 02:03:39,880
+Oh, actually
+
+2136
+02:03:40,080 --> 02:03:42,800
+to stick to the new GCS.
+
+2137
+02:03:42,800 --> 02:03:45,280
+Yeah. Enter. Yes. We could just do that
+
+2138
+02:03:45,280 --> 02:03:48,280
+instant.
+
+2139
+02:03:48,560 --> 02:03:50,080
+>> Do you want to copy this?
+
+2140
+02:03:50,080 --> 02:03:51,280
+>> Yes. State.
+
+2141
+02:03:51,280 --> 02:03:52,080
+>> Okay.
+
+2142
+02:03:52,080 --> 02:03:53,679
+>> Yeah. Just enter the word. Yes. And
+
+2143
+02:03:53,679 --> 02:03:56,840
+that's it.
+
+2144
+02:03:58,880 --> 02:04:00,239
+>> Now, okay,
+
+2145
+02:04:00,239 --> 02:04:00,719
+>> that's it.
+
+2146
+02:04:00,719 --> 02:04:04,000
+>> Ter or or Okay, it worked.
+
+2147
+02:04:04,000 --> 02:04:05,920
+>> It worked. But now you need to complete
+
+2148
+02:04:05,920 --> 02:04:09,920
+your task. So complete by
+
+2149
+02:04:09,920 --> 02:04:12,480
+>> I'm just testing. Yes, Richie, we can
+
+2150
+02:04:12,480 --> 02:04:13,840
+hear you.
+
+2151
+02:04:13,840 --> 02:04:16,239
+>> Thank you. I'm out.
+
+2152
+02:04:16,239 --> 02:04:19,239
+>> All right.
+
+2153
+02:04:19,360 --> 02:04:22,400
+>> Well, if you need help, Richie, stay
+
+2154
+02:04:22,400 --> 02:04:26,199
+stay here for a minute.
+
+2155
+02:04:28,639 --> 02:04:30,239
+>> So, what were the last couple steps I
+
+2156
+02:04:30,239 --> 02:04:31,840
+needed to to take? Uh,
+
+2157
+02:04:31,840 --> 02:04:33,360
+>> you just want to run apply. I think
+
+2158
+02:04:33,360 --> 02:04:34,480
+that's lost.
+
+2159
+02:04:34,480 --> 02:04:36,719
+>> Okay.
+
+2160
+02:04:36,719 --> 02:04:40,080
+Terraform apply. And then
+
+2161
+02:04:40,080 --> 02:04:42,639
+Okay.
+
+2162
+02:04:45,599 --> 02:04:47,599
+Yes. Just Yes.
+
+2163
+02:04:47,599 --> 02:04:50,599
+>> Okay.
+
+2164
+02:05:04,400 --> 02:05:07,599
+This is a 2022 Mac 2. Like, I cannot
+
+2165
+02:05:07,599 --> 02:05:11,320
+believe it's this slow.
+
+2166
+02:05:13,040 --> 02:05:14,960
+might be that you're just your hard disk
+
+2167
+02:05:14,960 --> 02:05:17,679
+is too full. So it could be that or you
+
+2168
+02:05:17,679 --> 02:05:19,440
+could be having
+
+2169
+02:05:19,440 --> 02:05:20,239
+>> okay
+
+2170
+02:05:20,239 --> 02:05:21,760
+>> could be a number of different issues to
+
+2171
+02:05:21,760 --> 02:05:23,840
+be honest. But more time it's never
+
+2172
+02:05:23,840 --> 02:05:27,199
+really the hardware that is the
+
+2173
+02:05:27,199 --> 02:05:28,800
+constraint. It's usually the way we're
+
+2174
+02:05:28,800 --> 02:05:31,119
+using it. So just bear that in mind.
+
+2175
+02:05:31,119 --> 02:05:36,199
+>> I got too many tabs open. I got you.
+
+2176
+02:05:37,440 --> 02:05:40,560
+Apply complete. Uh, four resources
+
+2177
+02:05:40,560 --> 02:05:43,119
+added. Nice. It didn't say that before.
+
+2178
+02:05:43,119 --> 02:05:45,599
+>> Yeah, you're good. Um, so yeah, you
+
+2179
+02:05:45,599 --> 02:05:47,119
+should be fine now. You could double
+
+2180
+02:05:47,119 --> 02:05:50,480
+check all the resources that you expect
+
+2181
+02:05:50,480 --> 02:05:52,320
+should be reflected within the console.
+
+2182
+02:05:52,320 --> 02:05:55,040
+So you should be able to find that on on
+
+2183
+02:05:55,040 --> 02:05:57,440
+the GCP console. So if you go back to
+
+2184
+02:05:57,440 --> 02:05:58,800
+the console, you should be able to see
+
+2185
+02:05:58,800 --> 02:06:00,400
+all your
+
+2186
+02:06:00,400 --> 02:06:01,679
+>> So after this, you're going to need to
+
+2187
+02:06:01,679 --> 02:06:03,520
+run a destroy.
+
+2188
+02:06:03,520 --> 02:06:04,800
+>> How do I check?
+
+2189
+02:06:04,800 --> 02:06:06,639
+>> Go back to the console.
+
+2190
+02:06:06,639 --> 02:06:08,960
+>> I'm on it. I'm sorry. I can't drag it
+
+2191
+02:06:08,960 --> 02:06:11,360
+over. I wish I could share both screen.
+
+2192
+02:06:11,360 --> 02:06:13,119
+>> Uh then don't worry about it too much.
+
+2193
+02:06:13,119 --> 02:06:14,560
+But yeah, you should be able to if you
+
+2194
+02:06:14,560 --> 02:06:16,320
+go into your console,
+
+2195
+02:06:16,320 --> 02:06:18,719
+>> these resources are going to actually
+
+2196
+02:06:18,719 --> 02:06:21,520
+exist. They exist somewhat. So you're
+
+2197
+02:06:21,520 --> 02:06:22,880
+going to see the resources that you've
+
+2198
+02:06:22,880 --> 02:06:25,280
+just deployed. So I just wanted that
+
+2199
+02:06:25,280 --> 02:06:27,119
+little
+
+2200
+02:06:27,119 --> 02:06:30,320
+>> moment to click, but it's not
+
+2201
+02:06:30,320 --> 02:06:32,800
+necessarily
+
+2202
+02:06:32,800 --> 02:06:35,040
+um I mean I I pulled up my project.
+
+2203
+02:06:35,040 --> 02:06:36,880
+Okay, no problem. No problem. Is there
+
+2204
+02:06:36,880 --> 02:06:37,920
+anything else that you need me to take
+
+2205
+02:06:37,920 --> 02:06:39,280
+care of?
+
+2206
+02:06:39,280 --> 02:06:42,400
+>> Uh to be honest,
+
+2207
+02:06:42,400 --> 02:06:44,880
+you know what? Just run the um this
+
+2208
+02:06:44,880 --> 02:06:46,800
+shell commands that you can run to save
+
+2209
+02:06:46,800 --> 02:06:50,480
+your resources. So um one of them is the
+
+2210
+02:06:50,480 --> 02:06:53,880
+uh the dis.
+
+2211
+02:07:05,280 --> 02:07:08,599
+All right. Uh,
+
+2212
+02:07:09,360 --> 02:07:13,599
+it'll be GC G-Cloud, right? G-Cloud
+
+2213
+02:07:13,599 --> 02:07:15,840
+>> and then space
+
+2214
+02:07:15,840 --> 02:07:17,679
+>> compute
+
+2215
+02:07:17,679 --> 02:07:18,639
+>> compute.
+
+2216
+02:07:18,639 --> 02:07:22,320
+>> Yeah. And then space
+
+2217
+02:07:22,320 --> 02:07:25,320
+disks
+
+2218
+02:07:25,679 --> 02:07:27,679
+with a K.
+
+2219
+02:07:27,679 --> 02:07:29,040
+>> Oh, with a K.
+
+2220
+02:07:29,040 --> 02:07:32,960
+>> Yeah. And then space and then list.
+
+2221
+02:07:32,960 --> 02:07:34,000
+>> List.
+
+2222
+02:07:34,000 --> 02:07:36,480
+>> Yeah. So, you should have this resource.
+
+2223
+02:07:36,480 --> 02:07:38,159
+You have this one. I mean, I know you've
+
+2224
+02:07:38,159 --> 02:07:41,040
+got your resources, but I just wanted to
+
+2225
+02:07:41,040 --> 02:07:42,960
+show you that.
+
+2226
+02:07:42,960 --> 02:07:44,800
+>> Oh,
+
+2227
+02:07:44,800 --> 02:07:47,599
+>> you see? So, this is what you created.
+
+2228
+02:07:47,599 --> 02:07:49,199
+>> Graphana disc.
+
+2229
+02:07:49,199 --> 02:07:52,159
+>> Yeah. So, this is a resource that
+
+2230
+02:07:52,159 --> 02:07:54,639
+exists. You have to be aware that your
+
+2231
+02:07:54,639 --> 02:07:57,840
+resources, they actually are somewhere
+
+2232
+02:07:57,840 --> 02:07:59,760
+and you are going to be charged for them
+
+2233
+02:07:59,760 --> 02:08:02,000
+for the use of them. So, you can't just
+
+2234
+02:08:02,000 --> 02:08:04,639
+leave them running forever.
+
+2235
+02:08:04,639 --> 02:08:08,239
+You have to take them down as and when
+
+2236
+02:08:08,239 --> 02:08:11,119
+you need to take them down. So now
+
+2237
+02:08:11,119 --> 02:08:12,480
+you're going to run the last command
+
+2238
+02:08:12,480 --> 02:08:15,040
+which is going to be terraform destroy.
+
+2239
+02:08:15,040 --> 02:08:15,679
+>> Okay.
+
+2240
+02:08:15,679 --> 02:08:16,800
+>> Which is just going to illustrate
+
+2241
+02:08:16,800 --> 02:08:19,920
+exactly how you do that.
+
+2242
+02:08:19,920 --> 02:08:22,079
+>> So run terraform destroy now.
+
+2243
+02:08:22,079 --> 02:08:24,400
+>> Yeah. And also before you finish that
+
+2244
+02:08:24,400 --> 02:08:28,880
+command uh space. No just that was fine.
+
+2245
+02:08:28,880 --> 02:08:32,800
+That was fine. space
+
+2246
+02:08:32,800 --> 02:08:36,320
+and then hyphen
+
+2247
+02:08:36,320 --> 02:08:36,960
+auto.
+
+2248
+02:08:36,960 --> 02:08:39,760
+>> Uh, don't have them use flags yet.
+
+2249
+02:08:39,760 --> 02:08:41,360
+>> No. Okay. All right. Don't don't worry
+
+2250
+02:08:41,360 --> 02:08:43,760
+about it's fine fact. Just uh terform
+
+2251
+02:08:43,760 --> 02:08:48,199
+destroy and then just run enter.
+
+2252
+02:08:50,000 --> 02:08:51,520
+All right. It's going to ask you to
+
+2253
+02:08:51,520 --> 02:08:54,920
+confirm it
+
+2254
+02:08:56,159 --> 02:08:57,920
+and you're going to need to type in yes
+
+2255
+02:08:57,920 --> 02:08:59,280
+again.
+
+2256
+02:08:59,280 --> 02:09:02,280
+Okay.
+
+2257
+02:09:02,719 --> 02:09:04,320
+So, we're doing this because we can't
+
+2258
+02:09:04,320 --> 02:09:06,000
+leave
+
+2259
+02:09:06,000 --> 02:09:07,920
+we can't leave this thing open.
+
+2260
+02:09:07,920 --> 02:09:10,400
+>> Gro unless you're a billionaire. I mean
+
+2261
+02:09:10,400 --> 02:09:11,840
+like you know if you if you got it like
+
+2262
+02:09:11,840 --> 02:09:13,440
+that then just keep your resources up
+
+2263
+02:09:13,440 --> 02:09:16,079
+forever. Uh I mean if you you these the
+
+2264
+02:09:16,079 --> 02:09:17,679
+whole point of this the whole point of
+
+2265
+02:09:17,679 --> 02:09:19,599
+cloud is so that you can use the
+
+2266
+02:09:19,599 --> 02:09:22,480
+resources as and when you buy them and
+
+2267
+02:09:22,480 --> 02:09:25,040
+that when you don't need them cuz this
+
+2268
+02:09:25,040 --> 02:09:28,000
+is not on prem that's always on you know
+
+2269
+02:09:28,000 --> 02:09:31,599
+this is like flexible. So these are
+
+2270
+02:09:31,599 --> 02:09:34,159
+resources that you put on the ephemeable
+
+2271
+02:09:34,159 --> 02:09:36,400
+resources and this is part of the
+
+2272
+02:09:36,400 --> 02:09:38,639
+workflow is that once you no longer
+
+2273
+02:09:38,639 --> 02:09:40,320
+require your resources you can delete
+
+2274
+02:09:40,320 --> 02:09:43,119
+them you can destroy them and the moment
+
+2275
+02:09:43,119 --> 02:09:46,239
+you carry out this you will stop getting
+
+2276
+02:09:46,239 --> 02:09:49,199
+charged for them by Google. So right now
+
+2277
+02:09:49,199 --> 02:09:52,159
+I'm guessing you're on a free
+
+2278
+02:09:52,159 --> 02:09:54,079
+>> yeah right now I'm guessing you're free
+
+2279
+02:09:54,079 --> 02:09:55,119
+right now I'm guessing you're on a free
+
+2280
+02:09:55,119 --> 02:09:56,400
+tier but there may be times in the
+
+2281
+02:09:56,400 --> 02:09:57,440
+future when you're not. Especially if
+
+2282
+02:09:57,440 --> 02:09:59,440
+you're working for other people and you
+
+2283
+02:09:59,440 --> 02:10:01,599
+never want to leave resources unattended
+
+2284
+02:10:01,599 --> 02:10:03,840
+or unsupervised.
+
+2285
+02:10:03,840 --> 02:10:04,239
+>> Yeah,
+
+2286
+02:10:04,239 --> 02:10:06,400
+>> that's one of the leading causes of of
+
+2287
+02:10:06,400 --> 02:10:09,199
+blog in terms of cloud fun. But all
+
+2288
+02:10:09,199 --> 02:10:12,079
+right, that's about it really, man. Um
+
+2289
+02:10:12,079 --> 02:10:13,920
+>> Okay, I can stop sharing.
+
+2290
+02:10:13,920 --> 02:10:15,360
+>> Yeah. Unless
+
+2291
+02:10:15,360 --> 02:10:17,679
+>> awesome. Thank you.
+
+2292
+02:10:17,679 --> 02:10:20,239
+>> No, I think I'm good.
+
+2293
+02:10:20,239 --> 02:10:24,040
+>> All right. Much appreciated.
+
+2294
+02:10:24,639 --> 02:10:29,079
+Whoever needs help, step up.
+
+2295
+02:10:31,920 --> 02:10:33,599
+>> Rich, you still there? Oh, I think he's
+
+2296
+02:10:33,599 --> 02:10:33,920
+gone.
+
+2297
+02:10:33,920 --> 02:10:37,320
+>> I guess not.
+
+2298
+02:10:38,000 --> 02:10:38,400
+>> Yeah,
+
+2299
+02:10:38,400 --> 02:10:38,960
+>> look.
+
+2300
+02:10:38,960 --> 02:10:40,639
+>> You would be surprised. You'll be
+
+2301
+02:10:40,639 --> 02:10:42,639
+surprised that what we've just told you
+
+2302
+02:10:42,639 --> 02:10:44,800
+is very like it's spread and bar. It
+
+2303
+02:10:44,800 --> 02:10:46,880
+sounds very simple, but there's a lot of
+
+2304
+02:10:46,880 --> 02:10:49,599
+organizations out there that they are
+
+2305
+02:10:49,599 --> 02:10:52,560
+actually their bills are going out of,
+
+2306
+02:10:52,560 --> 02:10:54,719
+you know, control simply because of the
+
+2307
+02:10:54,719 --> 02:10:56,480
+fact that they have resources that
+
+2308
+02:10:56,480 --> 02:11:00,159
+nobody's got kept track of. Uh, yeah.
+
+2309
+02:11:00,159 --> 02:11:01,520
+So, just be aware.
+
+2310
+02:11:01,520 --> 02:11:02,880
+>> I know how to copy and paste in a
+
+2311
+02:11:02,880 --> 02:11:07,320
+different language. Appreciate you.
+
+2312
+02:11:07,679 --> 02:11:09,520
+>> Like, I'm getting confused. It's just
+
+2313
+02:11:09,520 --> 02:11:12,400
+copy and paste.
+
+2314
+02:11:12,400 --> 02:11:14,400
+>> It seems like it right now. Yeah. But it
+
+2315
+02:11:14,400 --> 02:11:15,520
+doesn't really matter about that. It's
+
+2316
+02:11:15,520 --> 02:11:16,960
+mostly about the mechanics of what
+
+2317
+02:11:16,960 --> 02:11:18,800
+you're doing. So you need to understand
+
+2318
+02:11:18,800 --> 02:11:20,639
+the process of what you're putting into
+
+2319
+02:11:20,639 --> 02:11:23,040
+play. Um it doesn't matter the fact that
+
+2320
+02:11:23,040 --> 02:11:24,639
+you wrote that file or you didn't write
+
+2321
+02:11:24,639 --> 02:11:26,079
+that far at the moment. It's kind of
+
+2322
+02:11:26,079 --> 02:11:28,639
+irrelevant. It's mostly do you know how
+
+2323
+02:11:28,639 --> 02:11:31,840
+to actually use these films and what do
+
+2324
+02:11:31,840 --> 02:11:34,400
+they do? The implications of that.
+
+2325
+02:11:34,400 --> 02:11:35,840
+That's really what you're into right
+
+2326
+02:11:35,840 --> 02:11:38,840
+now.
+
+2327
+02:11:39,920 --> 02:11:42,800
+>> Thank you for your help.
+
+2328
+02:11:42,800 --> 02:11:44,560
+All good.
+
+2329
+02:11:44,560 --> 02:11:46,400
+>> All right. Anybody else need help before
+
+2330
+02:11:46,400 --> 02:11:50,040
+I close this out?
+
+2331
+02:11:55,520 --> 02:11:58,079
+All righty then. I'll see you guys next
+
+2332
+02:11:58,079 --> 02:11:59,280
+week.
+
+2333
+02:11:59,280 --> 02:12:03,800
+>> Thank you, Erin. Yep.
