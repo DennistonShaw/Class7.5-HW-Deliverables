@@ -45,22 +45,6 @@ Key files:
 
 ---
 
-## Screenshots
-
-Screenshots for the GCP and Terraform lab are stored in:
-
-- [screenshots-2026-04-11](screenshots-2026-04-11/)
-
----
-
-## Class Transcripts
-
-Raw class transcripts are stored in:
-
-- [class-transcripts](class-transcripts/)
-
----
-
 ## Skills Practiced
 
 - Creating custom VPC networks in GCP
