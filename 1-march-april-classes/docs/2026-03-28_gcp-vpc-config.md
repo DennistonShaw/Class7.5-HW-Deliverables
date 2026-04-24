@@ -12,8 +12,8 @@ youtube class vid - https://youtu.be/5cs8MflDnB4?si=SQAhHKRWe25bBx3p
 - [Lab Walkthrough (Hands-On)](#lab-walkthrough-hands-on)
   - [Step 1 – Create Custom VPC](#step-1--create-custom-vpc)
   - [Step 2 – Create VM Instance](#step-2--create-vm-instance)
-  - [Step 4 – Verify VM (Internal)](#step-4--verify-vm-internal)
-  - [Step 5 – Verify VM (External)](#step-5--verify-vm-external)
+  - [Step 3 – Verify VM (Internal)](#step-3--verify-vm-internal)
+  - [Step 4 – Verify VM (External)](#step-4--verify-vm-external)
 - [Next Steps](#next-steps)
 
 ---
@@ -68,6 +68,8 @@ curl ifconfig.me
 
 ![IP addresses](../screenshots/0-ip-addresses.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Network Planning
@@ -84,6 +86,8 @@ Example:
 | sao-paulo (Sao Paulo) | 192.168.120.0/24 |
 | tokyo (Tokyo) | 192.168.140.0/24 |
 |vincent-lizzo-booty (Mumbai)|192.168.69.0/24|
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -143,6 +147,8 @@ Create
 VPC Creation
 ![VPC Creation](../screenshots/11-vpc-creation.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ### Step 2 – Create VM Instance
@@ -187,9 +193,11 @@ Advanced -> Automation -> paste startup script
 
 ![created instance](../screenshots/15-instance-created.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-### Step 4 – Verify VM (Internal)
+### Step 3 – Verify VM (Internal)
 **⏱ Timestamp: ~44:30 – 46:00**
 
 - SSH into VM
@@ -209,9 +217,11 @@ curl -a localhost | head
 SSH Verification
 ![SSH Verification](../screenshots/16-ssh-verification.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
-### Step 5 – Verify VM (External)
+### Step 4 – Verify VM (External)
 **⏱ Timestamp: ~46:00 – End**
 
 - Open browser
@@ -230,6 +240,8 @@ http://<EXTERNAL-IP>
 
 ![Confirm web server](../screenshots/18-confirm-web-server.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Next Steps
@@ -238,3 +250,7 @@ http://<EXTERNAL-IP>
 - Ensure all subnets are correctly assigned
 - Use supera.sh for future labs
 - Proceed to Terraform lab after this (bucket dependency)
+
+---
+
+[Return to Table of Contents](#table-of-contents)

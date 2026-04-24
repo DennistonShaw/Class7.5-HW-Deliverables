@@ -17,10 +17,6 @@ https://github.com/BalericaAI/SEIR-1/blob/main/weekly_lessons/weekb/terraform_ba
 - [Resource Management](#resource-management)
   - [Destroy Infrastructure](#destroy-infrastructure)
 - [Key Concepts](#key-concepts)
-- [Commands Reference](#commands-reference)
-- [Rebuild Flow](#rebuild-flow)
-- [Next Steps](#next-steps)
-- [Notes](#notes)
 
 ---
 
@@ -37,6 +33,8 @@ GCP Terraform Deployment
 - Understand state (local vs remote)
 - Capture screenshots for each step
 - Be able to fully rebuild from scratch
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -55,6 +53,8 @@ gcloud storage buckets create gs://<your-unique-bucket-name> \
 - This bucket will be used for remote Terraform state
 
 ![Prerequisite: Create GCS Bucket](../screenshots/00-bucket-creation.png)
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 ## Initial Setup & Authentication
@@ -79,6 +79,8 @@ gcloud --version
 
 ![terminal verify](../screenshots/2-terminal-verify.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ### Authenticate with GCP
@@ -100,6 +102,8 @@ gcloud auth application-default login
 
 ![google cloud sdk install](../screenshots/4-authenticated.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ### Project Setup
@@ -116,6 +120,8 @@ mkdir terraform-2 && cd terraform-2
 ```bash
 code .
 ```
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
 
@@ -220,6 +226,8 @@ Enable APIs & Services in the search bar
 API page
 ![api page](../screenshots/20-api-page.png)
 
+[Return to Table of Contents](#table-of-contents)
+
 ---
 
 ## Resource Management
@@ -246,5 +254,7 @@ terraform destroy
 - Local state is default
 - Remote state (GCS) is best practice
 - Some resources are immutable and require recreation
+
+[Return to Table of Contents](#table-of-contents)
 
 ---
