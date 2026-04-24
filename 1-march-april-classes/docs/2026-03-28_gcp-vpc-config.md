@@ -66,7 +66,7 @@ for your public ip
 curl ifconfig.me
 ```
 
-![IP addresses](./screenshots-2026-04-11/0-ip-addresses.png)
+![IP addresses](../screenshots/0-ip-addresses.png)
 
 ---
 
@@ -107,22 +107,22 @@ Example:
     - Private Google Access `ON`
 
 Subnet Iowa
-![Subnet Iowa](./screenshots-2026-04-11/6-subnet-iowa.png)
+![Subnet Iowa](../screenshots/6-subnet-iowa.png)
 
   - Add subnet and repeat steps for Sao Paulo
 
 Subnet São Paulo
-![Subnet São Paulo](./screenshots-2026-04-11/7-subnet-sao-paulo.png)
+![Subnet São Paulo](../screenshots/7-subnet-sao-paulo.png)
 
   - Add subnet and repeat steps for Tokyo
 
 Subnet Tokyo
-![Subnet Tokyo](./screenshots-2026-04-11/8-subnet-tokyo.png)
+![Subnet Tokyo](../screenshots/8-subnet-tokyo.png)
 
   - Add subnet and repeat steps for Mumbai
 
 Subnet Mumbai
-![Subnet Mumbai](./screenshots-2026-04-11/9-subnet-mumbai.png)
+![Subnet Mumbai](../screenshots/9-subnet-mumbai.png)
 
   - Firewall rules: select all
     - `Allow custom`
@@ -134,14 +134,14 @@ Subnet Mumbai
     - Global
 
 Firewall and Dynamic Routing Mode]
-![Firewall and Dynamic Routing Mode](./screenshots-2026-04-11/10-firewall-routing.png)
+![Firewall and Dynamic Routing Mode](../screenshots/10-firewall-routing.png)
 
 Create
 
 - Screenshot:
 
 VPC Creation
-![VPC Creation](./screenshots-2026-04-11/11-vpc-creation.png)
+![VPC Creation](../screenshots/11-vpc-creation.png)
 
 ---
 
@@ -156,7 +156,7 @@ VPC Creation
   - region: asia-south1 (Mumbai)
 
 Machine Configuration
-![Machine Configuration](./screenshots-2026-04-11/12-machine-config.png)
+![Machine Configuration](../screenshots/12-machine-config.png)
 
 - OS and storage - null
 - Data protection
@@ -167,7 +167,7 @@ Machine Configuration
   - Select custom VPC (elite-eight)
 
 Data protection and Networking changes
-![Data protection and Networking changes](./screenshots-2026-04-11/13-data-networking.png)
+![Data protection and Networking changes](../screenshots/13-data-networking.png)
 
 - Observability - null
 - Security - null
@@ -181,11 +181,11 @@ Data protection and Networking changes
 
 Screenshot:
 Advanced -> Automation -> paste startup script
-![Advanced -> Automation -> paste startup script](./screenshots-2026-04-11/14-automation-userscript-paste.png)
+![Advanced -> Automation -> paste startup script](../screenshots/14-automation-userscript-paste.png)
 
 - Create
 
-![created instance](./screenshots-2026-04-11/15-instance-created.png)
+![created instance](../screenshots/15-instance-created.png)
 
 ---
 
@@ -207,7 +207,7 @@ curl -a localhost | head
 - Screenshot:
 
 SSH Verification
-![SSH Verification](./screenshots-2026-04-11/16-ssh-verification.png)
+![SSH Verification](../screenshots/16-ssh-verification.png)
 
 ---
 
@@ -217,7 +217,7 @@ SSH Verification
 - Open browser
   - copy external IP from VM instances and paste it in the browser
   
-![Confirm web server](./screenshots-2026-04-11/17-external-ip.png)
+![Confirm web server](../screenshots/17-external-ip.png)
 
 - Use:
 ```
@@ -228,7 +228,7 @@ http://<EXTERNAL-IP>
   - Page loads
   - Shows instance info
 
-![Confirm web server](./screenshots-2026-04-11/18-confirm-web-server.png)
+![Confirm web server](../screenshots/18-confirm-web-server.png)
 
 ---
 

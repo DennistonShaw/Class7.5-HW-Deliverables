@@ -54,7 +54,7 @@ gcloud storage buckets create gs://<your-unique-bucket-name> \
 - Replace `<your-unique-bucket-name>` with your own value
 - This bucket will be used for remote Terraform state
 
-![Prerequisite: Create GCS Bucket](./screenshots-2026-04-11/00-bucket-creation.png)
+![Prerequisite: Create GCS Bucket](../screenshots/00-bucket-creation.png)
 
 ---
 ## Initial Setup & Authentication
@@ -69,7 +69,7 @@ gcloud storage buckets create gs://<your-unique-bucket-name> \
 brew install --cask google-cloud-sdk
 ```
 
-![google cloud sdk install](./screenshots-2026-04-11/1-google-cloud-sdk.png)
+![google cloud sdk install](../screenshots/1-google-cloud-sdk.png)
 
 verify install
 
@@ -77,7 +77,7 @@ verify install
 gcloud --version
 ```
 
-![terminal verify](./screenshots-2026-04-11/2-terminal-verify.png)
+![terminal verify](../screenshots/2-terminal-verify.png)
 
 ---
 
@@ -96,9 +96,9 @@ gcloud auth application-default login
 - Creates Application Default Credentials (ADC)
 - Allows Terraform to authenticate without service account keys
 
-![google cloud sdk install](./screenshots-2026-04-11/3-choose-account.png)
+![google cloud sdk install](../screenshots/3-choose-account.png)
 
-![google cloud sdk install](./screenshots-2026-04-11/4-authenticated.png)
+![google cloud sdk install](../screenshots/4-authenticated.png)
 
 ---
 
@@ -150,7 +150,7 @@ terraform apply
 - Screenshot:
 
 `0-authentication.tf`
-![terraform ivpa for 0-authentication.tf](./screenshots-2026-04-11/5-terraform-ivpa.png)
+![terraform ivpa for 0-authentication.tf](../screenshots/5-terraform-ivpa.png)
 
 ---
 
@@ -184,7 +184,7 @@ terraform apply
 - Screenshot:
 
 `Confirm the bucket and .tfstate file`
-![Confirm the bucket and .tfstate file](./screenshots-2026-04-11/00-confirm-bucket.png)
+![Confirm the bucket and .tfstate file](../screenshots/00-confirm-bucket.png)
 
 ---
 
@@ -213,12 +213,12 @@ terraform apply
 - Screenshot:
   
 VPC networks page
-![VPC networks page](./screenshots-2026-04-11/19-vpc-networks-page.png)
+![VPC networks page](../screenshots/19-vpc-networks-page.png)
 
 Enable APIs & Services in the search bar
 
 API page
-![api page](./screenshots-2026-04-11/20-api-page.png)
+![api page](../screenshots/20-api-page.png)
 
 ---
 
@@ -236,7 +236,7 @@ terraform destroy
 - Screenshot:
 
 terraform destroy
-![terraform destroy](./screenshots-2026-04-11/21-terraform-destroy.png)
+![terraform destroy](../screenshots/21-terraform-destroy.png)
 
 ---
 
