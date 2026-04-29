@@ -248,6 +248,14 @@ terraform destroy
 
 ---
 
+```bash
+date && hostname && whoami
+```
+
+![date && hostname && whoami](../screenshots/22-date-hostname-whoami.png)
+
+---
+
 ## Key Concepts
 
 - Terraform uses state to track infrastructure

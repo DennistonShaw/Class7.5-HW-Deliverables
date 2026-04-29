@@ -41,3 +41,4 @@
 
 ```bash
 date && hostname && whoami
+```
