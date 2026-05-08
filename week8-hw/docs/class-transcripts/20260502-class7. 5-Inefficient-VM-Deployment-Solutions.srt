@@ -1,0 +1,3671 @@
+1
+00:00:00,080 --> 00:00:02,560
+group chat.
+
+2
+00:00:02,560 --> 00:00:06,520
+You can use one of those links.
+
+3
+00:00:50,559 --> 00:00:53,199
+Good job, Mr. Clark.
+
+4
+00:00:53,199 --> 00:00:55,680
+All right. All right. So, now let's do a
+
+5
+00:00:55,680 --> 00:00:59,079
+VM instance.
+
+6
+00:01:06,479 --> 00:01:08,240
+All right. So, now that we're VM
+
+7
+00:01:08,240 --> 00:01:09,920
+instances,
+
+8
+00:01:09,920 --> 00:01:12,320
+you can either go here or here. Same
+
+9
+00:01:12,320 --> 00:01:15,320
+thing.
+
+10
+00:01:15,760 --> 00:01:18,880
+That's pretty bright, Mr. Jackson.
+
+11
+00:01:18,880 --> 00:01:22,360
+Good job, Estress.
+
+12
+00:01:22,560 --> 00:01:26,840
+Good job, Mr. Jackson. All right.
+
+13
+00:01:29,520 --> 00:01:32,479
+So now we could go here create is this
+
+14
+00:01:32,479 --> 00:01:35,479
+from
+
+15
+00:01:35,520 --> 00:01:39,240
+instance templates.
+
+16
+00:01:46,640 --> 00:01:50,520
+I will go with this one.
+
+17
+00:02:01,200 --> 00:02:05,079
+That's the keys. Good job.
+
+18
+00:02:38,879 --> 00:02:43,160
+Did you do Hold on. Did you do SSH
+
+19
+00:02:43,200 --> 00:02:47,160
+test out SSH first?
+
+20
+00:02:52,239 --> 00:02:55,480
+When SSH
+
+21
+00:02:57,519 --> 00:03:00,519
+authorized
+
+22
+00:03:05,920 --> 00:03:08,400
+And this
+
+23
+00:03:08,400 --> 00:03:12,920
+>> good job. I like that
+
+24
+00:03:21,440 --> 00:03:24,640
+>> and just try that command line.
+
+25
+00:03:24,640 --> 00:03:29,080
+>> Good. Wow, look at you.
+
+26
+00:03:29,360 --> 00:03:32,159
+Oh, okay. Go and close that. Go close
+
+27
+00:03:32,159 --> 00:03:35,159
+SSH.
+
+28
+00:03:37,200 --> 00:03:38,640
+The SSH window. Go ahead and close it.
+
+29
+00:03:38,640 --> 00:03:42,480
+You don't. You did it. You tested it.
+
+30
+00:03:42,480 --> 00:03:44,959
+>> And now
+
+31
+00:03:44,959 --> 00:03:48,640
+open the Oh, open the browser.
+
+32
+00:03:48,640 --> 00:03:51,280
+Sorry. Go to the browser. Oh, there it
+
+33
+00:03:51,280 --> 00:03:55,519
+is. Good. Very good. I like this. You
+
+34
+00:03:55,519 --> 00:03:57,599
+did a great job.
+
+35
+00:03:57,599 --> 00:03:58,000
+>> Thank you.
+
+36
+00:03:58,000 --> 00:04:00,720
+>> Right. Um, put the proper link,
+
+37
+00:04:00,720 --> 00:04:02,720
+clickable link into the chat so we can
+
+38
+00:04:02,720 --> 00:04:06,040
+click on it.
+
+39
+00:04:07,920 --> 00:04:09,840
+>> Uh, Everett has a question for you. Go
+
+40
+00:04:09,840 --> 00:04:13,519
+ahead, Everett. Go and ask.
+
+41
+00:04:13,519 --> 00:04:14,720
+>> All right. I was just curious. Do you
+
+42
+00:04:14,720 --> 00:04:17,440
+need to use the same uh user script for
+
+43
+00:04:17,440 --> 00:04:22,199
+both the template and the instance?
+
+44
+00:04:23,199 --> 00:04:26,960
+>> What? Why are you asking that question?
+
+45
+00:04:26,960 --> 00:04:29,440
+Well, just what just so I know what to
+
+46
+00:04:29,440 --> 00:04:31,759
+grab because I was I was just curious if
+
+47
+00:04:31,759 --> 00:04:34,240
+you I I could easily just use use both
+
+48
+00:04:34,240 --> 00:04:36,400
+use it use the same, but I wouldn't know
+
+49
+00:04:36,400 --> 00:04:38,479
+if I had to because I'm I'm I hadn't
+
+50
+00:04:38,479 --> 00:04:39,360
+really done a template.
+
+51
+00:04:39,360 --> 00:04:42,560
+>> What I'm what I'm going into is your
+
+52
+00:04:42,560 --> 00:04:44,800
+process of thought here. This is what
+
+53
+00:04:44,800 --> 00:04:46,720
+I'm really emphasizing.
+
+54
+00:04:46,720 --> 00:04:47,040
+>> Yeah.
+
+55
+00:04:47,040 --> 00:04:49,280
+>> What we're showing you with a template
+
+56
+00:04:49,280 --> 00:04:51,520
+is how to deploy in an automated
+
+57
+00:04:51,520 --> 00:04:53,919
+fashion.
+
+58
+00:04:53,919 --> 00:04:56,960
+Your question requires
+
+59
+00:04:56,960 --> 00:05:00,479
+manual plus automated which would be
+
+60
+00:05:00,479 --> 00:05:02,560
+illogical.
+
+61
+00:05:02,560 --> 00:05:06,240
+There's no reason to do that.
+
+62
+00:05:06,240 --> 00:05:08,000
+>> I'm not I'm not let me let you know I'm
+
+63
+00:05:08,000 --> 00:05:09,280
+not following you first. This is the
+
+64
+00:05:09,280 --> 00:05:10,560
+first time I've heard of a template. Let
+
+65
+00:05:10,560 --> 00:05:12,240
+me So in other words, I have
+
+66
+00:05:12,240 --> 00:05:14,000
+>> this is why I'm teaching in the class
+
+67
+00:05:14,000 --> 00:05:16,000
+today templates because for all the
+
+68
+00:05:16,000 --> 00:05:18,479
+class this is templates the first time,
+
+69
+00:05:18,479 --> 00:05:20,000
+>> right? Okay. So for me to
+
+70
+00:05:20,000 --> 00:05:21,759
+>> everybody's in the same book.
+
+71
+00:05:21,759 --> 00:05:23,199
+>> Okay. So what I'm saying is I don't
+
+72
+00:05:23,199 --> 00:05:24,479
+really know what the purpose is. I'm
+
+73
+00:05:24,479 --> 00:05:26,479
+just following instructions. And so
+
+74
+00:05:26,479 --> 00:05:27,120
+>> good
+
+75
+00:05:27,120 --> 00:05:29,360
+>> when So when but when but but to to
+
+76
+00:05:29,360 --> 00:05:31,600
+speed up to what you just said. You said
+
+77
+00:05:31,600 --> 00:05:33,840
+my my process will require manual. I'm
+
+78
+00:05:33,840 --> 00:05:35,199
+not following that. I don't know what
+
+79
+00:05:35,199 --> 00:05:36,560
+you're what you're
+
+80
+00:05:36,560 --> 00:05:40,080
+>> process to require manual and automated.
+
+81
+00:05:40,080 --> 00:05:43,039
+Your original question is are you using
+
+82
+00:05:43,039 --> 00:05:46,560
+the um the startup script in both the
+
+83
+00:05:46,560 --> 00:05:48,880
+template and putting it in there?
+
+84
+00:05:48,880 --> 00:05:51,840
+Basically, it's it your the question is
+
+85
+00:05:51,840 --> 00:05:54,479
+illogical from the beginning. Why would
+
+86
+00:05:54,479 --> 00:05:57,440
+you need twice?
+
+87
+00:05:57,440 --> 00:05:59,600
+>> All right. So, for creating the VM
+
+88
+00:05:59,600 --> 00:06:01,199
+instance, you don't need to put Is it
+
+89
+00:06:01,199 --> 00:06:02,160
+what you're saying? Because I thought I
+
+90
+00:06:02,160 --> 00:06:04,479
+heard him say, but maybe I misheard it
+
+91
+00:06:04,479 --> 00:06:06,560
+or I didn't, but I thought I heard him
+
+92
+00:06:06,560 --> 00:06:09,280
+say that you had to grab the script and
+
+93
+00:06:09,280 --> 00:06:11,120
+put it in when you're creating the
+
+94
+00:06:11,120 --> 00:06:13,360
+instance, but he that's not true. We're
+
+95
+00:06:13,360 --> 00:06:15,039
+not putting that in for the instance,
+
+96
+00:06:15,039 --> 00:06:16,160
+only for the template. Is that what
+
+97
+00:06:16,160 --> 00:06:16,560
+you're saying?
+
+98
+00:06:16,560 --> 00:06:20,080
+>> Hold on. I'm gonna Guys, I want you guys
+
+99
+00:06:20,080 --> 00:06:22,639
+to teach him the process right now.
+
+100
+00:06:22,639 --> 00:06:25,840
+Everett, share your screen.
+
+101
+00:06:25,840 --> 00:06:27,919
+And Sean, you did a good job. Go ahead
+
+102
+00:06:27,919 --> 00:06:30,400
+and put your screen down.
+
+103
+00:06:30,400 --> 00:06:32,560
+>> One second. I have to uh bring this get
+
+104
+00:06:32,560 --> 00:06:34,160
+this out of the way here.
+
+105
+00:06:34,160 --> 00:06:34,880
+>> Yeah.
+
+106
+00:06:34,880 --> 00:06:37,520
+>> One second.
+
+107
+00:06:37,520 --> 00:06:39,039
+>> Let me see if I could.
+
+108
+00:06:39,039 --> 00:06:42,639
+>> Yeah. So essentially when he was
+
+109
+00:06:42,639 --> 00:06:44,160
+by the time I realized that he was
+
+110
+00:06:44,160 --> 00:06:46,720
+actually had moved into the instance I I
+
+111
+00:06:46,720 --> 00:06:49,280
+wasn't you know I was doing something
+
+112
+00:06:49,280 --> 00:06:51,280
+else and then so I was in the middle so
+
+113
+00:06:51,280 --> 00:06:52,639
+I didn't hear his whole instruction for
+
+114
+00:06:52,639 --> 00:06:55,600
+the instance. It's pretty that's all but
+
+115
+00:06:55,600 --> 00:06:57,759
+I'm trying to get back to the uh right
+
+116
+00:06:57,759 --> 00:07:01,039
+thing to there we go. Okay.
+
+117
+00:07:01,039 --> 00:07:03,440
+All right. So yeah I think replace
+
+118
+00:07:03,440 --> 00:07:06,240
+current. Okay. I'm going to click uh
+
+119
+00:07:06,240 --> 00:07:08,319
+send request or replace current share.
+
+120
+00:07:08,319 --> 00:07:10,240
+Let's see. You can request multiple
+
+121
+00:07:10,240 --> 00:07:12,639
+present
+
+122
+00:07:12,639 --> 00:07:15,120
+probably. Okay, let's try that.
+
+123
+00:07:15,120 --> 00:07:17,440
+>> Mr. Grant, bring your screen down.
+
+124
+00:07:17,440 --> 00:07:20,440
+>> Yep.
+
+125
+00:07:22,400 --> 00:07:26,560
+>> Is it uh Can you see my screen?
+
+126
+00:07:26,560 --> 00:07:29,840
+>> Okay. So, and we did not do anything in
+
+127
+00:07:29,840 --> 00:07:32,400
+this in this position here today.
+
+128
+00:07:32,400 --> 00:07:34,319
+>> In what POS? Well, let me let me bring
+
+129
+00:07:34,319 --> 00:07:36,160
+this over. Wait a minute. Which one do
+
+130
+00:07:36,160 --> 00:07:39,520
+you need to see? You probably need that,
+
+131
+00:07:39,520 --> 00:07:43,520
+I guess. Um,
+
+132
+00:07:43,520 --> 00:07:44,960
+so you know, I already did.
+
+133
+00:07:44,960 --> 00:07:46,800
+>> I got you remove your Visual Studio
+
+134
+00:07:46,800 --> 00:07:48,160
+Code. We're not doing anything with
+
+135
+00:07:48,160 --> 00:07:50,160
+Visual Studio Code. So, close that down.
+
+136
+00:07:50,160 --> 00:07:52,240
+>> I have so many screens open. Oh, you're
+
+137
+00:07:52,240 --> 00:07:54,160
+seeing You know what? I moved it to the
+
+138
+00:07:54,160 --> 00:07:56,479
+wrong monitor. Okay, this is this is the
+
+139
+00:07:56,479 --> 00:08:00,639
+right monitor for you, right? Let me uh
+
+140
+00:08:00,639 --> 00:08:03,360
+make that a little larger. So, yeah. So,
+
+141
+00:08:03,360 --> 00:08:05,520
+I created the template and I was about
+
+142
+00:08:05,520 --> 00:08:07,440
+to create the instance and my it was
+
+143
+00:08:07,440 --> 00:08:08,319
+just a
+
+144
+00:08:08,319 --> 00:08:11,680
+>> Hey, did he was Sean and Hold on. Was
+
+145
+00:08:11,680 --> 00:08:15,280
+Sean where you are today?
+
+146
+00:08:15,280 --> 00:08:17,680
+>> Was Shawn where I am today?
+
+147
+00:08:17,680 --> 00:08:20,479
+>> Yeah. Was did Shawn navigate to that
+
+148
+00:08:20,479 --> 00:08:22,800
+position today?
+
+149
+00:08:22,800 --> 00:08:25,360
+>> Well, what I'm saying is I He did this.
+
+150
+00:08:25,360 --> 00:08:28,160
+>> No, the answer is no. He did not.
+
+151
+00:08:28,160 --> 00:08:30,240
+>> Well, the answer I don't know. Yeah, I
+
+152
+00:08:30,240 --> 00:08:32,320
+don't know. I was I wasn't by the time
+
+153
+00:08:32,320 --> 00:08:33,760
+he started when he was talking about
+
+154
+00:08:33,760 --> 00:08:35,360
+creating the instance I didn't real cuz
+
+155
+00:08:35,360 --> 00:08:37,599
+he answered some other question and so I
+
+156
+00:08:37,599 --> 00:08:38,000
+was
+
+157
+00:08:38,000 --> 00:08:40,159
+>> okay so guys I want you to lead him
+
+158
+00:08:40,159 --> 00:08:42,880
+through doing this he has a he has a
+
+159
+00:08:42,880 --> 00:08:44,480
+template
+
+160
+00:08:44,480 --> 00:08:46,399
+>> now tell show him how to make an
+
+161
+00:08:46,399 --> 00:08:50,519
+instance from the template
+
+162
+00:08:51,600 --> 00:08:57,080
+>> okay go to you see VM instance
+
+163
+00:08:57,360 --> 00:09:01,680
+>> right yeah click on that And now create
+
+164
+00:09:01,680 --> 00:09:04,080
+instant.
+
+165
+00:09:04,080 --> 00:09:06,880
+Yeah. So you can give it a name if you
+
+166
+00:09:06,880 --> 00:09:08,480
+like.
+
+167
+00:09:08,480 --> 00:09:10,560
+>> Nope. Nope. Nope.
+
+168
+00:09:10,560 --> 00:09:12,000
+>> Wait.
+
+169
+00:09:12,000 --> 00:09:13,040
+>> What?
+
+170
+00:09:13,040 --> 00:09:15,440
+>> To create VM from.
+
+171
+00:09:15,440 --> 00:09:17,519
+>> Yeah. Okay. Wait. Yeah. Yeah. Create VM
+
+172
+00:09:17,519 --> 00:09:21,399
+form. Right up above.
+
+173
+00:09:21,440 --> 00:09:23,440
+Scroll. Yeah. Right there.
+
+174
+00:09:23,440 --> 00:09:23,760
+>> Yeah.
+
+175
+00:09:23,760 --> 00:09:25,040
+>> Yeah.
+
+176
+00:09:25,040 --> 00:09:26,800
+>> And then click on template.
+
+177
+00:09:26,800 --> 00:09:28,320
+>> Template. Yes.
+
+178
+00:09:28,320 --> 00:09:30,720
+>> Okay. Yeah, you're going to see it pop
+
+179
+00:09:30,720 --> 00:09:33,680
+up to the right side. Go all the way to
+
+180
+00:09:33,680 --> 00:09:36,880
+the right. Yeah, click on that.
+
+181
+00:09:36,880 --> 00:09:37,839
+>> Okay.
+
+182
+00:09:37,839 --> 00:09:39,519
+>> And
+
+183
+00:09:39,519 --> 00:09:41,680
+create.
+
+184
+00:09:41,680 --> 00:09:43,040
+Okay.
+
+185
+00:09:43,040 --> 00:09:45,760
+>> Yeah.
+
+186
+00:09:45,760 --> 00:09:48,240
+Okay. It's being generated.
+
+187
+00:09:48,240 --> 00:09:51,959
+>> Yep. Just wait.
+
+188
+00:10:11,040 --> 00:10:13,120
+All right.
+
+189
+00:10:13,120 --> 00:10:16,560
+So you see under connection connect you
+
+190
+00:10:16,560 --> 00:10:20,320
+see SSH under the instant you just
+
+191
+00:10:20,320 --> 00:10:23,800
+created. Yeah.
+
+192
+00:10:26,720 --> 00:10:29,720
+Authorize.
+
+193
+00:10:32,399 --> 00:10:34,800
+>> Good. Okay, that is good. Hold on. No,
+
+194
+00:10:34,800 --> 00:10:36,640
+you got to got to go in all the way.
+
+195
+00:10:36,640 --> 00:10:38,399
+Don't close that out. But this is good.
+
+196
+00:10:38,399 --> 00:10:41,399
+>> Yeah.
+
+197
+00:11:21,040 --> 00:11:22,480
+All right. So, it's taking longer than
+
+198
+00:11:22,480 --> 00:11:24,399
+usual, I think, to to establish a
+
+199
+00:11:24,399 --> 00:11:26,959
+connection. You want me to try it again?
+
+200
+00:11:26,959 --> 00:11:29,600
+>> Wait.
+
+201
+00:11:29,600 --> 00:11:33,399
+Yeah. Patience.
+
+202
+00:12:24,560 --> 00:12:30,440
+I wonder why. Oh yeah.
+
+203
+00:12:35,279 --> 00:12:38,279
+Okay.
+
+204
+00:12:51,360 --> 00:12:55,200
+So yeah, I will let's see. So
+
+205
+00:12:55,200 --> 00:12:56,720
+>> close that out.
+
+206
+00:12:56,720 --> 00:12:58,880
+>> Yeah, cuz when I created the template, I
+
+207
+00:12:58,880 --> 00:13:00,880
+did not create any kind of firewall. I
+
+208
+00:13:00,880 --> 00:13:04,800
+don't think I mean Okay, so uh let's
+
+209
+00:13:04,800 --> 00:13:07,519
+see.
+
+210
+00:13:07,519 --> 00:13:10,560
+Oh, let's see. Retri retry. I don't see
+
+211
+00:13:10,560 --> 00:13:12,320
+a close. Just to close it.
+
+212
+00:13:12,320 --> 00:13:14,639
+>> Yeah. X X
+
+213
+00:13:14,639 --> 00:13:16,720
+>> X. I don't see Do you see a
+
+214
+00:13:16,720 --> 00:13:19,760
+>> Yeah, right there. Yeah. Close. Close
+
+215
+00:13:19,760 --> 00:13:22,240
+this
+
+216
+00:13:22,240 --> 00:13:23,680
+window.
+
+217
+00:13:23,680 --> 00:13:25,360
+>> I got something blocking it. I think
+
+218
+00:13:25,360 --> 00:13:26,320
+it's the uh
+
+219
+00:13:26,320 --> 00:13:27,519
+>> Oh, well,
+
+220
+00:13:27,519 --> 00:13:29,519
+>> audio audio video. Let me see if I can
+
+221
+00:13:29,519 --> 00:13:31,519
+drag it down. No, I can't. D. Let's see
+
+222
+00:13:31,519 --> 00:13:35,440
+here. There we go. All right. Yeah.
+
+223
+00:13:35,440 --> 00:13:38,519
+>> All right.
+
+224
+00:13:40,079 --> 00:13:42,079
+That's strange.
+
+225
+00:13:42,079 --> 00:13:44,160
+Click on the external IP to see if it's
+
+226
+00:13:44,160 --> 00:13:48,440
+going to open like this.
+
+227
+00:13:55,680 --> 00:13:58,160
+Go. Okay. So, it worked.
+
+228
+00:13:58,160 --> 00:14:00,480
+>> Yeah, it worked.
+
+229
+00:14:00,480 --> 00:14:05,040
+Okay. Yeah, you can exit this.
+
+230
+00:14:05,040 --> 00:14:08,959
+>> Yep. You did it.
+
+231
+00:14:08,959 --> 00:14:11,120
+>> No, no. I mean, yeah, just the top
+
+232
+00:14:11,120 --> 00:14:13,279
+itself.
+
+233
+00:14:13,279 --> 00:14:16,639
+>> Yeah. See, I got this thing blocking so
+
+234
+00:14:16,639 --> 00:14:18,959
+much, man. Um, let me see. I don't know
+
+235
+00:14:18,959 --> 00:14:21,040
+how to get this out of the way. The
+
+236
+00:14:21,040 --> 00:14:23,760
+audio video participants and all that.
+
+237
+00:14:23,760 --> 00:14:26,560
+It's up there. Let me see more.
+
+238
+00:14:26,560 --> 00:14:28,959
+We can get this out off of my hide
+
+239
+00:14:28,959 --> 00:14:30,800
+panel.
+
+240
+00:14:30,800 --> 00:14:34,160
+No, that that's not it. Anyway, uh, all
+
+241
+00:14:34,160 --> 00:14:36,720
+right. I do it like this.
+
+242
+00:14:36,720 --> 00:14:41,360
+Then drag that down. Okay,
+
+243
+00:14:41,360 --> 00:14:44,360
+cool.
+
+244
+00:14:45,600 --> 00:14:51,480
+I wonder why SSH did not work for him.
+
+245
+00:14:58,720 --> 00:14:59,920
+>> Yeah. You want to go ahead and stop
+
+246
+00:14:59,920 --> 00:15:03,360
+sharing or keep sharing?
+
+247
+00:15:03,360 --> 00:15:05,040
+>> No, you did. You did the jump. That's
+
+248
+00:15:05,040 --> 00:15:05,360
+it.
+
+249
+00:15:05,360 --> 00:15:06,800
+>> Yeah. So, I'm going to stop sharing.
+
+250
+00:15:06,800 --> 00:15:08,800
+Okay. Thank you.
+
+251
+00:15:08,800 --> 00:15:12,240
+>> Okay. Who's next?
+
+252
+00:15:12,240 --> 00:15:14,160
+Who else wants to? Wait. Did everybody
+
+253
+00:15:14,160 --> 00:15:17,320
+do this?
+
+254
+00:15:17,760 --> 00:15:19,839
+Is there anybody who was unable to
+
+255
+00:15:19,839 --> 00:15:24,560
+deploy a VM from an instance?
+
+256
+00:15:24,560 --> 00:15:27,120
+Sorry. Anybody who was unable to deploy
+
+257
+00:15:27,120 --> 00:15:31,639
+a VM from an instance template.
+
+258
+00:15:32,399 --> 00:15:34,480
+And if you were able to deploy, did you
+
+259
+00:15:34,480 --> 00:15:36,639
+post your link? Did you post your your
+
+260
+00:15:36,639 --> 00:15:40,440
+link inside the chat?
+
+261
+00:16:06,320 --> 00:16:09,600
+You got a question, deal,
+
+262
+00:16:09,600 --> 00:16:11,759
+>> what's a question, Mike?
+
+263
+00:16:11,759 --> 00:16:15,040
+>> Hey, good afternoon. Um, so I've been
+
+264
+00:16:15,040 --> 00:16:16,560
+kind of behind on everything, so I
+
+265
+00:16:16,560 --> 00:16:18,800
+actually don't have the uh template
+
+266
+00:16:18,800 --> 00:16:20,800
+already pre-loaded when I was trying to
+
+267
+00:16:20,800 --> 00:16:23,360
+make the template. I know how to go Go
+
+268
+00:16:23,360 --> 00:16:24,880
+ahead.
+
+269
+00:16:24,880 --> 00:16:29,360
+that nobody has a template preloaded.
+
+270
+00:16:29,360 --> 00:16:31,040
+Everyone today started at the same
+
+271
+00:16:31,040 --> 00:16:32,240
+point.
+
+272
+00:16:32,240 --> 00:16:34,079
+>> Well, let me ask you this then.
+
+273
+00:16:34,079 --> 00:16:39,199
+something that go share your
+
+274
+00:16:39,199 --> 00:16:43,480
+>> guys teach him how to do this.
+
+275
+00:16:54,959 --> 00:16:58,000
+>> Somebody got this or
+
+276
+00:16:58,000 --> 00:17:01,199
+>> There we go. Okay,
+
+277
+00:17:01,199 --> 00:17:03,759
+guys. teach. Hold on for right now.
+
+278
+00:17:03,759 --> 00:17:05,839
+>> Knock down. Who's Who's sharing? This is
+
+279
+00:17:05,839 --> 00:17:06,959
+Michael.
+
+280
+00:17:06,959 --> 00:17:09,280
+>> Yes.
+
+281
+00:17:09,280 --> 00:17:11,199
+>> Michael, are you sharing right now?
+
+282
+00:17:11,199 --> 00:17:13,360
+>> Yes. Do you see me?
+
+283
+00:17:13,360 --> 00:17:14,319
+>> Yeah.
+
+284
+00:17:14,319 --> 00:17:16,400
+>> Your your three instances, knock them
+
+285
+00:17:16,400 --> 00:17:20,319
+out. Delete them. We don't need them.
+
+286
+00:17:20,319 --> 00:17:24,559
+>> So, stop stop stop. Go to the top and
+
+287
+00:17:24,559 --> 00:17:26,160
+select all of them. So, let's go next to
+
+288
+00:17:26,160 --> 00:17:29,840
+status. Yeah. Click there and then say
+
+289
+00:17:29,840 --> 00:17:31,440
+stop.
+
+290
+00:17:31,440 --> 00:17:35,880
+Say more actions.
+
+291
+00:17:37,200 --> 00:17:40,200
+Delete.
+
+292
+00:17:40,640 --> 00:17:44,640
+Yep, there you go. Okay, now go to
+
+293
+00:17:44,640 --> 00:17:48,039
+instance template.
+
+294
+00:17:59,919 --> 00:18:02,880
+Wait, back up real quick. I think he
+
+295
+00:18:02,880 --> 00:18:06,919
+went straight to creating the instance
+
+296
+00:18:11,440 --> 00:18:14,640
+on the left hand side.
+
+297
+00:18:14,640 --> 00:18:15,919
+I guess you could do it that way too.
+
+298
+00:18:15,919 --> 00:18:19,480
+Click on instance templates.
+
+299
+00:18:19,679 --> 00:18:22,679
+Create
+
+300
+00:18:23,120 --> 00:18:26,440
+instance template.
+
+301
+00:18:28,160 --> 00:18:32,120
+Name your instance template.
+
+302
+00:18:38,480 --> 00:18:41,679
+Um, wait, go back up.
+
+303
+00:18:41,679 --> 00:18:43,760
+Just as a suggestion, if you're going to
+
+304
+00:18:43,760 --> 00:18:45,520
+be using any of the particular scripts
+
+305
+00:18:45,520 --> 00:18:49,200
+that are showing up in um in Theo's
+
+306
+00:18:49,200 --> 00:18:51,919
+repo, I would recommend just naming it
+
+307
+00:18:51,919 --> 00:18:53,440
+here so when you go to use the template,
+
+308
+00:18:53,440 --> 00:18:54,880
+you know what it is. Otherwise, you have
+
+309
+00:18:54,880 --> 00:18:57,840
+to remember what Saturday 52261 is.
+
+310
+00:18:57,840 --> 00:19:01,400
+>> Okay, gotcha.
+
+311
+00:19:02,559 --> 00:19:05,679
+>> So, all right, you have basic open.
+
+312
+00:19:05,679 --> 00:19:07,200
+>> Yeah.
+
+313
+00:19:07,200 --> 00:19:11,039
+>> Okay. So, we'll make basic.sh SH
+
+314
+00:19:11,039 --> 00:19:13,919
+or just take out the create and take out
+
+315
+00:19:13,919 --> 00:19:16,080
+thesh.
+
+316
+00:19:16,080 --> 00:19:19,640
+Just call it basic.
+
+317
+00:19:21,280 --> 00:19:22,640
+It has to start with a lower case. You
+
+318
+00:19:22,640 --> 00:19:26,679
+can't have uppercase in the name.
+
+319
+00:19:30,000 --> 00:19:35,320
+There we go. Okay. Scroll down.
+
+320
+00:19:40,080 --> 00:19:43,039
+Keep scrolling. Keep scrolling.
+
+321
+00:19:43,039 --> 00:19:47,240
+Keep scrolling. Keep scrolling.
+
+322
+00:19:50,240 --> 00:19:52,480
+Dang, it's that far now. Stop. Allow
+
+323
+00:19:52,480 --> 00:19:55,760
+HTTP traffic.
+
+324
+00:19:55,760 --> 00:19:57,360
+Scroll some more. Click on advanced
+
+325
+00:19:57,360 --> 00:20:00,360
+options.
+
+326
+00:20:00,559 --> 00:20:04,080
+Scroll down under networking. Click on
+
+327
+00:20:04,080 --> 00:20:06,480
+networking real quick.
+
+328
+00:20:06,480 --> 00:20:08,799
+And Yep. So, the HTTP server tag is on
+
+329
+00:20:08,799 --> 00:20:14,559
+there. Cool. Um, then we're going to
+
+330
+00:20:14,559 --> 00:20:17,360
+management.
+
+331
+00:20:17,360 --> 00:20:19,679
+Scroll down.
+
+332
+00:20:19,679 --> 00:20:21,600
+So, where automation startup script is,
+
+333
+00:20:21,600 --> 00:20:23,200
+you're just going to copy the the script
+
+334
+00:20:23,200 --> 00:20:27,080
+from there and bring it over.
+
+335
+00:20:31,280 --> 00:20:35,400
+Scroll. Scroll. Scroll. Create.
+
+336
+00:20:47,039 --> 00:20:48,559
+So
+
+337
+00:20:48,559 --> 00:20:49,919
+just give us some time. There you go.
+
+338
+00:20:49,919 --> 00:20:51,919
+Template's created. So now if you want
+
+339
+00:20:51,919 --> 00:20:53,760
+to make an instance from it, you see the
+
+340
+00:20:53,760 --> 00:20:55,039
+three dots on the right hand under
+
+341
+00:20:55,039 --> 00:20:57,120
+actions.
+
+342
+00:20:57,120 --> 00:20:58,880
+>> Under actions on the right hand.
+
+343
+00:20:58,880 --> 00:21:02,000
+>> Yep. Yep. Click on those. You can create
+
+344
+00:21:02,000 --> 00:21:04,480
+a VM from that straight from there.
+
+345
+00:21:04,480 --> 00:21:08,200
+Click create VM.
+
+346
+00:21:10,000 --> 00:21:11,120
+It's going to have the name and
+
+347
+00:21:11,120 --> 00:21:13,039
+everything in there. Scroll, scroll,
+
+348
+00:21:13,039 --> 00:21:15,440
+scroll, scroll. It's going off of your
+
+349
+00:21:15,440 --> 00:21:17,280
+template. So, your templates fresh and
+
+350
+00:21:17,280 --> 00:21:18,880
+new. We know what we put in there, but
+
+351
+00:21:18,880 --> 00:21:21,120
+you can double check it as well. And
+
+352
+00:21:21,120 --> 00:21:24,120
+create.
+
+353
+00:21:49,360 --> 00:21:53,480
+All right. So now click on SSH.
+
+354
+00:21:55,120 --> 00:21:56,480
+I click on it.
+
+355
+00:21:56,480 --> 00:21:59,720
+>> Yes, sir.
+
+356
+00:22:04,080 --> 00:22:07,559
+There you go.
+
+357
+00:22:18,720 --> 00:22:21,520
+All right, you're good. You're in. You
+
+358
+00:22:21,520 --> 00:22:23,679
+can ping nike.com if you want or
+
+359
+00:22:23,679 --> 00:22:25,679
+something like that, but you're good.
+
+360
+00:22:25,679 --> 00:22:27,200
+Um, and then go back to the other page
+
+361
+00:22:27,200 --> 00:22:30,080
+for your external IP.
+
+362
+00:22:30,080 --> 00:22:33,039
+Go back to your console rather. Copy the
+
+363
+00:22:33,039 --> 00:22:35,200
+external IP. External. The one on the
+
+364
+00:22:35,200 --> 00:22:42,039
+right. Yeah, that one. and then new tab.
+
+365
+00:22:43,440 --> 00:22:48,200
+http colon forward forward.
+
+366
+00:22:49,120 --> 00:22:52,600
+Wait, you're good.
+
+367
+00:23:18,960 --> 00:23:20,960
+Was that so hard?
+
+368
+00:23:20,960 --> 00:23:23,280
+>> Not at all. No.
+
+369
+00:23:23,280 --> 00:23:25,840
+>> There you go.
+
+370
+00:23:25,840 --> 00:23:28,159
+Yeah, I think you guys did a good job.
+
+371
+00:23:28,159 --> 00:23:31,039
+That was That's pretty good. Nest egg,
+
+372
+00:23:31,039 --> 00:23:33,039
+put the bright hyperlink in there. You
+
+373
+00:23:33,039 --> 00:23:35,600
+don't just put an IP address in there.
+
+374
+00:23:35,600 --> 00:23:39,039
+Got to put the hyperlink in.
+
+375
+00:23:39,039 --> 00:23:42,760
+You already know this.
+
+376
+00:23:51,600 --> 00:23:53,200
+I was uh focus on the screen. Who who
+
+377
+00:23:53,200 --> 00:23:57,000
+who was helping me?
+
+378
+00:23:58,880 --> 00:24:00,559
+>> That was me.
+
+379
+00:24:00,559 --> 00:24:03,919
+>> Oh, appreciate this, man. Yes, sir.
+
+380
+00:24:03,919 --> 00:24:08,840
+>> Coach. Coach. All right.
+
+381
+00:24:24,159 --> 00:24:27,360
+Okay, there I go. Nest egg. Much better.
+
+382
+00:24:27,360 --> 00:24:29,840
+I like that. Okay, now the reason I'm
+
+383
+00:24:29,840 --> 00:24:31,679
+getting on you that day because we don't
+
+384
+00:24:31,679 --> 00:24:33,520
+want you to do that in the office. You
+
+385
+00:24:33,520 --> 00:24:36,159
+need to give something that's clickable.
+
+386
+00:24:36,159 --> 00:24:37,679
+If you do that in the office here, okay,
+
+387
+00:24:37,679 --> 00:24:38,880
+here they give it to you. They're gonna
+
+388
+00:24:38,880 --> 00:24:41,520
+say, "What the is this?" Right?
+
+389
+00:24:41,520 --> 00:24:43,520
+That's that's how a manager acts. I'll
+
+390
+00:24:43,520 --> 00:24:47,039
+make sure you get this right.
+
+391
+00:24:47,039 --> 00:24:49,600
+Uh, Michael, uh, that script takes a
+
+392
+00:24:49,600 --> 00:24:51,840
+while to load.
+
+393
+00:24:51,840 --> 00:24:54,400
+It's not immediate. So, a lot of these
+
+394
+00:24:54,400 --> 00:24:56,159
+scripts, remember I had you could SSH
+
+395
+00:24:56,159 --> 00:24:59,679
+first and then do the URL.
+
+396
+00:24:59,679 --> 00:25:01,200
+It's because it takes time for the
+
+397
+00:25:01,200 --> 00:25:06,159
+script to start up, right?
+
+398
+00:25:06,159 --> 00:25:09,120
+>> Okay. What we got here?
+
+399
+00:25:09,120 --> 00:25:10,799
+Heyo, can you hear me?
+
+400
+00:25:10,799 --> 00:25:12,159
+>> Yep, I can hear you.
+
+401
+00:25:12,159 --> 00:25:14,159
+>> Yeah. So, um, sorry to sidetrack the
+
+402
+00:25:14,159 --> 00:25:16,159
+class, but what I did was after class
+
+403
+00:25:16,159 --> 00:25:19,039
+yesterday, I spun up a VM. I put your
+
+404
+00:25:19,039 --> 00:25:21,120
+father 2 and I let the VM run like
+
+405
+00:25:21,120 --> 00:25:22,960
+literally all day. And then the next
+
+406
+00:25:22,960 --> 00:25:23,200
+day,
+
+407
+00:25:23,200 --> 00:25:24,400
+>> it still didn't run.
+
+408
+00:25:24,400 --> 00:25:26,400
+>> Yeah, it was still throwing that uh
+
+409
+00:25:26,400 --> 00:25:29,840
+default Debian uh screen.
+
+410
+00:25:29,840 --> 00:25:33,200
+>> I have to go look at it. Okay. Okay,
+
+411
+00:25:33,200 --> 00:25:34,720
+man. That's up. Okay, fine. I'll
+
+412
+00:25:34,720 --> 00:25:38,200
+go deal with that.
+
+413
+00:25:40,720 --> 00:25:44,720
+I got that uh pair. All right. You win
+
+414
+00:25:44,720 --> 00:25:47,679
+some, you lose some. All right. Fine.
+
+415
+00:25:47,679 --> 00:25:50,880
+Okay. Now, we need to use manage
+
+416
+00:25:50,880 --> 00:25:52,480
+instance groups or just make instance
+
+417
+00:25:52,480 --> 00:25:53,919
+group scripts. Is that well, it's kind
+
+418
+00:25:53,919 --> 00:25:56,320
+of managed. All right. So, why don't we
+
+419
+00:25:56,320 --> 00:25:58,799
+do a manage instance groups? Um the
+
+420
+00:25:58,799 --> 00:25:59,840
+reason why we're going to do manage
+
+421
+00:25:59,840 --> 00:26:01,600
+instance groups is because sometimes we
+
+422
+00:26:01,600 --> 00:26:04,400
+don't want to have just one uh VM
+
+423
+00:26:04,400 --> 00:26:06,320
+running. we want to have multiple VMs
+
+424
+00:26:06,320 --> 00:26:09,039
+running. Okay, this usually this is for
+
+425
+00:26:09,039 --> 00:26:12,320
+testing purposes. Um the reason why it's
+
+426
+00:26:12,320 --> 00:26:15,600
+going to be done is irrelevant to be
+
+427
+00:26:15,600 --> 00:26:17,200
+honest. It's just a requirement that
+
+428
+00:26:17,200 --> 00:26:20,880
+you'd have in the office. So a dev a guy
+
+429
+00:26:20,880 --> 00:26:23,919
+in dev might say look um I need to to
+
+430
+00:26:23,919 --> 00:26:25,679
+test my code. I need to have five
+
+431
+00:26:25,679 --> 00:26:27,200
+different VMs. Can you spin it up for me
+
+432
+00:26:27,200 --> 00:26:30,320
+and give me the access to it? That's it.
+
+433
+00:26:30,320 --> 00:26:31,679
+You spin it up, you give them the access
+
+434
+00:26:31,679 --> 00:26:33,279
+and he's like, "Okay, cool. I can go do
+
+435
+00:26:33,279 --> 00:26:35,360
+my work." All right. And then you be
+
+436
+00:26:35,360 --> 00:26:38,400
+like, "Yeah, I'm gonna check your H1B.
+
+437
+00:26:38,400 --> 00:26:41,360
+Deport your ass." All right.
+
+438
+00:26:41,360 --> 00:26:44,559
+Oh, I'm so bad today. Just bad. Stop,
+
+439
+00:26:44,559 --> 00:26:47,440
+Theo. Drink some coffee. All right. So,
+
+440
+00:26:47,440 --> 00:26:50,159
+anyway,
+
+441
+00:26:50,159 --> 00:26:51,520
+we're we're going to make manage
+
+442
+00:26:51,520 --> 00:26:53,440
+instance groups. Okay. Now, you're going
+
+443
+00:26:53,440 --> 00:26:55,279
+to understand why the template's
+
+444
+00:26:55,279 --> 00:26:57,120
+important.
+
+445
+00:26:57,120 --> 00:27:01,200
+Okay. So, who wants to show how to make
+
+446
+00:27:01,200 --> 00:27:03,760
+a managed instance group? Who else in
+
+447
+00:27:03,760 --> 00:27:06,760
+this?
+
+448
+00:27:13,840 --> 00:27:17,080
+>> I'll go.
+
+449
+00:27:20,240 --> 00:27:22,240
+Coach, I thought you guys would all be
+
+450
+00:27:22,240 --> 00:27:26,279
+jumping trying to do this.
+
+451
+00:27:40,960 --> 00:27:43,360
+Okay,
+
+452
+00:27:43,360 --> 00:27:46,840
+this is templates.
+
+453
+00:27:49,039 --> 00:27:50,480
+We're talking about your father's shoes
+
+454
+00:27:50,480 --> 00:27:52,720
+too. So,
+
+455
+00:27:52,720 --> 00:27:56,399
+we'll create instance group from
+
+456
+00:27:56,399 --> 00:27:59,720
+that template.
+
+457
+00:28:04,159 --> 00:28:07,679
+Instance name
+
+458
+00:28:07,679 --> 00:28:11,840
+big papa one just cuz why not? Instance
+
+459
+00:28:11,840 --> 00:28:13,919
+group rather. Instance template we're
+
+460
+00:28:13,919 --> 00:28:17,279
+using is big papa. Um are we doing it
+
+461
+00:28:17,279 --> 00:28:20,799
+with or without the autoscaling?
+
+462
+00:28:20,799 --> 00:28:22,559
+>> Uh let's do it without the autoscaling
+
+463
+00:28:22,559 --> 00:28:26,559
+this time. I I like
+
+464
+00:28:26,559 --> 00:28:29,360
+we'll do the autoscaling with the uh big
+
+465
+00:28:29,360 --> 00:28:33,039
+later on but for now yeah I I liked it
+
+466
+00:28:33,039 --> 00:28:34,880
+better without because it only spins one
+
+467
+00:28:34,880 --> 00:28:37,760
+in the end and I was kind like
+
+468
+00:28:37,760 --> 00:28:40,960
+let's do more that so yeah so how number
+
+469
+00:28:40,960 --> 00:28:43,360
+of instances let's put four on there
+
+470
+00:28:43,360 --> 00:28:45,440
+>> are you
+
+471
+00:28:45,440 --> 00:28:46,960
+>> I am indeed
+
+472
+00:28:46,960 --> 00:28:48,640
+>> okay
+
+473
+00:28:48,640 --> 00:28:52,080
+>> so we've got four
+
+474
+00:28:52,080 --> 00:28:54,799
+location zones make sure that we open up
+
+475
+00:28:54,799 --> 00:28:57,120
+all four available.
+
+476
+00:28:57,120 --> 00:29:02,120
+>> Okay. So, why do we do multiple zones
+
+477
+00:29:02,399 --> 00:29:06,159
+>> in case Iran targets Iowa and A is no
+
+478
+00:29:06,159 --> 00:29:07,600
+longer available?
+
+479
+00:29:07,600 --> 00:29:10,480
+>> That's correct. Yeah, that's right. So,
+
+480
+00:29:10,480 --> 00:29:13,120
+if again we have this situation in the
+
+481
+00:29:13,120 --> 00:29:15,440
+Middle East where Iran is targeting data
+
+482
+00:29:15,440 --> 00:29:18,080
+centers, right? And it took out like
+
+483
+00:29:18,080 --> 00:29:22,399
+part of one of uh uh AWS's AZ. Where was
+
+484
+00:29:22,399 --> 00:29:26,240
+it? I forgot what country it is. Um, and
+
+485
+00:29:26,240 --> 00:29:27,919
+the liberals are going on crazy about
+
+486
+00:29:27,919 --> 00:29:30,080
+this. Oh, and I started laughing. I was
+
+487
+00:29:30,080 --> 00:29:31,840
+like, well, if the designers did it
+
+488
+00:29:31,840 --> 00:29:33,279
+correct, they don't care if they lost
+
+489
+00:29:33,279 --> 00:29:36,240
+one a. It doesn't matter cuz it should
+
+490
+00:29:36,240 --> 00:29:39,360
+be in multiple AC, so it doesn't matter.
+
+491
+00:29:39,360 --> 00:29:41,200
+Go ahead and take one. We got three
+
+492
+00:29:41,200 --> 00:29:43,200
+others. All right. So, this is an
+
+493
+00:29:43,200 --> 00:29:46,240
+example. Um, your a when you do a
+
+494
+00:29:46,240 --> 00:29:48,240
+deployment like this with multiple VMs,
+
+495
+00:29:48,240 --> 00:29:50,080
+they should always be in multiple as.
+
+496
+00:29:50,080 --> 00:29:51,360
+That's just the way it is. Do not put
+
+497
+00:29:51,360 --> 00:29:53,919
+them all into one a. Uh, Everett, what
+
+498
+00:29:53,919 --> 00:29:56,559
+you got?
+
+499
+00:29:56,559 --> 00:29:59,440
+>> All right. So, he How did we already
+
+500
+00:29:59,440 --> 00:30:02,399
+have a instance script to call your
+
+501
+00:30:02,399 --> 00:30:03,840
+father, my father, whatever, whatever
+
+502
+00:30:03,840 --> 00:30:06,640
+it's called already in his drop down?
+
+503
+00:30:06,640 --> 00:30:08,559
+You know what I mean? Like, is that
+
+504
+00:30:08,559 --> 00:30:10,480
+something I need to be creating first?
+
+505
+00:30:10,480 --> 00:30:12,399
+>> No, no, no, no, no, no, no. Only follow
+
+506
+00:30:12,399 --> 00:30:13,600
+what he's doing.
+
+507
+00:30:13,600 --> 00:30:15,440
+>> So, I don't need to be doing it. Just
+
+508
+00:30:15,440 --> 00:30:16,880
+watch what he's doing.
+
+509
+00:30:16,880 --> 00:30:17,279
+>> Okay.
+
+510
+00:30:17,279 --> 00:30:19,039
+>> And follow along with what he's doing.
+
+511
+00:30:19,039 --> 00:30:20,159
+>> Well, that's what I'm saying. How can I
+
+512
+00:30:20,159 --> 00:30:21,360
+follow along if I don't already have
+
+513
+00:30:21,360 --> 00:30:22,640
+that created? I don't know.
+
+514
+00:30:22,640 --> 00:30:24,399
+>> No, no, no, no, no, no. He's not dealing
+
+515
+00:30:24,399 --> 00:30:25,919
+with anything that's already created.
+
+516
+00:30:25,919 --> 00:30:28,960
+Nope. Nope. Nope, no, no. Um,
+
+517
+00:30:28,960 --> 00:30:31,200
+>> Theo, hold on, hold on. Theo, can you
+
+518
+00:30:31,200 --> 00:30:35,039
+clarify on what the it is that will be
+
+519
+00:30:35,039 --> 00:30:38,960
+utilized for the manage instance group?
+
+520
+00:30:38,960 --> 00:30:42,960
+>> Uh, it's a template. So, uh, coach,
+
+521
+00:30:42,960 --> 00:30:46,559
+coach to the top. What's the top
+
+522
+00:30:46,559 --> 00:30:49,840
+>> coach? So, for you did it.
+
+523
+00:30:49,840 --> 00:30:51,679
+>> So, you're talking about the manage
+
+524
+00:30:51,679 --> 00:30:54,640
+instance template, right?
+
+525
+00:30:54,640 --> 00:30:56,240
+>> Uh yeah, in the very beginning, I
+
+526
+00:30:56,240 --> 00:30:58,640
+thought he said uh he was going to use
+
+527
+00:30:58,640 --> 00:31:00,720
+like something called father or you
+
+528
+00:31:00,720 --> 00:31:03,360
+know, whatever. And all all I have is
+
+529
+00:31:03,360 --> 00:31:05,360
+the one that we just created.
+
+530
+00:31:05,360 --> 00:31:09,840
+>> Okay. So, why do you need more than one?
+
+531
+00:31:09,840 --> 00:31:12,000
+>> Well, I don't know asking about whether
+
+532
+00:31:12,000 --> 00:31:14,000
+he needs more than one. He's asking if
+
+533
+00:31:14,000 --> 00:31:15,919
+there's a difference between the naming
+
+534
+00:31:15,919 --> 00:31:20,320
+of what the coach did and what he has.
+
+535
+00:31:20,320 --> 00:31:23,120
+>> But ultimately, it's the core. It's the
+
+536
+00:31:23,120 --> 00:31:26,080
+same core. You need a template created.
+
+537
+00:31:26,080 --> 00:31:26,720
+>> Yeah.
+
+538
+00:31:26,720 --> 00:31:29,919
+>> In order to utilize the template for the
+
+539
+00:31:29,919 --> 00:31:32,559
+manage instance group. So if you have a
+
+540
+00:31:32,559 --> 00:31:34,799
+template, then you can actually move
+
+541
+00:31:34,799 --> 00:31:37,799
+forward.
+
+542
+00:31:37,919 --> 00:31:38,399
+>> That's it.
+
+543
+00:31:38,399 --> 00:31:39,600
+>> Okay.
+
+544
+00:31:39,600 --> 00:31:41,279
+>> Okay. Well, it's just because I already
+
+545
+00:31:41,279 --> 00:31:42,880
+created something with that template, so
+
+546
+00:31:42,880 --> 00:31:44,000
+I wasn't sure if there would be like
+
+547
+00:31:44,000 --> 00:31:45,600
+overlap and I needed to create another
+
+548
+00:31:45,600 --> 00:31:46,720
+one, but All right. So,
+
+549
+00:31:46,720 --> 00:31:51,640
+>> why would why would there be overlap?
+
+550
+00:31:52,399 --> 00:31:54,480
+>> Well, I didn't talk about overlap. A
+
+551
+00:31:54,480 --> 00:31:56,399
+template is a template.
+
+552
+00:31:56,399 --> 00:31:57,919
+>> Okay. All right. I just want to be
+
+553
+00:31:57,919 --> 00:32:03,679
+clear. So, all right. So, I'll do that.
+
+554
+00:32:03,679 --> 00:32:04,960
+>> That's what I thought too, Vanny.
+
+555
+00:32:04,960 --> 00:32:07,039
+Something like that. Um,
+
+556
+00:32:07,039 --> 00:32:12,240
+>> so can can you start over? uh socket.
+
+557
+00:32:12,240 --> 00:32:14,799
+>> Well, hold on. He's He hasn't done
+
+558
+00:32:14,799 --> 00:32:18,480
+anything yet. So, what he has there, do
+
+559
+00:32:18,480 --> 00:32:22,640
+something similar like there.
+
+560
+00:32:22,640 --> 00:32:24,559
+Okay. I'm just saying step by step. The
+
+561
+00:32:24,559 --> 00:32:26,799
+first thing I need to do is go to
+
+562
+00:32:26,799 --> 00:32:29,600
+instance template and then because I
+
+563
+00:32:29,600 --> 00:32:30,880
+don't even see a drop down. I'm just
+
+564
+00:32:30,880 --> 00:32:32,880
+seeing the instance templates. But I
+
+565
+00:32:32,880 --> 00:32:34,080
+think I should be seeing
+
+566
+00:32:34,080 --> 00:32:35,600
+>> in front of you. Select whatever
+
+567
+00:32:35,600 --> 00:32:37,200
+instance template that you have that you
+
+568
+00:32:37,200 --> 00:32:39,440
+want to use for this.
+
+569
+00:32:39,440 --> 00:32:42,320
+And then what I did is on the right hand
+
+570
+00:32:42,320 --> 00:32:44,320
+side you'll see the three vertical dots.
+
+571
+00:32:44,320 --> 00:32:46,960
+Click on those and you'll see an option
+
+572
+00:32:46,960 --> 00:32:49,600
+to create instance group from there.
+
+573
+00:32:49,600 --> 00:32:51,039
+>> Okay, great. All right. Now I'm on the
+
+574
+00:32:51,039 --> 00:32:54,840
+same page. All right.
+
+575
+00:32:57,200 --> 00:32:59,039
+>> You can name it whatever you want, guys.
+
+576
+00:32:59,039 --> 00:33:00,480
+Doesn't have to be this. Obviously, your
+
+577
+00:33:00,480 --> 00:33:01,600
+instance template's going to be
+
+578
+00:33:01,600 --> 00:33:03,279
+something different.
+
+579
+00:33:03,279 --> 00:33:05,919
+Um,
+
+580
+00:33:05,919 --> 00:33:10,000
+so multiple zones
+
+581
+00:33:10,000 --> 00:33:12,159
+D. We're not doing any autoscaling on
+
+582
+00:33:12,159 --> 00:33:14,000
+this one.
+
+583
+00:33:14,000 --> 00:33:17,200
+Auto healing. Health check.
+
+584
+00:33:17,200 --> 00:33:21,000
+Create a health check.
+
+585
+00:33:24,640 --> 00:33:30,679
+Health CCK. There we go.
+
+586
+00:33:31,360 --> 00:33:34,000
+That's what it is. We're making it
+
+587
+00:33:34,000 --> 00:33:36,640
+regional
+
+588
+00:33:36,640 --> 00:33:41,000
+and we want the logs on.
+
+589
+00:33:41,760 --> 00:33:43,600
+Health criteria check every 5 seconds.
+
+590
+00:33:43,600 --> 00:33:45,760
+Time outs for five. Healthy. Okay,
+
+591
+00:33:45,760 --> 00:33:49,640
+great. Save it.
+
+592
+00:33:49,919 --> 00:33:52,919
+And
+
+593
+00:33:56,480 --> 00:33:58,000
+what am I missing? Am I missing
+
+594
+00:33:58,000 --> 00:34:00,000
+anything?
+
+595
+00:34:00,000 --> 00:34:01,840
+Nope.
+
+596
+00:34:01,840 --> 00:34:04,480
+We'll create.
+
+597
+00:34:04,480 --> 00:34:06,799
+>> You did hell trick already?
+
+598
+00:34:06,799 --> 00:34:08,079
+>> Yes, sir.
+
+599
+00:34:08,079 --> 00:34:12,280
+>> Wow, that was fast. Damn.
+
+600
+00:34:31,760 --> 00:34:36,440
+Ahmad, you have a question.
+
+601
+00:34:45,359 --> 00:34:47,359
+>> It says Amod raised his hand. Amod, you
+
+602
+00:34:47,359 --> 00:34:48,320
+got a question?
+
+603
+00:34:48,320 --> 00:34:50,240
+>> Yeah. Yeah. I'm sorry. What was your uh
+
+604
+00:34:50,240 --> 00:34:51,599
+what was your uh settings for the health
+
+605
+00:34:51,599 --> 00:34:53,359
+chat?
+
+606
+00:34:53,359 --> 00:34:57,000
+Uh uh.
+
+607
+00:34:57,760 --> 00:34:59,920
+Hold on.
+
+608
+00:34:59,920 --> 00:35:04,200
+Can I pull him up from in here?
+
+609
+00:35:08,640 --> 00:35:11,960
+Where do we go?
+
+610
+00:35:16,320 --> 00:35:20,000
+So basically I named it.
+
+611
+00:35:20,000 --> 00:35:24,560
+I switched from global to regional
+
+612
+00:35:24,560 --> 00:35:27,040
+description was already in. And then the
+
+613
+00:35:27,040 --> 00:35:30,320
+only other thing I touched was the where
+
+614
+00:35:30,320 --> 00:35:32,880
+are we
+
+615
+00:35:32,880 --> 00:35:37,720
+logs enabled those.
+
+616
+00:35:41,839 --> 00:35:43,839
+That was good.
+
+617
+00:35:43,839 --> 00:35:46,960
+Okay. Yeah. Show the VMs. Wow. Look at
+
+618
+00:35:46,960 --> 00:35:49,119
+all the big popup.
+
+619
+00:35:49,119 --> 00:35:50,560
+Look at that.
+
+620
+00:35:50,560 --> 00:35:52,160
+>> Um,
+
+621
+00:35:52,160 --> 00:35:53,520
+but you were saying you were having
+
+622
+00:35:53,520 --> 00:35:56,320
+issues with your father, too. And that's
+
+623
+00:35:56,320 --> 00:35:58,400
+what Big Papa is,
+
+624
+00:35:58,400 --> 00:36:02,880
+>> so I test it.
+
+625
+00:36:02,880 --> 00:36:04,560
+>> I have I have problems with Big Papa.
+
+626
+00:36:04,560 --> 00:36:06,400
+I'm in therapy for that.
+
+627
+00:36:06,400 --> 00:36:09,640
+>> We're good.
+
+628
+00:36:13,359 --> 00:36:15,280
+>> Yeah, that's that's good, man. I like I
+
+629
+00:36:15,280 --> 00:36:16,640
+like how you did that. That was that was
+
+630
+00:36:16,640 --> 00:36:18,720
+very good.
+
+631
+00:36:18,720 --> 00:36:21,920
+Thank you sir. And I will stop sharing
+
+632
+00:36:21,920 --> 00:36:23,839
+my screen. Did anybody have any
+
+633
+00:36:23,839 --> 00:36:26,839
+questions?
+
+634
+00:36:28,880 --> 00:36:31,839
+>> Yeah, to be honest, I do. This is Ever.
+
+635
+00:36:31,839 --> 00:36:34,400
+Uh, so cuz I was looking, you know, at
+
+636
+00:36:34,400 --> 00:36:36,320
+the other screen and you were describing
+
+637
+00:36:36,320 --> 00:36:38,160
+certain things and then I just ended up
+
+638
+00:36:38,160 --> 00:36:40,480
+not so health check. I never really
+
+639
+00:36:40,480 --> 00:36:42,720
+heard about that. Then I then I know I
+
+640
+00:36:42,720 --> 00:36:43,920
+that's the first time I heard about
+
+641
+00:36:43,920 --> 00:36:45,440
+that. I was doing something different.
+
+642
+00:36:45,440 --> 00:36:47,520
+And then I heard you say about changing
+
+643
+00:36:47,520 --> 00:36:49,440
+the region, which I don't believe I did.
+
+644
+00:36:49,440 --> 00:36:52,160
+So I don't know if I'm if I'm on the
+
+645
+00:36:52,160 --> 00:36:55,119
+right if I've done it correctly or not,
+
+646
+00:36:55,119 --> 00:36:56,800
+you know, I mean,
+
+647
+00:36:56,800 --> 00:36:58,560
+>> all right, I'll I'll make it again. I'm
+
+648
+00:36:58,560 --> 00:37:01,359
+going to use the Super A template.
+
+649
+00:37:01,359 --> 00:37:04,160
+>> Well, this time have him share his
+
+650
+00:37:04,160 --> 00:37:05,119
+screen.
+
+651
+00:37:05,119 --> 00:37:07,680
+>> Yeah, deal. I'll share it right now. Oh,
+
+652
+00:37:07,680 --> 00:37:10,400
+give me one second.
+
+653
+00:37:10,400 --> 00:37:12,560
+place.
+
+654
+00:37:12,560 --> 00:37:15,560
+Um,
+
+655
+00:37:17,119 --> 00:37:20,160
+>> okay. So,
+
+656
+00:37:20,160 --> 00:37:23,520
+uh, All right. Can All right. Can you
+
+657
+00:37:23,520 --> 00:37:26,560
+see that?
+
+658
+00:37:26,560 --> 00:37:29,119
+>> Yes, I can. You're in instance group.
+
+659
+00:37:29,119 --> 00:37:33,800
+Okay. Go to your instance templates.
+
+660
+00:37:36,400 --> 00:37:39,119
+>> Okay. Well, here's instance group. See
+
+661
+00:37:39,119 --> 00:37:41,760
+instance
+
+662
+00:37:44,079 --> 00:37:47,400
+still compute.
+
+663
+00:37:49,839 --> 00:37:53,720
+Guess I got to get out
+
+664
+00:37:57,119 --> 00:37:59,839
+here at the very top. If you ever get
+
+665
+00:37:59,839 --> 00:38:01,200
+lost like this and you're looking for
+
+666
+00:38:01,200 --> 00:38:02,079
+something,
+
+667
+00:38:02,079 --> 00:38:03,599
+>> you see the search box in the middle
+
+668
+00:38:03,599 --> 00:38:05,920
+like that or X out of this
+
+669
+00:38:05,920 --> 00:38:08,160
+>> the search box right here. You can type
+
+670
+00:38:08,160 --> 00:38:09,760
+in
+
+671
+00:38:09,760 --> 00:38:12,720
+Uh yeah, type in instance templates
+
+672
+00:38:12,720 --> 00:38:16,520
+since that's what we're doing.
+
+673
+00:38:21,599 --> 00:38:23,280
+All right. And you see that second
+
+674
+00:38:23,280 --> 00:38:25,839
+there. Oh, the first one rather.
+
+675
+00:38:25,839 --> 00:38:29,240
+>> Click on it.
+
+676
+00:38:29,839 --> 00:38:31,520
+>> So this is the instance template that
+
+677
+00:38:31,520 --> 00:38:34,640
+you have. You see on the right hand side
+
+678
+00:38:34,640 --> 00:38:36,960
+of that uh of that row. Yep. Click on
+
+679
+00:38:36,960 --> 00:38:40,880
+actions or more actions
+
+680
+00:38:40,880 --> 00:38:43,200
+and create instance group.
+
+681
+00:38:43,200 --> 00:38:45,520
+>> Right now, now I guess you can see that
+
+682
+00:38:45,520 --> 00:38:47,680
+I did this part already, but so I don't
+
+683
+00:38:47,680 --> 00:38:49,119
+know if I need to erase what I've
+
+684
+00:38:49,119 --> 00:38:50,400
+already done.
+
+685
+00:38:50,400 --> 00:38:52,079
+>> Don't worry about it. We'll we'll delete
+
+686
+00:38:52,079 --> 00:38:54,160
+them after in the breakdown.
+
+687
+00:38:54,160 --> 00:38:55,680
+>> Um,
+
+688
+00:38:55,680 --> 00:38:57,119
+name whatever you want to name the
+
+689
+00:38:57,119 --> 00:38:59,200
+census group.
+
+690
+00:38:59,200 --> 00:39:02,160
+>> So change this name then, right? I'll
+
+691
+00:39:02,160 --> 00:39:05,200
+just do
+
+692
+00:39:05,200 --> 00:39:06,880
+>> Okay.
+
+693
+00:39:06,880 --> 00:39:09,200
+Okay, you've already got your instance
+
+694
+00:39:09,200 --> 00:39:10,720
+template. You see where it says number
+
+695
+00:39:10,720 --> 00:39:13,280
+of instances underneath the instance
+
+696
+00:39:13,280 --> 00:39:13,920
+template?
+
+697
+00:39:13,920 --> 00:39:14,240
+>> Yeah.
+
+698
+00:39:14,240 --> 00:39:17,880
+>> Change that to four.
+
+699
+00:39:18,320 --> 00:39:21,599
+>> And then scroll down under location.
+
+700
+00:39:21,599 --> 00:39:23,119
+>> All right. So, you've got multiple zones
+
+701
+00:39:23,119 --> 00:39:27,960
+selected. Click on the zones dropown box
+
+702
+00:39:29,520 --> 00:39:32,000
+and make sure that US Central 1A is
+
+703
+00:39:32,000 --> 00:39:34,160
+clicked.
+
+704
+00:39:34,160 --> 00:39:36,960
+Hit okay.
+
+705
+00:39:36,960 --> 00:39:39,760
+All right. Now, scroll down. Oh, hold.
+
+706
+00:39:39,760 --> 00:39:42,960
+So, stop. You see right right about
+
+707
+00:39:42,960 --> 00:39:44,400
+where your cursor is, if you go up one
+
+708
+00:39:44,400 --> 00:39:45,920
+box where it says health check.
+
+709
+00:39:45,920 --> 00:39:46,400
+>> Okay.
+
+710
+00:39:46,400 --> 00:39:49,440
+>> Click on that. Click on that.
+
+711
+00:39:49,440 --> 00:39:53,560
+>> You're going to create a health check.
+
+712
+00:39:54,079 --> 00:39:54,560
+>> Okay.
+
+713
+00:39:54,560 --> 00:39:55,920
+>> And you can name the health check
+
+714
+00:39:55,920 --> 00:39:58,560
+whatever you want to name it.
+
+715
+00:39:58,560 --> 00:40:01,640
+>> All right.
+
+716
+00:40:04,240 --> 00:40:06,240
+Uh,
+
+717
+00:40:06,240 --> 00:40:08,640
+okay.
+
+718
+00:40:08,640 --> 00:40:14,040
+>> All right. Under scope, click regional.
+
+719
+00:40:14,960 --> 00:40:16,320
+>> Uh, it doesn't like that.
+
+720
+00:40:16,320 --> 00:40:18,160
+>> Oh, sorry. You can't you can't have
+
+721
+00:40:18,160 --> 00:40:18,880
+capitalized.
+
+722
+00:40:18,880 --> 00:40:22,160
+>> Yeah, I just do that out of Okay.
+
+723
+00:40:22,160 --> 00:40:24,400
+>> Okay.
+
+724
+00:40:24,400 --> 00:40:26,160
+>> Okay.
+
+725
+00:40:26,160 --> 00:40:28,880
+>> You're good there. And then under logs,
+
+726
+00:40:28,880 --> 00:40:31,280
+click on. So, let's scroll down a little
+
+727
+00:40:31,280 --> 00:40:32,880
+bit.
+
+728
+00:40:32,880 --> 00:40:34,160
+Logs on.
+
+729
+00:40:34,160 --> 00:40:35,839
+>> Yeah.
+
+730
+00:40:35,839 --> 00:40:41,320
+>> And then you got 5522. Hit save.
+
+731
+00:40:43,359 --> 00:40:46,320
+And you're good.
+
+732
+00:40:46,320 --> 00:40:49,680
+>> Okay. And this this always pops up here.
+
+733
+00:40:49,680 --> 00:40:53,040
+>> Yeah. It's nothing. So it it's what that
+
+734
+00:40:53,040 --> 00:40:55,920
+thing is telling you is when you start
+
+735
+00:40:55,920 --> 00:40:57,599
+when you create it and it launches
+
+736
+00:40:57,599 --> 00:40:59,760
+everything, it's going to look like the
+
+737
+00:40:59,760 --> 00:41:02,000
+world is burning for at least 10
+
+738
+00:41:02,000 --> 00:41:03,599
+seconds.
+
+739
+00:41:03,599 --> 00:41:06,000
+>> Okay.
+
+740
+00:41:06,000 --> 00:41:08,160
+All right. Uh All right.
+
+741
+00:41:08,160 --> 00:41:10,640
+>> Amongst other things, I click create at
+
+742
+00:41:10,640 --> 00:41:12,880
+the bottom bottom left.
+
+743
+00:41:12,880 --> 00:41:15,880
+>> Okay.
+
+744
+00:41:19,920 --> 00:41:23,800
+I think you count it out.
+
+745
+00:41:45,520 --> 00:41:47,280
+Oh, wow. My stuff is taking so long.
+
+746
+00:41:47,280 --> 00:41:48,240
+Maybe I have too much stuff.
+
+747
+00:41:48,240 --> 00:41:50,720
+>> No, don't worry. Don't worry. Be easy.
+
+748
+00:41:50,720 --> 00:41:52,480
+Be cool.
+
+749
+00:41:52,480 --> 00:41:54,400
+>> It's It's doing its thing.
+
+750
+00:41:54,400 --> 00:41:54,800
+>> All right.
+
+751
+00:41:54,800 --> 00:41:56,800
+>> It just turned blue. From blue, it'll
+
+752
+00:41:56,800 --> 00:42:00,319
+turn green. Just give it some time.
+
+753
+00:42:00,319 --> 00:42:02,079
+You can click on the instance name if
+
+754
+00:42:02,079 --> 00:42:03,280
+you want to look at, you know, what's
+
+755
+00:42:03,280 --> 00:42:04,800
+going on on the inside right now, but
+
+756
+00:42:04,800 --> 00:42:07,200
+you're good.
+
+757
+00:42:07,200 --> 00:42:10,079
+>> Okay.
+
+758
+00:42:21,680 --> 00:42:26,040
+Click on it now. Instance group 357.
+
+759
+00:42:30,240 --> 00:42:31,760
+Okay, you're good. It has the health
+
+760
+00:42:31,760 --> 00:42:33,200
+check on there. You've got your four
+
+761
+00:42:33,200 --> 00:42:36,200
+instances.
+
+762
+00:42:37,599 --> 00:42:39,200
+Give it a few more seconds. Still
+
+763
+00:42:39,200 --> 00:42:42,200
+updating
+
+764
+00:43:08,480 --> 00:43:11,119
+You know your health checks are working.
+
+765
+00:43:11,119 --> 00:43:14,560
+>> You say they are.
+
+766
+00:43:14,560 --> 00:43:16,160
+>> See, you've got three out of four going
+
+767
+00:43:16,160 --> 00:43:18,079
+right now on healthy
+
+768
+00:43:18,079 --> 00:43:20,240
+>> healthy status,
+
+769
+00:43:20,240 --> 00:43:21,119
+>> right?
+
+770
+00:43:21,119 --> 00:43:24,319
+>> It'll test again given the the um
+
+771
+00:43:24,319 --> 00:43:28,079
+>> what'll be put in there for settings,
+
+772
+00:43:28,079 --> 00:43:29,839
+but it should make a new one. There you
+
+773
+00:43:29,839 --> 00:43:31,520
+go. It'll make you a new one. And then
+
+774
+00:43:31,520 --> 00:43:33,280
+there you go. You've got them all 100%
+
+775
+00:43:33,280 --> 00:43:34,240
+healthy.
+
+776
+00:43:34,240 --> 00:43:37,960
+>> All right. Perfect.
+
+777
+00:43:48,000 --> 00:43:49,280
+>> What are you going to want a screenshot
+
+778
+00:43:49,280 --> 00:43:52,240
+of this page or? Well, I mean, obviously
+
+779
+00:43:52,240 --> 00:43:55,280
+you see maybe you don't need mine, but
+
+780
+00:43:55,280 --> 00:43:57,440
+um
+
+781
+00:43:57,440 --> 00:44:00,160
+>> I screenshot it before I leave from you.
+
+782
+00:44:00,160 --> 00:44:03,160
+Okay,
+
+783
+00:44:03,599 --> 00:44:05,040
+that's your proof that everything's
+
+784
+00:44:05,040 --> 00:44:09,000
+working the way it needs to.
+
+785
+00:44:11,280 --> 00:44:15,160
+Okay, you want me to stop sharing?
+
+786
+00:44:17,599 --> 00:44:21,160
+That's up to Theo.
+
+787
+00:44:24,480 --> 00:44:26,400
+>> That was pretty good. All right.
+
+788
+00:44:26,400 --> 00:44:28,079
+>> All right. Good deal. Thank you.
+
+789
+00:44:28,079 --> 00:44:29,920
+>> All right. Next person who hasn't done
+
+790
+00:44:29,920 --> 00:44:33,480
+managed groups.
+
+791
+00:44:36,240 --> 00:44:38,079
+>> Quick question.
+
+792
+00:44:38,079 --> 00:44:39,040
+>> Yep.
+
+793
+00:44:39,040 --> 00:44:40,960
+>> What's the reason we're doing this again
+
+794
+00:44:40,960 --> 00:44:44,000
+is for testing purposes. Let's say
+
+795
+00:44:44,000 --> 00:44:47,280
+someone wants to test their own codes
+
+796
+00:44:47,280 --> 00:44:50,240
+and this is
+
+797
+00:44:50,240 --> 00:44:53,920
+for testing purposes.
+
+798
+00:44:53,920 --> 00:44:56,160
+>> Why do we create groups? The real reason
+
+799
+00:44:56,160 --> 00:44:59,200
+why you're doing this is to understand
+
+800
+00:44:59,200 --> 00:45:02,800
+uh how to set up um scaling groups, ASGs
+
+801
+00:45:02,800 --> 00:45:04,960
+or MIGs.
+
+802
+00:45:04,960 --> 00:45:06,560
+So the rest of the students understand
+
+803
+00:45:06,560 --> 00:45:08,160
+that's what I'm actually doing right now
+
+804
+00:45:08,160 --> 00:45:10,000
+because they're in class 7 and earlier.
+
+805
+00:45:10,000 --> 00:45:11,920
+So they know I'm actually putting you
+
+806
+00:45:11,920 --> 00:45:14,560
+into a position to do this. That's all.
+
+807
+00:45:14,560 --> 00:45:18,160
+Um I'm not I tend not to do like
+
+808
+00:45:18,160 --> 00:45:20,480
+template and load balancer on the same
+
+809
+00:45:20,480 --> 00:45:24,000
+day because it can drive you crazy. So
+
+810
+00:45:24,000 --> 00:45:25,920
+I'm just doing template this week to
+
+811
+00:45:25,920 --> 00:45:27,119
+make sure you understand that you can
+
+812
+00:45:27,119 --> 00:45:30,079
+save the instructions of how to make a
+
+813
+00:45:30,079 --> 00:45:32,079
+instance in a template and then you can
+
+814
+00:45:32,079 --> 00:45:35,280
+use managed instances as well. But when
+
+815
+00:45:35,280 --> 00:45:38,880
+we go to load balancers
+
+816
+00:45:38,880 --> 00:45:41,200
+you're going to be doing like like you
+
+817
+00:45:41,200 --> 00:45:43,839
+can do 10 to 20 instances at one time.
+
+818
+00:45:43,839 --> 00:45:44,480
+>> Yeah.
+
+819
+00:45:44,480 --> 00:45:47,440
+>> You can do 400. You can do quite a a
+
+820
+00:45:47,440 --> 00:45:50,400
+number of these. So it's I'm just
+
+821
+00:45:50,400 --> 00:45:52,640
+setting you up for this. That's all.
+
+822
+00:45:52,640 --> 00:45:53,599
+Okay,
+
+823
+00:45:53,599 --> 00:45:57,359
+>> it's a reinforcement of uh following
+
+824
+00:45:57,359 --> 00:45:59,200
+instructions,
+
+825
+00:45:59,200 --> 00:46:01,119
+paying attention, stuff like that
+
+826
+00:46:01,119 --> 00:46:04,480
+because when a when we do full MIG, so
+
+827
+00:46:04,480 --> 00:46:08,079
+so unlike AWS, we can do
+
+828
+00:46:08,079 --> 00:46:09,680
+um
+
+829
+00:46:09,680 --> 00:46:12,960
+load balancing over regions very easily
+
+830
+00:46:12,960 --> 00:46:16,960
+with uh GCP.
+
+831
+00:46:16,960 --> 00:46:19,200
+Well, it's the other two clouds don't
+
+832
+00:46:19,200 --> 00:46:21,520
+have this capability. This is this is
+
+833
+00:46:21,520 --> 00:46:24,400
+actually phenomenal that GCP has. So I'm
+
+834
+00:46:24,400 --> 00:46:26,000
+going to be doing load balancing say
+
+835
+00:46:26,000 --> 00:46:31,359
+between like UK and Ohio or UK and Iowa
+
+836
+00:46:31,359 --> 00:46:32,720
+or something like that it'll be
+
+837
+00:46:32,720 --> 00:46:36,880
+something really cool. Um so if we don't
+
+838
+00:46:36,880 --> 00:46:40,480
+get this part done right now correctly
+
+839
+00:46:40,480 --> 00:46:42,160
+if you get confused with that other part
+
+840
+00:46:42,160 --> 00:46:43,760
+and then you have confusion with
+
+841
+00:46:43,760 --> 00:46:46,960
+instance template and that oh yeah yeah
+
+842
+00:46:46,960 --> 00:46:48,480
+you're dead. You won't you won't be able
+
+843
+00:46:48,480 --> 00:46:50,400
+to function. So, I'm making sure that
+
+844
+00:46:50,400 --> 00:46:52,319
+this is good in your brains first, then
+
+845
+00:46:52,319 --> 00:46:54,960
+we can go to the next part.
+
+846
+00:46:54,960 --> 00:46:56,880
+Um,
+
+847
+00:46:56,880 --> 00:47:00,720
+part of curriculum. So, don't sleep. Uh,
+
+848
+00:47:00,720 --> 00:47:02,800
+Christopher, what's up?
+
+849
+00:47:02,800 --> 00:47:06,160
+>> Hello, sir. Yesterday, uh, I followed
+
+850
+00:47:06,160 --> 00:47:08,880
+the instructions to a tea and my health
+
+851
+00:47:08,880 --> 00:47:11,440
+check didn't turn out well, but today I
+
+852
+00:47:11,440 --> 00:47:13,839
+followed the same thing and everything's
+
+853
+00:47:13,839 --> 00:47:17,599
+working. Um, I wanted to know what could
+
+854
+00:47:17,599 --> 00:47:19,520
+have been some of my area or something.
+
+855
+00:47:19,520 --> 00:47:21,599
+>> Some sometimes,
+
+856
+00:47:21,599 --> 00:47:24,000
+you know, you got prostate cancer.
+
+857
+00:47:24,000 --> 00:47:26,319
+Sometimes you got a happy pea park. You
+
+858
+00:47:26,319 --> 00:47:28,079
+know what I mean?
+
+859
+00:47:28,079 --> 00:47:28,560
+>> Okay.
+
+860
+00:47:28,560 --> 00:47:30,240
+>> You don't know what you got. I mean, it
+
+861
+00:47:30,240 --> 00:47:33,520
+could be one or the other. Uh, got to be
+
+862
+00:47:33,520 --> 00:47:35,040
+like, "All right.
+
+863
+00:47:35,040 --> 00:47:36,480
+>> All right.
+
+864
+00:47:36,480 --> 00:47:38,400
+>> Just play around with your health checks
+
+865
+00:47:38,400 --> 00:47:40,319
+and you'll be fine." Okay.
+
+866
+00:47:40,319 --> 00:47:42,880
+>> All right. Thank you.
+
+867
+00:47:42,880 --> 00:47:45,839
+>> What have I GOT OUT THERE?
+
+868
+00:47:46,400 --> 00:47:51,160
+I GOT PROSTATE CANCER. OH, SOLVE IT.
+
+869
+00:47:51,520 --> 00:47:55,800
+Every single blob must be impregnated.
+
+870
+00:47:56,400 --> 00:47:59,680
+Okay. I'm nuts. I'm having so much fun.
+
+871
+00:47:59,680 --> 00:48:04,680
+Anyway, okay. Who hasn't done this?
+
+872
+00:48:07,440 --> 00:48:09,359
+Who hasn't done it? Who didn't do manage
+
+873
+00:48:09,359 --> 00:48:11,920
+instance groups?
+
+874
+00:48:11,920 --> 00:48:14,720
+you all did it cuz if y'all if you
+
+875
+00:48:14,720 --> 00:48:16,960
+didn't do this that next week you will
+
+876
+00:48:16,960 --> 00:48:19,760
+be hating life. I guarantee you I'm
+
+877
+00:48:19,760 --> 00:48:21,040
+going to come into class and say look
+
+878
+00:48:21,040 --> 00:48:23,280
+Theo like what you just had us do I just
+
+879
+00:48:23,280 --> 00:48:25,599
+want you to know I hate you Theo like
+
+880
+00:48:25,599 --> 00:48:27,119
+that's what's going to be next week cuz
+
+881
+00:48:27,119 --> 00:48:30,720
+when we do front end backendm
+
+882
+00:48:30,720 --> 00:48:32,480
+front end backend is not a fun
+
+883
+00:48:32,480 --> 00:48:36,240
+configuration with GCP. It works well
+
+884
+00:48:36,240 --> 00:48:38,640
+but it's a to do. So I want to
+
+885
+00:48:38,640 --> 00:48:42,800
+make sure you guys got this part done.
+
+886
+00:48:43,440 --> 00:48:47,040
+We all good? All right, that's all you
+
+887
+00:48:47,040 --> 00:48:49,520
+got this week. All right. Um, I'm going
+
+888
+00:48:49,520 --> 00:48:50,559
+to get I'm going to sign you some
+
+889
+00:48:50,559 --> 00:48:52,800
+homework. It's going to be for from
+
+890
+00:48:52,800 --> 00:48:56,079
+Udemi. All right. If you haven't
+
+891
+00:48:56,079 --> 00:48:58,160
+submitted homework, submit homework.
+
+892
+00:48:58,160 --> 00:49:00,800
+Okay.
+
+893
+00:49:00,800 --> 00:49:02,480
+Um, I think you guys are doing well so
+
+894
+00:49:02,480 --> 00:49:04,800
+far. Okay. Talk with your group. If
+
+895
+00:49:04,800 --> 00:49:06,400
+you've got questions, communicate that
+
+896
+00:49:06,400 --> 00:49:08,160
+within your group or go to the main chat
+
+897
+00:49:08,160 --> 00:49:10,960
+and ask what your questions are.
+
+898
+00:49:10,960 --> 00:49:14,720
+Actually, say something. Okay. Yep. Uh,
+
+899
+00:49:14,720 --> 00:49:18,720
+TIQS's group submit
+
+900
+00:49:18,720 --> 00:49:21,599
+or you know what's happening. You know,
+
+901
+00:49:21,599 --> 00:49:24,800
+TIQS has a katana.
+
+902
+00:49:24,800 --> 00:49:26,880
+You know, you can see what's up. You
+
+903
+00:49:26,880 --> 00:49:30,520
+know what's going on.
+
+904
+00:49:35,040 --> 00:49:37,920
+Yeah, Michael. That's what
+
+905
+00:49:37,920 --> 00:49:40,720
+Yeah, Michael. That is how like f I'm
+
+906
+00:49:40,720 --> 00:49:43,119
+pretty sure father your father too is
+
+907
+00:49:43,119 --> 00:49:44,240
+supposed to look like that. Something
+
+908
+00:49:44,240 --> 00:49:46,960
+like that.
+
+909
+00:49:46,960 --> 00:49:50,160
+I was trying to get a Darth Vader um
+
+910
+00:49:50,160 --> 00:49:53,440
+mask to appear in Asi. That was my whole
+
+911
+00:49:53,440 --> 00:49:54,800
+goal.
+
+912
+00:49:54,800 --> 00:49:56,400
+I was trying to do something cool like
+
+913
+00:49:56,400 --> 00:49:58,880
+that. It didn't exactly work, but I mean
+
+914
+00:49:58,880 --> 00:50:02,160
+I I that's what I was trying to do.
+
+915
+00:50:02,160 --> 00:50:05,200
+Okay guys, uh see you next week and good
+
+916
+00:50:05,200 --> 00:50:07,520
+job. I think you guys are doing well.
+
+917
+00:50:07,520 --> 00:50:10,640
+Talk to you later. Johnny,
+
+918
+00:50:10,640 --> 00:50:13,119
+>> don't forget
