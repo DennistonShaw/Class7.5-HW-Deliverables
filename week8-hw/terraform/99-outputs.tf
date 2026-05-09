@@ -26,3 +26,24 @@
 #   # convert set into string delimited by commas before output so its pretty
 #   value = join(", ", data.google_compute_zones.available.names)
 # }
+
+
+output "internal_ip" {
+  value = google_compute_instance.main_vm.network_interface[0].network_ip
+}
+
+output "external_ip" {
+  value = google_compute_instance.main_vm.network_interface[0].access_config[0].nat_ip
+}
+
+output "vm_name" {
+  value = google_compute_instance.main_vm.name
+}
+
+output "vm_id" {
+  value = google_compute_instance.main_vm.id
+}
+
+output "vm_self_link" {
+  value = google_compute_instance.main_vm.self_link
+}

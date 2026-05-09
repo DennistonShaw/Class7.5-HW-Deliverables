@@ -173,6 +173,14 @@ Due to an error: posted the father2.sh link in the script box instead of the scr
 
 ---
 
+#### Outputs and provisioning
+
+![browser success](../screenshots/submissions/11-terraform-browser-success.png)
+
+![terraform outputs](../screenshots/submissions/12-terraform-outputs.png)
+
+---
+
 #### Tear down:
 - terraform destroy
 
